@@ -475,6 +475,7 @@ func GenerateReport(db sq.BaseRunner, currentYear, currentMonth int, baseDir str
 
 	svgStart := time.Now()
 	for _, ym := range allMonths {
+		monthStart := time.Now()
 		monthStr := fmt.Sprintf("%d%02d", ym.year, ym.month)
 		monthsForHTML = append(monthsForHTML, monthForHTML{
 			Year:  ym.year,
@@ -624,6 +625,8 @@ func GenerateReport(db sq.BaseRunner, currentYear, currentMonth int, baseDir str
 		if err := writeFile(filepath.Join(svgDir, fmt.Sprintf("%s-total-executors.csv", monthStr)), execCSV); err != nil {
 			return err
 		}
+
+		fmt.Printf("%d/%d svg time: %s\n", ym.month, ym.year, time.Since(monthStart))
 	}
 
 	totalJenkinsSVG, totalJenkinsCSV, err := CreateBarSVG("Total Jenkins installations", installCountByMonth, 100, false, DefaultFilter)
