@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Plugin and Core Version Matrix for the jsoup Plugin</title>
+        <link rel="stylesheet" type="text/css" href="pluginversions.css" />
+        <script
+          src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+          integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="pluginversions.js"></script>
+        <script type="text/javascript">
+$(document).ready(function() {
+    var versionData = {"1.6.3":{"2.32.2":1},"1.10.3":{"2.138.1":1,"2.138.2":1,"2.164.3":1,"2.172":1,"2.176.1":1,"2.176.2":1,"2.176.3":1,"2.190.1":4,"2.204":1,"2.222.1":1,"2.235.1":1,"2.235.5":2,"2.249.1":2,"2.249.3":1,"2.255":1,"2.257":1,"2.263.3":2,"2.263.4":4,"2.270":1,"2.277.1":1,"2.283":1,"2.289.1":1,"2.289.3":3,"2.301":1,"2.303.1":4,"2.303.2":4,"2.307":1,"2.312":1,"2.317":2,"2.318":1,"2.46.3":1}};
+
+    parseData(versionData, "jsoup");
+});
+        </script>
+    </head>
+    <body>
+        <table id="versionsContainer"></table>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Plugin and Core Version Matrix for the ApicaLoadtest Plugin</title>
+        <link rel="stylesheet" type="text/css" href="pluginversions.css" />
+        <script
+          src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+          integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="pluginversions.js"></script>
+        <script type="text/javascript">
+$(document).ready(function() {
+    var versionData = {"1.4":{"2.176.2":1},"1.10":{"1.651.2":1,"2.222.3":1,"2.241":1,"2.263.1":1,"2.277.4":1,"2.281":1,"2.283":1,"2.289.1":1,"2.303.1":2,"2.315":2,"2.316":3,"2.317":1}};
+
+    parseData(versionData, "ApicaLoadtest");
+});
+        </script>
+    </head>
+    <body>
+        <table id="versionsContainer"></table>
+    </body>
+</html>
