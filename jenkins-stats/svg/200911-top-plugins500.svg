@@ -24,9 +24,9 @@
   <rect fill="blue" height="6.2" stroke="black" width="12" x="180" y="181.7"/>
   <text x="180" y="192.8" font-family="Tahoma" font-size="12" transform="rotate(90 180,192.8)" text-rendering="optimizeSpeed" fill="#000000">sidebar-link (615)</text>
   <rect fill="blue" height="6.3" stroke="black" width="12" x="195" y="181.5"/>
-  <text x="195" y="192.8" font-family="Tahoma" font-size="12" transform="rotate(90 195,192.8)" text-rendering="optimizeSpeed" fill="#000000">plot (630)</text>
+  <text x="195" y="192.8" font-family="Tahoma" font-size="12" transform="rotate(90 195,192.8)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (630)</text>
   <rect fill="blue" height="6.3" stroke="black" width="12" x="210" y="181.5"/>
-  <text x="210" y="192.8" font-family="Tahoma" font-size="12" transform="rotate(90 210,192.8)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (630)</text>
+  <text x="210" y="192.8" font-family="Tahoma" font-size="12" transform="rotate(90 210,192.8)" text-rendering="optimizeSpeed" fill="#000000">plot (630)</text>
   <rect fill="blue" height="6.4" stroke="black" width="12" x="225" y="181.4"/>
   <text x="225" y="192.8" font-family="Tahoma" font-size="12" transform="rotate(90 225,192.8)" text-rendering="optimizeSpeed" fill="#000000">clearcase (640)</text>
   <rect fill="blue" height="6.5" stroke="black" width="12" x="240" y="181.3"/>

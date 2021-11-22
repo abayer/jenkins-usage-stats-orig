@@ -60,9 +60,9 @@
   <rect fill="blue" height="7.6" stroke="black" width="12" x="450" y="284.5"/>
   <text x="450" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 450,297.2)" text-rendering="optimizeSpeed" fill="#000000">view-job-filters (764)</text>
   <rect fill="blue" height="7.7" stroke="black" width="12" x="465" y="284.5"/>
-  <text x="465" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 465,297.2)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (767)</text>
+  <text x="465" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 465,297.2)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (767)</text>
   <rect fill="blue" height="7.7" stroke="black" width="12" x="480" y="284.5"/>
-  <text x="480" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 480,297.2)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (767)</text>
+  <text x="480" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 480,297.2)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (767)</text>
   <rect fill="blue" height="7.8" stroke="black" width="12" x="495" y="284.4"/>
   <text x="495" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 495,297.2)" text-rendering="optimizeSpeed" fill="#000000">hudsontrayapp (782)</text>
   <rect fill="blue" height="7.9" stroke="black" width="12" x="510" y="284.3"/>
@@ -90,9 +90,9 @@
   <rect fill="blue" height="8.9" stroke="black" width="12" x="675" y="283.3"/>
   <text x="675" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 675,297.2)" text-rendering="optimizeSpeed" fill="#000000">iphoneview (891)</text>
   <rect fill="blue" height="9.0" stroke="black" width="12" x="690" y="283.2"/>
-  <text x="690" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 690,297.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (898)</text>
+  <text x="690" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 690,297.2)" text-rendering="optimizeSpeed" fill="#000000">description-setter (898)</text>
   <rect fill="blue" height="9.0" stroke="black" width="12" x="705" y="283.2"/>
-  <text x="705" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 705,297.2)" text-rendering="optimizeSpeed" fill="#000000">description-setter (898)</text>
+  <text x="705" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 705,297.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (898)</text>
   <rect fill="blue" height="9.0" stroke="black" width="12" x="720" y="283.1"/>
   <text x="720" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 720,297.2)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (904)</text>
   <rect fill="blue" height="9.1" stroke="black" width="12" x="735" y="283.1"/>
@@ -194,9 +194,9 @@
   <rect fill="blue" height="21.1" stroke="black" width="12" x="1455" y="271.0"/>
   <text x="1455" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 1455,297.2)" text-rendering="optimizeSpeed" fill="#000000">instant-messaging (2113)</text>
   <rect fill="blue" height="21.5" stroke="black" width="12" x="1470" y="270.7"/>
-  <text x="1470" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 1470,297.2)" text-rendering="optimizeSpeed" fill="#000000">setenv (2146)</text>
+  <text x="1470" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 1470,297.2)" text-rendering="optimizeSpeed" fill="#000000">postbuild-task (2146)</text>
   <rect fill="blue" height="21.5" stroke="black" width="12" x="1485" y="270.7"/>
-  <text x="1485" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 1485,297.2)" text-rendering="optimizeSpeed" fill="#000000">postbuild-task (2146)</text>
+  <text x="1485" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 1485,297.2)" text-rendering="optimizeSpeed" fill="#000000">setenv (2146)</text>
   <rect fill="blue" height="23.8" stroke="black" width="12" x="1500" y="268.3"/>
   <text x="1500" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 1500,297.2)" text-rendering="optimizeSpeed" fill="#000000">build-timeout (2384)</text>
   <rect fill="blue" height="24.0" stroke="black" width="12" x="1515" y="268.2"/>

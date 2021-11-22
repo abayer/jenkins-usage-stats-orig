@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1985 371.4">
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="71.4"/>
-  <text x="15" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,76.4)" text-rendering="optimizeSpeed" fill="#000000">jdepend (1)</text>
+  <text x="15" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,76.4)" text-rendering="optimizeSpeed" fill="#000000">gnat (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="71.4"/>
-  <text x="30" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 30,76.4)" text-rendering="optimizeSpeed" fill="#000000">selenium (1)</text>
+  <text x="30" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 30,76.4)" text-rendering="optimizeSpeed" fill="#000000">jdepend (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="71.4"/>
-  <text x="45" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,76.4)" text-rendering="optimizeSpeed" fill="#000000">gnat (1)</text>
+  <text x="45" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,76.4)" text-rendering="optimizeSpeed" fill="#000000">scons (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="71.4"/>
-  <text x="60" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,76.4)" text-rendering="optimizeSpeed" fill="#000000">scons (1)</text>
+  <text x="60" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,76.4)" text-rendering="optimizeSpeed" fill="#000000">selenium (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="71.4"/>
   <text x="75" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 75,76.4)" text-rendering="optimizeSpeed" fill="#000000">svnpublisher (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="71.4"/>
@@ -14,9 +14,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="105" y="71.4"/>
   <text x="105" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 105,76.4)" text-rendering="optimizeSpeed" fill="#000000">Schmant (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="120" y="71.4"/>
-  <text x="120" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 120,76.4)" text-rendering="optimizeSpeed" fill="#000000">easyant (2)</text>
+  <text x="120" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 120,76.4)" text-rendering="optimizeSpeed" fill="#000000">cccc (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="135" y="71.4"/>
-  <text x="135" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 135,76.4)" text-rendering="optimizeSpeed" fill="#000000">cccc (2)</text>
+  <text x="135" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 135,76.4)" text-rendering="optimizeSpeed" fill="#000000">easyant (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="150" y="71.4"/>
   <text x="150" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 150,76.4)" text-rendering="optimizeSpeed" fill="#000000">tuxdroid (3)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="165" y="71.3"/>
@@ -24,9 +24,9 @@
   <rect fill="blue" height="0.1" stroke="black" width="12" x="180" y="71.3"/>
   <text x="180" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 180,76.4)" text-rendering="optimizeSpeed" fill="#000000">harvest (5)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="195" y="71.3"/>
-  <text x="195" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,76.4)" text-rendering="optimizeSpeed" fill="#000000">fitnesse (6)</text>
+  <text x="195" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,76.4)" text-rendering="optimizeSpeed" fill="#000000">SCTMExecutor (6)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="210" y="71.3"/>
-  <text x="210" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,76.4)" text-rendering="optimizeSpeed" fill="#000000">SCTMExecutor (6)</text>
+  <text x="210" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,76.4)" text-rendering="optimizeSpeed" fill="#000000">fitnesse (6)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="225" y="71.3"/>
   <text x="225" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 225,76.4)" text-rendering="optimizeSpeed" fill="#000000">kundo (6)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="240" y="71.3"/>
@@ -34,9 +34,9 @@
   <rect fill="blue" height="0.1" stroke="black" width="12" x="255" y="71.3"/>
   <text x="255" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 255,76.4)" text-rendering="optimizeSpeed" fill="#000000">kagemai (10)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="270" y="71.3"/>
-  <text x="270" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 270,76.4)" text-rendering="optimizeSpeed" fill="#000000">hadoop (12)</text>
+  <text x="270" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 270,76.4)" text-rendering="optimizeSpeed" fill="#000000">bitkeeper (12)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="285" y="71.3"/>
-  <text x="285" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 285,76.4)" text-rendering="optimizeSpeed" fill="#000000">bitkeeper (12)</text>
+  <text x="285" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 285,76.4)" text-rendering="optimizeSpeed" fill="#000000">hadoop (12)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="300" y="71.3"/>
   <text x="300" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 300,76.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-wsclean-plugin (13)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="315" y="71.3"/>
@@ -52,9 +52,9 @@
   <rect fill="blue" height="0.3" stroke="black" width="12" x="390" y="71.1"/>
   <text x="390" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 390,76.4)" text-rendering="optimizeSpeed" fill="#000000">javanet-uploader (27)</text>
   <rect fill="blue" height="0.3" stroke="black" width="12" x="405" y="71.1"/>
-  <text x="405" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 405,76.4)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (33)</text>
+  <text x="405" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 405,76.4)" text-rendering="optimizeSpeed" fill="#000000">nabaztag (33)</text>
   <rect fill="blue" height="0.3" stroke="black" width="12" x="420" y="71.1"/>
-  <text x="420" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 420,76.4)" text-rendering="optimizeSpeed" fill="#000000">nabaztag (33)</text>
+  <text x="420" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 420,76.4)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (33)</text>
   <rect fill="blue" height="0.3" stroke="black" width="12" x="435" y="71.1"/>
   <text x="435" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 435,76.4)" text-rendering="optimizeSpeed" fill="#000000">starteam (34)</text>
   <rect fill="blue" height="0.4" stroke="black" width="12" x="450" y="71.0"/>
@@ -92,9 +92,9 @@
   <rect fill="blue" height="1.1" stroke="black" width="12" x="690" y="70.3"/>
   <text x="690" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 690,76.4)" text-rendering="optimizeSpeed" fill="#000000">regexemail (114)</text>
   <rect fill="blue" height="1.2" stroke="black" width="12" x="705" y="70.2"/>
-  <text x="705" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 705,76.4)" text-rendering="optimizeSpeed" fill="#000000">webtestpresenter (118)</text>
+  <text x="705" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 705,76.4)" text-rendering="optimizeSpeed" fill="#000000">naginator (118)</text>
   <rect fill="blue" height="1.2" stroke="black" width="12" x="720" y="70.2"/>
-  <text x="720" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 720,76.4)" text-rendering="optimizeSpeed" fill="#000000">naginator (118)</text>
+  <text x="720" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 720,76.4)" text-rendering="optimizeSpeed" fill="#000000">webtestpresenter (118)</text>
   <rect fill="blue" height="1.2" stroke="black" width="12" x="735" y="70.2"/>
   <text x="735" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 735,76.4)" text-rendering="optimizeSpeed" fill="#000000">zentimestamp (120)</text>
   <rect fill="blue" height="1.2" stroke="black" width="12" x="750" y="70.2"/>
@@ -106,9 +106,9 @@
   <rect fill="blue" height="1.4" stroke="black" width="12" x="795" y="70.1"/>
   <text x="795" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 795,76.4)" text-rendering="optimizeSpeed" fill="#000000">m2release (135)</text>
   <rect fill="blue" height="1.4" stroke="black" width="12" x="810" y="70.0"/>
-  <text x="810" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 810,76.4)" text-rendering="optimizeSpeed" fill="#000000">redmine (136)</text>
+  <text x="810" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 810,76.4)" text-rendering="optimizeSpeed" fill="#000000">changelog-history (136)</text>
   <rect fill="blue" height="1.4" stroke="black" width="12" x="825" y="70.0"/>
-  <text x="825" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 825,76.4)" text-rendering="optimizeSpeed" fill="#000000">changelog-history (136)</text>
+  <text x="825" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 825,76.4)" text-rendering="optimizeSpeed" fill="#000000">redmine (136)</text>
   <rect fill="blue" height="1.4" stroke="black" width="12" x="840" y="70.0"/>
   <text x="840" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 840,76.4)" text-rendering="optimizeSpeed" fill="#000000">grails (139)</text>
   <rect fill="blue" height="1.4" stroke="black" width="12" x="855" y="70.0"/>
@@ -142,9 +142,9 @@
   <rect fill="blue" height="1.9" stroke="black" width="12" x="1065" y="69.5"/>
   <text x="1065" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 1065,76.4)" text-rendering="optimizeSpeed" fill="#000000">URLSCM (187)</text>
   <rect fill="blue" height="1.9" stroke="black" width="12" x="1080" y="69.5"/>
-  <text x="1080" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 1080,76.4)" text-rendering="optimizeSpeed" fill="#000000">doxygen (194)</text>
+  <text x="1080" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 1080,76.4)" text-rendering="optimizeSpeed" fill="#000000">cvs-tag (194)</text>
   <rect fill="blue" height="1.9" stroke="black" width="12" x="1095" y="69.5"/>
-  <text x="1095" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 1095,76.4)" text-rendering="optimizeSpeed" fill="#000000">cvs-tag (194)</text>
+  <text x="1095" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 1095,76.4)" text-rendering="optimizeSpeed" fill="#000000">doxygen (194)</text>
   <rect fill="blue" height="2.0" stroke="black" width="12" x="1110" y="69.4"/>
   <text x="1110" y="76.4" font-family="Tahoma" font-size="12" transform="rotate(90 1110,76.4)" text-rendering="optimizeSpeed" fill="#000000">gcal (200)</text>
   <rect fill="blue" height="2.0" stroke="black" width="12" x="1125" y="69.4"/>

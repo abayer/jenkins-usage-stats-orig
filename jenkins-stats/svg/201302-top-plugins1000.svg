@@ -40,9 +40,9 @@
   <rect fill="blue" height="11.4" stroke="black" width="12" x="300" y="591.0"/>
   <text x="300" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 300,607.4)" text-rendering="optimizeSpeed" fill="#000000">xfpanel (1139)</text>
   <rect fill="blue" height="11.5" stroke="black" width="12" x="315" y="590.9"/>
-  <text x="315" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 315,607.4)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (1147)</text>
+  <text x="315" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 315,607.4)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (1147)</text>
   <rect fill="blue" height="11.5" stroke="black" width="12" x="330" y="590.9"/>
-  <text x="330" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 330,607.4)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (1147)</text>
+  <text x="330" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 330,607.4)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (1147)</text>
   <rect fill="blue" height="11.5" stroke="black" width="12" x="345" y="590.9"/>
   <text x="345" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 345,607.4)" text-rendering="optimizeSpeed" fill="#000000">svnpublisher (1154)</text>
   <rect fill="blue" height="11.9" stroke="black" width="12" x="360" y="590.5"/>
@@ -68,9 +68,9 @@
   <rect fill="blue" height="13.3" stroke="black" width="12" x="510" y="589.1"/>
   <text x="510" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 510,607.4)" text-rendering="optimizeSpeed" fill="#000000">build-flow-plugin (1333)</text>
   <rect fill="blue" height="13.4" stroke="black" width="12" x="525" y="589.0"/>
-  <text x="525" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 525,607.4)" text-rendering="optimizeSpeed" fill="#000000">envfile (1341)</text>
+  <text x="525" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 525,607.4)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1341)</text>
   <rect fill="blue" height="13.4" stroke="black" width="12" x="540" y="589.0"/>
-  <text x="540" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 540,607.4)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1341)</text>
+  <text x="540" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 540,607.4)" text-rendering="optimizeSpeed" fill="#000000">envfile (1341)</text>
   <rect fill="blue" height="13.4" stroke="black" width="12" x="555" y="589.0"/>
   <text x="555" y="607.4" font-family="Tahoma" font-size="12" transform="rotate(90 555,607.4)" text-rendering="optimizeSpeed" fill="#000000">notification (1342)</text>
   <rect fill="blue" height="13.4" stroke="black" width="12" x="570" y="589.0"/>

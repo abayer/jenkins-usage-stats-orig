@@ -30,9 +30,9 @@
   <rect fill="blue" height="27.5" stroke="black" width="12" x="225" y="1359.1"/>
   <text x="225" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 225,1391.5)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (2746)</text>
   <rect fill="blue" height="27.7" stroke="black" width="12" x="240" y="1358.9"/>
-  <text x="240" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 240,1391.5)" text-rendering="optimizeSpeed" fill="#000000">blueocean-jwt (2767)</text>
+  <text x="240" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 240,1391.5)" text-rendering="optimizeSpeed" fill="#000000">blueocean-events (2767)</text>
   <rect fill="blue" height="27.7" stroke="black" width="12" x="255" y="1358.9"/>
-  <text x="255" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 255,1391.5)" text-rendering="optimizeSpeed" fill="#000000">blueocean-events (2767)</text>
+  <text x="255" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 255,1391.5)" text-rendering="optimizeSpeed" fill="#000000">blueocean-jwt (2767)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="270" y="1358.7"/>
   <text x="270" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 270,1391.5)" text-rendering="optimizeSpeed" fill="#000000">rake (2780)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="285" y="1358.7"/>
@@ -142,9 +142,9 @@
   <rect fill="blue" height="38.1" stroke="black" width="12" x="1065" y="1348.5"/>
   <text x="1065" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 1065,1391.5)" text-rendering="optimizeSpeed" fill="#000000">ansible (3806)</text>
   <rect fill="blue" height="38.6" stroke="black" width="12" x="1080" y="1347.9"/>
-  <text x="1080" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 1080,1391.5)" text-rendering="optimizeSpeed" fill="#000000">http_request (3861)</text>
+  <text x="1080" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 1080,1391.5)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (3861)</text>
   <rect fill="blue" height="38.6" stroke="black" width="12" x="1095" y="1347.9"/>
-  <text x="1095" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 1095,1391.5)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (3861)</text>
+  <text x="1095" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 1095,1391.5)" text-rendering="optimizeSpeed" fill="#000000">http_request (3861)</text>
   <rect fill="blue" height="38.7" stroke="black" width="12" x="1110" y="1347.8"/>
   <text x="1110" y="1391.5" font-family="Tahoma" font-size="12" transform="rotate(90 1110,1391.5)" text-rendering="optimizeSpeed" fill="#000000">discard-old-build (3872)</text>
   <rect fill="blue" height="38.9" stroke="black" width="12" x="1125" y="1347.6"/>

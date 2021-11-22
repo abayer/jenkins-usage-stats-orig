@@ -2,11 +2,11 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="5629.6"/>
   <text x="15" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 15,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-performance_receiver-PerformanceProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="5629.6"/>
-  <text x="30" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 30,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MonitoringJobsProject (2)</text>
+  <text x="30" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 30,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-AutomationTesting-AutomationTestingProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="5629.6"/>
-  <text x="45" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 45,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreparationDailyProject (2)</text>
+  <text x="45" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 45,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MonitoringJobsProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="5629.6"/>
-  <text x="60" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 60,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-AutomationTesting-AutomationTestingProject (2)</text>
+  <text x="60" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 60,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreparationDailyProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="5629.6"/>
   <text x="75" y="5634.6" font-family="Tahoma" font-size="12" transform="rotate(90 75,5634.6)" text-rendering="optimizeSpeed" fill="#000000">org-jvnet-hudson-test-MockFolder (4)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="5629.6"/>

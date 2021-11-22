@@ -138,9 +138,9 @@
   <rect fill="blue" height="38.2" stroke="black" width="12" x="1035" y="1641.0"/>
   <text x="1035" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1035,1684.2)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (3819)</text>
   <rect fill="blue" height="38.3" stroke="black" width="12" x="1050" y="1640.8"/>
-  <text x="1050" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1050,1684.2)" text-rendering="optimizeSpeed" fill="#000000">multi-branch-project-plugin (3831)</text>
+  <text x="1050" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1050,1684.2)" text-rendering="optimizeSpeed" fill="#000000">job-restrictions (3831)</text>
   <rect fill="blue" height="38.3" stroke="black" width="12" x="1065" y="1640.8"/>
-  <text x="1065" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1065,1684.2)" text-rendering="optimizeSpeed" fill="#000000">job-restrictions (3831)</text>
+  <text x="1065" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1065,1684.2)" text-rendering="optimizeSpeed" fill="#000000">multi-branch-project-plugin (3831)</text>
   <rect fill="blue" height="39.1" stroke="black" width="12" x="1080" y="1640.0"/>
   <text x="1080" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1080,1684.2)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (3915)</text>
   <rect fill="blue" height="39.2" stroke="black" width="12" x="1095" y="1640.0"/>
@@ -152,9 +152,9 @@
   <rect fill="blue" height="40.0" stroke="black" width="12" x="1140" y="1639.2"/>
   <text x="1140" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1140,1684.2)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (3995)</text>
   <rect fill="blue" height="40.0" stroke="black" width="12" x="1155" y="1639.1"/>
-  <text x="1155" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1155,1684.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4003)</text>
+  <text x="1155" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1155,1684.2)" text-rendering="optimizeSpeed" fill="#000000">authorize-project (4003)</text>
   <rect fill="blue" height="40.0" stroke="black" width="12" x="1170" y="1639.1"/>
-  <text x="1170" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1170,1684.2)" text-rendering="optimizeSpeed" fill="#000000">authorize-project (4003)</text>
+  <text x="1170" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1170,1684.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4003)</text>
   <rect fill="blue" height="40.7" stroke="black" width="12" x="1185" y="1638.4"/>
   <text x="1185" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1185,1684.2)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (4072)</text>
   <rect fill="blue" height="40.8" stroke="black" width="12" x="1200" y="1638.3"/>
@@ -204,9 +204,9 @@
   <rect fill="blue" height="51.5" stroke="black" width="12" x="1530" y="1627.7"/>
   <text x="1530" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1684.2)" text-rendering="optimizeSpeed" fill="#000000">hipchat (5146)</text>
   <rect fill="blue" height="52.1" stroke="black" width="12" x="1545" y="1627.1"/>
-  <text x="1545" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1684.2)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (5211)</text>
+  <text x="1545" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1684.2)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (5211)</text>
   <rect fill="blue" height="52.1" stroke="black" width="12" x="1560" y="1627.1"/>
-  <text x="1560" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1560,1684.2)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (5211)</text>
+  <text x="1560" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1560,1684.2)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (5211)</text>
   <rect fill="blue" height="53.3" stroke="black" width="12" x="1575" y="1625.8"/>
   <text x="1575" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1575,1684.2)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (5332)</text>
   <rect fill="blue" height="53.5" stroke="black" width="12" x="1590" y="1625.6"/>

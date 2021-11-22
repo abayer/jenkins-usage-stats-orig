@@ -16,9 +16,9 @@
   <rect fill="blue" height="26.8" stroke="black" width="12" x="120" y="1496.9"/>
   <text x="120" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 120,1528.7)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (2680)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="135" y="1496.8"/>
-  <text x="135" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 135,1528.7)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2686)</text>
+  <text x="135" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 135,1528.7)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2686)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="150" y="1496.8"/>
-  <text x="150" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 150,1528.7)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2686)</text>
+  <text x="150" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 150,1528.7)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2686)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="165" y="1496.8"/>
   <text x="165" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 165,1528.7)" text-rendering="optimizeSpeed" fill="#000000">batch-task (2688)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="180" y="1496.7"/>

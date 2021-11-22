@@ -148,9 +148,9 @@
   <rect fill="blue" height="35.5" stroke="black" width="12" x="1110" y="2804.5"/>
   <text x="1110" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2845.0)" text-rendering="optimizeSpeed" fill="#000000">clover (3550)</text>
   <rect fill="blue" height="36.0" stroke="black" width="12" x="1125" y="2803.9"/>
-  <text x="1125" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2845.0)" text-rendering="optimizeSpeed" fill="#000000">support-core (3601)</text>
+  <text x="1125" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2845.0)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-disk-usage-simple (3601)</text>
   <rect fill="blue" height="36.0" stroke="black" width="12" x="1140" y="2803.9"/>
-  <text x="1140" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2845.0)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-disk-usage-simple (3601)</text>
+  <text x="1140" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2845.0)" text-rendering="optimizeSpeed" fill="#000000">support-core (3601)</text>
   <rect fill="blue" height="36.1" stroke="black" width="12" x="1155" y="2803.9"/>
   <text x="1155" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 1155,2845.0)" text-rendering="optimizeSpeed" fill="#000000">emma (3610)</text>
   <rect fill="blue" height="36.2" stroke="black" width="12" x="1170" y="2803.8"/>
@@ -362,9 +362,9 @@
   <rect fill="blue" height="75.0" stroke="black" width="12" x="2715" y="2765.0"/>
   <text x="2715" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 2715,2845.0)" text-rendering="optimizeSpeed" fill="#000000">basic-branch-build-strategies (7500)</text>
   <rect fill="blue" height="75.9" stroke="black" width="12" x="2730" y="2764.1"/>
-  <text x="2730" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 2730,2845.0)" text-rendering="optimizeSpeed" fill="#000000">mstest (7589)</text>
+  <text x="2730" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 2730,2845.0)" text-rendering="optimizeSpeed" fill="#000000">gitlab-merge-request-jenkins (7589)</text>
   <rect fill="blue" height="75.9" stroke="black" width="12" x="2745" y="2764.1"/>
-  <text x="2745" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 2745,2845.0)" text-rendering="optimizeSpeed" fill="#000000">gitlab-merge-request-jenkins (7589)</text>
+  <text x="2745" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 2745,2845.0)" text-rendering="optimizeSpeed" fill="#000000">mstest (7589)</text>
   <rect fill="blue" height="77.0" stroke="black" width="12" x="2760" y="2763.0"/>
   <text x="2760" y="2845.0" font-family="Tahoma" font-size="12" transform="rotate(90 2760,2845.0)" text-rendering="optimizeSpeed" fill="#000000">extra-columns (7696)</text>
   <rect fill="blue" height="77.7" stroke="black" width="12" x="2775" y="2762.3"/>

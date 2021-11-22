@@ -30,9 +30,9 @@
   <rect fill="blue" height="11.4" stroke="black" width="12" x="225" y="1058.2"/>
   <text x="225" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 225,1074.5)" text-rendering="optimizeSpeed" fill="#000000">maven-repo-cleaner (1137)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="240" y="1058.2"/>
-  <text x="240" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 240,1074.5)" text-rendering="optimizeSpeed" fill="#000000">plain-credentials (1138)</text>
+  <text x="240" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 240,1074.5)" text-rendering="optimizeSpeed" fill="#000000">custom-job-icon (1138)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="255" y="1058.2"/>
-  <text x="255" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 255,1074.5)" text-rendering="optimizeSpeed" fill="#000000">custom-job-icon (1138)</text>
+  <text x="255" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 255,1074.5)" text-rendering="optimizeSpeed" fill="#000000">plain-credentials (1138)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="270" y="1058.1"/>
   <text x="270" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 270,1074.5)" text-rendering="optimizeSpeed" fill="#000000">xfpanel (1144)</text>
   <rect fill="blue" height="11.8" stroke="black" width="12" x="285" y="1057.8"/>
@@ -208,9 +208,9 @@
   <rect fill="blue" height="21.7" stroke="black" width="12" x="1560" y="1047.9"/>
   <text x="1560" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1560,1074.5)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (2168)</text>
   <rect fill="blue" height="21.9" stroke="black" width="12" x="1575" y="1047.7"/>
-  <text x="1575" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1575,1074.5)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (2185)</text>
+  <text x="1575" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1575,1074.5)" text-rendering="optimizeSpeed" fill="#000000">build-failure-analyzer (2185)</text>
   <rect fill="blue" height="21.9" stroke="black" width="12" x="1590" y="1047.7"/>
-  <text x="1590" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1590,1074.5)" text-rendering="optimizeSpeed" fill="#000000">build-failure-analyzer (2185)</text>
+  <text x="1590" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1590,1074.5)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (2185)</text>
   <rect fill="blue" height="22.2" stroke="black" width="12" x="1605" y="1047.4"/>
   <text x="1605" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1605,1074.5)" text-rendering="optimizeSpeed" fill="#000000">redmine (2218)</text>
   <rect fill="blue" height="22.2" stroke="black" width="12" x="1620" y="1047.3"/>
@@ -270,9 +270,9 @@
   <rect fill="blue" height="27.4" stroke="black" width="12" x="2025" y="1042.1"/>
   <text x="2025" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 2025,1074.5)" text-rendering="optimizeSpeed" fill="#000000">gravatar (2743)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="2040" y="1042.0"/>
-  <text x="2040" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 2040,1074.5)" text-rendering="optimizeSpeed" fill="#000000">show-build-parameters (2756)</text>
+  <text x="2040" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 2040,1074.5)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2756)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="2055" y="1042.0"/>
-  <text x="2055" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 2055,1074.5)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2756)</text>
+  <text x="2055" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 2055,1074.5)" text-rendering="optimizeSpeed" fill="#000000">show-build-parameters (2756)</text>
   <rect fill="blue" height="28.1" stroke="black" width="12" x="2070" y="1041.4"/>
   <text x="2070" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 2070,1074.5)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (2811)</text>
   <rect fill="blue" height="28.3" stroke="black" width="12" x="2085" y="1041.2"/>

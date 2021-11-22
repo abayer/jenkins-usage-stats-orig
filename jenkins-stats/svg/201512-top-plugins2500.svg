@@ -56,9 +56,9 @@
   <rect fill="blue" height="29.7" stroke="black" width="12" x="420" y="1284.5"/>
   <text x="420" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 420,1319.3)" text-rendering="optimizeSpeed" fill="#000000">workflow-durable-task-step (2974)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="435" y="1284.4"/>
-  <text x="435" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 435,1319.3)" text-rendering="optimizeSpeed" fill="#000000">credentials-binding (2986)</text>
+  <text x="435" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 435,1319.3)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2986)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="450" y="1284.4"/>
-  <text x="450" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 450,1319.3)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2986)</text>
+  <text x="450" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 450,1319.3)" text-rendering="optimizeSpeed" fill="#000000">credentials-binding (2986)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="465" y="1284.3"/>
   <text x="465" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 465,1319.3)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2995)</text>
   <rect fill="blue" height="30.0" stroke="black" width="12" x="480" y="1284.3"/>
@@ -186,9 +186,9 @@
   <rect fill="blue" height="52.0" stroke="black" width="12" x="1395" y="1262.3"/>
   <text x="1395" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 1395,1319.3)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (5201)</text>
   <rect fill="blue" height="53.1" stroke="black" width="12" x="1410" y="1261.2"/>
-  <text x="1410" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 1410,1319.3)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (5312)</text>
+  <text x="1410" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 1410,1319.3)" text-rendering="optimizeSpeed" fill="#000000">gitlab-plugin (5312)</text>
   <rect fill="blue" height="53.1" stroke="black" width="12" x="1425" y="1261.2"/>
-  <text x="1425" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1319.3)" text-rendering="optimizeSpeed" fill="#000000">gitlab-plugin (5312)</text>
+  <text x="1425" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1319.3)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (5312)</text>
   <rect fill="blue" height="53.5" stroke="black" width="12" x="1440" y="1260.8"/>
   <text x="1440" y="1319.3" font-family="Tahoma" font-size="12" transform="rotate(90 1440,1319.3)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (5352)</text>
   <rect fill="blue" height="53.7" stroke="black" width="12" x="1455" y="1260.5"/>

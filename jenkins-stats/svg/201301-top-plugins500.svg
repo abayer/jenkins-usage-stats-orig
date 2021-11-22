@@ -50,17 +50,17 @@
   <rect fill="blue" height="6.2" stroke="black" width="12" x="375" y="591.3"/>
   <text x="375" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 375,602.6)" text-rendering="optimizeSpeed" fill="#000000">s3 (625)</text>
   <rect fill="blue" height="6.3" stroke="black" width="12" x="390" y="591.3"/>
-  <text x="390" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 390,602.6)" text-rendering="optimizeSpeed" fill="#000000">persona (631)</text>
+  <text x="390" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 390,602.6)" text-rendering="optimizeSpeed" fill="#000000">maven-deployment-linker (631)</text>
   <rect fill="blue" height="6.3" stroke="black" width="12" x="405" y="591.3"/>
-  <text x="405" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 405,602.6)" text-rendering="optimizeSpeed" fill="#000000">maven-deployment-linker (631)</text>
+  <text x="405" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 405,602.6)" text-rendering="optimizeSpeed" fill="#000000">persona (631)</text>
   <rect fill="blue" height="6.3" stroke="black" width="12" x="420" y="591.3"/>
   <text x="420" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 420,602.6)" text-rendering="optimizeSpeed" fill="#000000">ncover (632)</text>
   <rect fill="blue" height="6.4" stroke="black" width="12" x="435" y="591.2"/>
   <text x="435" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 435,602.6)" text-rendering="optimizeSpeed" fill="#000000">openid (636)</text>
   <rect fill="blue" height="6.4" stroke="black" width="12" x="450" y="591.2"/>
-  <text x="450" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 450,602.6)" text-rendering="optimizeSpeed" fill="#000000">status-view (638)</text>
+  <text x="450" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 450,602.6)" text-rendering="optimizeSpeed" fill="#000000">slave-setup (638)</text>
   <rect fill="blue" height="6.4" stroke="black" width="12" x="465" y="591.2"/>
-  <text x="465" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 465,602.6)" text-rendering="optimizeSpeed" fill="#000000">slave-setup (638)</text>
+  <text x="465" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 465,602.6)" text-rendering="optimizeSpeed" fill="#000000">status-view (638)</text>
   <rect fill="blue" height="6.4" stroke="black" width="12" x="480" y="591.2"/>
   <text x="480" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 480,602.6)" text-rendering="optimizeSpeed" fill="#000000">sounds (639)</text>
   <rect fill="blue" height="6.4" stroke="black" width="12" x="495" y="591.2"/>
@@ -74,9 +74,9 @@
   <rect fill="blue" height="6.7" stroke="black" width="12" x="555" y="590.9"/>
   <text x="555" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 555,602.6)" text-rendering="optimizeSpeed" fill="#000000">WebSVN2 (670)</text>
   <rect fill="blue" height="6.8" stroke="black" width="12" x="570" y="590.8"/>
-  <text x="570" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 570,602.6)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (676)</text>
+  <text x="570" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 570,602.6)" text-rendering="optimizeSpeed" fill="#000000">avatar (676)</text>
   <rect fill="blue" height="6.8" stroke="black" width="12" x="585" y="590.8"/>
-  <text x="585" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 585,602.6)" text-rendering="optimizeSpeed" fill="#000000">avatar (676)</text>
+  <text x="585" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 585,602.6)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (676)</text>
   <rect fill="blue" height="6.8" stroke="black" width="12" x="600" y="590.8"/>
   <text x="600" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 600,602.6)" text-rendering="optimizeSpeed" fill="#000000">gcal (683)</text>
   <rect fill="blue" height="6.8" stroke="black" width="12" x="615" y="590.8"/>
@@ -128,9 +128,9 @@
   <rect fill="blue" height="7.6" stroke="black" width="12" x="960" y="590.0"/>
   <text x="960" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 960,602.6)" text-rendering="optimizeSpeed" fill="#000000">jacoco (761)</text>
   <rect fill="blue" height="7.6" stroke="black" width="12" x="975" y="590.0"/>
-  <text x="975" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 975,602.6)" text-rendering="optimizeSpeed" fill="#000000">ssh-credentials (763)</text>
+  <text x="975" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 975,602.6)" text-rendering="optimizeSpeed" fill="#000000">cmakebuilder (763)</text>
   <rect fill="blue" height="7.6" stroke="black" width="12" x="990" y="590.0"/>
-  <text x="990" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 990,602.6)" text-rendering="optimizeSpeed" fill="#000000">cmakebuilder (763)</text>
+  <text x="990" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 990,602.6)" text-rendering="optimizeSpeed" fill="#000000">ssh-credentials (763)</text>
   <rect fill="blue" height="7.7" stroke="black" width="12" x="1005" y="589.9"/>
   <text x="1005" y="602.6" font-family="Tahoma" font-size="12" transform="rotate(90 1005,602.6)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (769)</text>
   <rect fill="blue" height="7.7" stroke="black" width="12" x="1020" y="589.9"/>

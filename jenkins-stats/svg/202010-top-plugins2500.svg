@@ -48,17 +48,17 @@
   <rect fill="blue" height="28.3" stroke="black" width="12" x="360" y="2742.4"/>
   <text x="360" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 360,2775.8)" text-rendering="optimizeSpeed" fill="#000000">console-column-plugin (2832)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="375" y="2742.4"/>
-  <text x="375" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 375,2775.8)" text-rendering="optimizeSpeed" fill="#000000">git-tag-message (2837)</text>
+  <text x="375" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 375,2775.8)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2837)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="390" y="2742.4"/>
-  <text x="390" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 390,2775.8)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2837)</text>
+  <text x="390" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 390,2775.8)" text-rendering="optimizeSpeed" fill="#000000">git-tag-message (2837)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="405" y="2742.3"/>
   <text x="405" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 405,2775.8)" text-rendering="optimizeSpeed" fill="#000000">slack-uploader (2843)</text>
   <rect fill="blue" height="28.6" stroke="black" width="12" x="420" y="2742.2"/>
   <text x="420" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 420,2775.8)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (2857)</text>
   <rect fill="blue" height="28.6" stroke="black" width="12" x="435" y="2742.2"/>
-  <text x="435" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 435,2775.8)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2860)</text>
+  <text x="435" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 435,2775.8)" text-rendering="optimizeSpeed" fill="#000000">nant (2860)</text>
   <rect fill="blue" height="28.6" stroke="black" width="12" x="450" y="2742.2"/>
-  <text x="450" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 450,2775.8)" text-rendering="optimizeSpeed" fill="#000000">nant (2860)</text>
+  <text x="450" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 450,2775.8)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2860)</text>
   <rect fill="blue" height="28.9" stroke="black" width="12" x="465" y="2741.9"/>
   <text x="465" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 465,2775.8)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (2885)</text>
   <rect fill="blue" height="28.9" stroke="black" width="12" x="480" y="2741.9"/>
@@ -92,9 +92,9 @@
   <rect fill="blue" height="31.7" stroke="black" width="12" x="690" y="2739.1"/>
   <text x="690" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 690,2775.8)" text-rendering="optimizeSpeed" fill="#000000">text-finder-run-condition (3169)</text>
   <rect fill="blue" height="31.7" stroke="black" width="12" x="705" y="2739.0"/>
-  <text x="705" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 705,2775.8)" text-rendering="optimizeSpeed" fill="#000000">gatling (3174)</text>
+  <text x="705" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 705,2775.8)" text-rendering="optimizeSpeed" fill="#000000">dependency-track (3174)</text>
   <rect fill="blue" height="31.7" stroke="black" width="12" x="720" y="2739.0"/>
-  <text x="720" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 720,2775.8)" text-rendering="optimizeSpeed" fill="#000000">dependency-track (3174)</text>
+  <text x="720" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 720,2775.8)" text-rendering="optimizeSpeed" fill="#000000">gatling (3174)</text>
   <rect fill="blue" height="31.8" stroke="black" width="12" x="735" y="2739.0"/>
   <text x="735" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 735,2775.8)" text-rendering="optimizeSpeed" fill="#000000">workflow-remote-loader (3178)</text>
   <rect fill="blue" height="32.1" stroke="black" width="12" x="750" y="2738.7"/>
@@ -168,9 +168,9 @@
   <rect fill="blue" height="39.6" stroke="black" width="12" x="1260" y="2731.1"/>
   <text x="1260" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 1260,2775.8)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (3964)</text>
   <rect fill="blue" height="39.9" stroke="black" width="12" x="1275" y="2730.8"/>
-  <text x="1275" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 1275,2775.8)" text-rendering="optimizeSpeed" fill="#000000">support-core (3994)</text>
+  <text x="1275" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 1275,2775.8)" text-rendering="optimizeSpeed" fill="#000000">next-executions (3994)</text>
   <rect fill="blue" height="39.9" stroke="black" width="12" x="1290" y="2730.8"/>
-  <text x="1290" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 1290,2775.8)" text-rendering="optimizeSpeed" fill="#000000">next-executions (3994)</text>
+  <text x="1290" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 1290,2775.8)" text-rendering="optimizeSpeed" fill="#000000">support-core (3994)</text>
   <rect fill="blue" height="40.5" stroke="black" width="12" x="1305" y="2730.2"/>
   <text x="1305" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 1305,2775.8)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (4053)</text>
   <rect fill="blue" height="40.6" stroke="black" width="12" x="1320" y="2730.1"/>
@@ -486,9 +486,9 @@
   <rect fill="blue" height="145.9" stroke="black" width="12" x="3645" y="2624.9"/>
   <text x="3645" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 3645,2775.8)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (14587)</text>
   <rect fill="blue" height="152.8" stroke="black" width="12" x="3660" y="2617.9"/>
-  <text x="3660" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 3660,2775.8)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (15284)</text>
+  <text x="3660" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 3660,2775.8)" text-rendering="optimizeSpeed" fill="#000000">embeddable-build-status (15284)</text>
   <rect fill="blue" height="152.8" stroke="black" width="12" x="3675" y="2617.9"/>
-  <text x="3675" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 3675,2775.8)" text-rendering="optimizeSpeed" fill="#000000">embeddable-build-status (15284)</text>
+  <text x="3675" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 3675,2775.8)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (15284)</text>
   <rect fill="blue" height="154.7" stroke="black" width="12" x="3690" y="2616.1"/>
   <text x="3690" y="2775.8" font-family="Tahoma" font-size="12" transform="rotate(90 3690,2775.8)" text-rendering="optimizeSpeed" fill="#000000">checkstyle (15469)</text>
   <rect fill="blue" height="155.2" stroke="black" width="12" x="3705" y="2615.6"/>

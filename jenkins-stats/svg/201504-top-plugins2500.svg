@@ -104,9 +104,9 @@
   <rect fill="blue" height="40.9" stroke="black" width="12" x="780" y="1108.3"/>
   <text x="780" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 780,1154.2)" text-rendering="optimizeSpeed" fill="#000000">saferestart (4088)</text>
   <rect fill="blue" height="41.5" stroke="black" width="12" x="795" y="1107.7"/>
-  <text x="795" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 795,1154.2)" text-rendering="optimizeSpeed" fill="#000000">svn-tag (4152)</text>
+  <text x="795" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 795,1154.2)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (4152)</text>
   <rect fill="blue" height="41.5" stroke="black" width="12" x="810" y="1107.7"/>
-  <text x="810" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 810,1154.2)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (4152)</text>
+  <text x="810" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 810,1154.2)" text-rendering="optimizeSpeed" fill="#000000">svn-tag (4152)</text>
   <rect fill="blue" height="41.6" stroke="black" width="12" x="825" y="1107.6"/>
   <text x="825" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 825,1154.2)" text-rendering="optimizeSpeed" fill="#000000">nodejs (4157)</text>
   <rect fill="blue" height="42.1" stroke="black" width="12" x="840" y="1107.1"/>

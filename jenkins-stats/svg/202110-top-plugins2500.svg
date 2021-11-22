@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 7205 3205.7">
   <rect fill="blue" height="25.1" stroke="black" width="12" x="15" y="2880.6"/>
-  <text x="15" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,2910.7)" text-rendering="optimizeSpeed" fill="#000000">svncompat14 (2512)</text>
+  <text x="15" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,2910.7)" text-rendering="optimizeSpeed" fill="#000000">influxdb (2512)</text>
   <rect fill="blue" height="25.1" stroke="black" width="12" x="30" y="2880.6"/>
-  <text x="30" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 30,2910.7)" text-rendering="optimizeSpeed" fill="#000000">influxdb (2512)</text>
+  <text x="30" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 30,2910.7)" text-rendering="optimizeSpeed" fill="#000000">svncompat14 (2512)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="45" y="2880.4"/>
   <text x="45" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 45,2910.7)" text-rendering="optimizeSpeed" fill="#000000">violation-comments-to-gitlab (2533)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="60" y="2880.4"/>
@@ -106,9 +106,9 @@
   <rect fill="blue" height="31.7" stroke="black" width="12" x="795" y="2874.0"/>
   <text x="795" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 795,2910.7)" text-rendering="optimizeSpeed" fill="#000000">quality-gates (3170)</text>
   <rect fill="blue" height="31.7" stroke="black" width="12" x="810" y="2874.0"/>
-  <text x="810" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 810,2910.7)" text-rendering="optimizeSpeed" fill="#000000">splunk-devops (3174)</text>
+  <text x="810" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 810,2910.7)" text-rendering="optimizeSpeed" fill="#000000">dark-theme (3174)</text>
   <rect fill="blue" height="31.7" stroke="black" width="12" x="825" y="2874.0"/>
-  <text x="825" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 825,2910.7)" text-rendering="optimizeSpeed" fill="#000000">dark-theme (3174)</text>
+  <text x="825" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 825,2910.7)" text-rendering="optimizeSpeed" fill="#000000">splunk-devops (3174)</text>
   <rect fill="blue" height="32.0" stroke="black" width="12" x="840" y="2873.8"/>
   <text x="840" y="2910.7" font-family="Tahoma" font-size="12" transform="rotate(90 840,2910.7)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (3199)</text>
   <rect fill="blue" height="32.4" stroke="black" width="12" x="855" y="2873.3"/>

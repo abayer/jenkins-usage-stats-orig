@@ -70,9 +70,9 @@
   <rect fill="blue" height="31.4" stroke="black" width="12" x="525" y="1625.0"/>
   <text x="525" y="1661.4" font-family="Tahoma" font-size="12" transform="rotate(90 525,1661.4)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (3140)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="540" y="1624.8"/>
-  <text x="540" y="1661.4" font-family="Tahoma" font-size="12" transform="rotate(90 540,1661.4)" text-rendering="optimizeSpeed" fill="#000000">environment-script (3163)</text>
+  <text x="540" y="1661.4" font-family="Tahoma" font-size="12" transform="rotate(90 540,1661.4)" text-rendering="optimizeSpeed" fill="#000000">clover (3163)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="555" y="1624.8"/>
-  <text x="555" y="1661.4" font-family="Tahoma" font-size="12" transform="rotate(90 555,1661.4)" text-rendering="optimizeSpeed" fill="#000000">clover (3163)</text>
+  <text x="555" y="1661.4" font-family="Tahoma" font-size="12" transform="rotate(90 555,1661.4)" text-rendering="optimizeSpeed" fill="#000000">environment-script (3163)</text>
   <rect fill="blue" height="31.8" stroke="black" width="12" x="570" y="1624.7"/>
   <text x="570" y="1661.4" font-family="Tahoma" font-size="12" transform="rotate(90 570,1661.4)" text-rendering="optimizeSpeed" fill="#000000">global-variable-string-parameter (3177)</text>
   <rect fill="blue" height="31.8" stroke="black" width="12" x="585" y="1624.6"/>

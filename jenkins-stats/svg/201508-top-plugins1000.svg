@@ -122,9 +122,9 @@
   <rect fill="blue" height="14.7" stroke="black" width="12" x="915" y="1216.7"/>
   <text x="915" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 915,1236.4)" text-rendering="optimizeSpeed" fill="#000000">bulk-builder (1472)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="930" y="1216.6"/>
-  <text x="930" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 930,1236.4)" text-rendering="optimizeSpeed" fill="#000000">build-publisher (1479)</text>
+  <text x="930" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 930,1236.4)" text-rendering="optimizeSpeed" fill="#000000">blame-upstream-commiters (1479)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="945" y="1216.6"/>
-  <text x="945" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 945,1236.4)" text-rendering="optimizeSpeed" fill="#000000">blame-upstream-commiters (1479)</text>
+  <text x="945" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 945,1236.4)" text-rendering="optimizeSpeed" fill="#000000">build-publisher (1479)</text>
   <rect fill="blue" height="15.0" stroke="black" width="12" x="960" y="1216.4"/>
   <text x="960" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 960,1236.4)" text-rendering="optimizeSpeed" fill="#000000">rubyMetrics (1501)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="975" y="1216.2"/>
@@ -382,9 +382,9 @@
   <rect fill="blue" height="38.4" stroke="black" width="12" x="2865" y="1193.0"/>
   <text x="2865" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 2865,1236.4)" text-rendering="optimizeSpeed" fill="#000000">gitlab-plugin (3841)</text>
   <rect fill="blue" height="39.0" stroke="black" width="12" x="2880" y="1192.3"/>
-  <text x="2880" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 2880,1236.4)" text-rendering="optimizeSpeed" fill="#000000">versionnumber (3904)</text>
+  <text x="2880" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 2880,1236.4)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (3904)</text>
   <rect fill="blue" height="39.0" stroke="black" width="12" x="2895" y="1192.3"/>
-  <text x="2895" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 2895,1236.4)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (3904)</text>
+  <text x="2895" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 2895,1236.4)" text-rendering="optimizeSpeed" fill="#000000">versionnumber (3904)</text>
   <rect fill="blue" height="39.6" stroke="black" width="12" x="2910" y="1191.8"/>
   <text x="2910" y="1236.4" font-family="Tahoma" font-size="12" transform="rotate(90 2910,1236.4)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (3957)</text>
   <rect fill="blue" height="39.6" stroke="black" width="12" x="2925" y="1191.8"/>

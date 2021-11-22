@@ -44,17 +44,17 @@
   <rect fill="blue" height="11.2" stroke="black" width="12" x="330" y="1337.5"/>
   <text x="330" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 330,1353.7)" text-rendering="optimizeSpeed" fill="#000000">awseb-deployment-plugin (1122)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="345" y="1337.4"/>
-  <text x="345" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 345,1353.7)" text-rendering="optimizeSpeed" fill="#000000">m2-repo-reaper (1131)</text>
+  <text x="345" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 345,1353.7)" text-rendering="optimizeSpeed" fill="#000000">google-play-android-publisher (1131)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="360" y="1337.4"/>
-  <text x="360" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 360,1353.7)" text-rendering="optimizeSpeed" fill="#000000">google-play-android-publisher (1131)</text>
+  <text x="360" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 360,1353.7)" text-rendering="optimizeSpeed" fill="#000000">m2-repo-reaper (1131)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="375" y="1337.4"/>
   <text x="375" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 375,1353.7)" text-rendering="optimizeSpeed" fill="#000000">teamconcert (1134)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="390" y="1337.3"/>
   <text x="390" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 390,1353.7)" text-rendering="optimizeSpeed" fill="#000000">lockable-resources (1138)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="405" y="1337.3"/>
-  <text x="405" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 405,1353.7)" text-rendering="optimizeSpeed" fill="#000000">shared-workspace (1145)</text>
+  <text x="405" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 405,1353.7)" text-rendering="optimizeSpeed" fill="#000000">prereq-buildstep (1145)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="420" y="1337.3"/>
-  <text x="420" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 420,1353.7)" text-rendering="optimizeSpeed" fill="#000000">prereq-buildstep (1145)</text>
+  <text x="420" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 420,1353.7)" text-rendering="optimizeSpeed" fill="#000000">shared-workspace (1145)</text>
   <rect fill="blue" height="11.5" stroke="black" width="12" x="435" y="1337.3"/>
   <text x="435" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 435,1353.7)" text-rendering="optimizeSpeed" fill="#000000">changelog-history (1147)</text>
   <rect fill="blue" height="11.6" stroke="black" width="12" x="450" y="1337.1"/>
@@ -80,9 +80,9 @@
   <rect fill="blue" height="12.2" stroke="black" width="12" x="600" y="1336.5"/>
   <text x="600" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 600,1353.7)" text-rendering="optimizeSpeed" fill="#000000">test-stability (1224)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="615" y="1336.5"/>
-  <text x="615" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 615,1353.7)" text-rendering="optimizeSpeed" fill="#000000">summary_report (1225)</text>
+  <text x="615" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 615,1353.7)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-approve (1225)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="630" y="1336.5"/>
-  <text x="630" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 630,1353.7)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-approve (1225)</text>
+  <text x="630" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 630,1353.7)" text-rendering="optimizeSpeed" fill="#000000">summary_report (1225)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="645" y="1336.4"/>
   <text x="645" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 645,1353.7)" text-rendering="optimizeSpeed" fill="#000000">dropdown-viewstabbar-plugin (1228)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="660" y="1336.3"/>
@@ -120,9 +120,9 @@
   <rect fill="blue" height="13.6" stroke="black" width="12" x="900" y="1335.1"/>
   <text x="900" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 900,1353.7)" text-rendering="optimizeSpeed" fill="#000000">coverity (1361)</text>
   <rect fill="blue" height="13.7" stroke="black" width="12" x="915" y="1335.1"/>
-  <text x="915" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 915,1353.7)" text-rendering="optimizeSpeed" fill="#000000">rubyMetrics (1367)</text>
+  <text x="915" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 915,1353.7)" text-rendering="optimizeSpeed" fill="#000000">build-timestamp (1367)</text>
   <rect fill="blue" height="13.7" stroke="black" width="12" x="930" y="1335.1"/>
-  <text x="930" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 930,1353.7)" text-rendering="optimizeSpeed" fill="#000000">build-timestamp (1367)</text>
+  <text x="930" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 930,1353.7)" text-rendering="optimizeSpeed" fill="#000000">rubyMetrics (1367)</text>
   <rect fill="blue" height="13.7" stroke="black" width="12" x="945" y="1335.0"/>
   <text x="945" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 945,1353.7)" text-rendering="optimizeSpeed" fill="#000000">testlink (1370)</text>
   <rect fill="blue" height="13.7" stroke="black" width="12" x="960" y="1335.0"/>
@@ -130,9 +130,9 @@
   <rect fill="blue" height="13.8" stroke="black" width="12" x="975" y="1335.0"/>
   <text x="975" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 975,1353.7)" text-rendering="optimizeSpeed" fill="#000000">dependency-check-jenkins-plugin (1376)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="990" y="1334.9"/>
-  <text x="990" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 990,1353.7)" text-rendering="optimizeSpeed" fill="#000000">compress-artifacts (1379)</text>
+  <text x="990" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 990,1353.7)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1379)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="1005" y="1334.9"/>
-  <text x="1005" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1353.7)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1379)</text>
+  <text x="1005" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1353.7)" text-rendering="optimizeSpeed" fill="#000000">compress-artifacts (1379)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="1020" y="1334.9"/>
   <text x="1020" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 1020,1353.7)" text-rendering="optimizeSpeed" fill="#000000">modernstatus (1384)</text>
   <rect fill="blue" height="13.9" stroke="black" width="12" x="1035" y="1334.8"/>
@@ -384,9 +384,9 @@
   <rect fill="blue" height="28.9" stroke="black" width="12" x="2880" y="1319.9"/>
   <text x="2880" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 2880,1353.7)" text-rendering="optimizeSpeed" fill="#000000">repository-connector (2886)</text>
   <rect fill="blue" height="28.9" stroke="black" width="12" x="2895" y="1319.8"/>
-  <text x="2895" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 2895,1353.7)" text-rendering="optimizeSpeed" fill="#000000">zentimestamp (2888)</text>
+  <text x="2895" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 2895,1353.7)" text-rendering="optimizeSpeed" fill="#000000">template-project (2888)</text>
   <rect fill="blue" height="28.9" stroke="black" width="12" x="2910" y="1319.8"/>
-  <text x="2910" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 2910,1353.7)" text-rendering="optimizeSpeed" fill="#000000">template-project (2888)</text>
+  <text x="2910" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 2910,1353.7)" text-rendering="optimizeSpeed" fill="#000000">zentimestamp (2888)</text>
   <rect fill="blue" height="29.2" stroke="black" width="12" x="2925" y="1319.5"/>
   <text x="2925" y="1353.7" font-family="Tahoma" font-size="12" transform="rotate(90 2925,1353.7)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2922)</text>
   <rect fill="blue" height="29.3" stroke="black" width="12" x="2940" y="1319.4"/>

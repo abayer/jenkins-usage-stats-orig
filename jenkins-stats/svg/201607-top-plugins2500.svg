@@ -26,9 +26,9 @@
   <rect fill="blue" height="27.0" stroke="black" width="12" x="195" y="1311.4"/>
   <text x="195" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,1343.4)" text-rendering="optimizeSpeed" fill="#000000">swarm (2698)</text>
   <rect fill="blue" height="27.1" stroke="black" width="12" x="210" y="1311.2"/>
-  <text x="210" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,1343.4)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (2714)</text>
+  <text x="210" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,1343.4)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2714)</text>
   <rect fill="blue" height="27.1" stroke="black" width="12" x="225" y="1311.2"/>
-  <text x="225" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 225,1343.4)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2714)</text>
+  <text x="225" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 225,1343.4)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (2714)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="240" y="1311.1"/>
   <text x="240" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 240,1343.4)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2723)</text>
   <rect fill="blue" height="27.5" stroke="black" width="12" x="255" y="1310.9"/>
@@ -52,9 +52,9 @@
   <rect fill="blue" height="29.2" stroke="black" width="12" x="390" y="1309.2"/>
   <text x="390" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 390,1343.4)" text-rendering="optimizeSpeed" fill="#000000">managed-scripts (2918)</text>
   <rect fill="blue" height="29.3" stroke="black" width="12" x="405" y="1309.1"/>
-  <text x="405" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 405,1343.4)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (2931)</text>
+  <text x="405" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 405,1343.4)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2931)</text>
   <rect fill="blue" height="29.3" stroke="black" width="12" x="420" y="1309.1"/>
-  <text x="420" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 420,1343.4)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2931)</text>
+  <text x="420" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 420,1343.4)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (2931)</text>
   <rect fill="blue" height="29.7" stroke="black" width="12" x="435" y="1308.7"/>
   <text x="435" y="1343.4" font-family="Tahoma" font-size="12" transform="rotate(90 435,1343.4)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2971)</text>
   <rect fill="blue" height="30.0" stroke="black" width="12" x="450" y="1308.3"/>

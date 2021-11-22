@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 530 16765.1">
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="16465.1"/>
-  <text x="15" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 15,16470.1)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (1)</text>
+  <text x="15" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 15,16470.1)" text-rendering="optimizeSpeed" fill="#000000">com-google-jenkins-plugins-dsl-YamlProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="16465.1"/>
   <text x="30" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 30,16470.1)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-wormpex-data-template-DataWarehouseStyleProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="16465.1"/>
-  <text x="45" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 45,16470.1)" text-rendering="optimizeSpeed" fill="#000000">com-google-jenkins-plugins-dsl-YamlProject (1)</text>
+  <text x="45" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 45,16470.1)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="16465.1"/>
-  <text x="60" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 60,16470.1)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (1)</text>
+  <text x="60" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 60,16470.1)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="16465.1"/>
   <text x="75" y="16470.1" font-family="Tahoma" font-size="12" transform="rotate(90 75,16470.1)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pipeline-multibranch-defaults-git-PipelineMultiBranchDefaultsGitProject (3)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="16465.1"/>

@@ -72,9 +72,9 @@
   <rect fill="blue" height="12.0" stroke="black" width="12" x="540" y="1306.0"/>
   <text x="540" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 540,1322.9)" text-rendering="optimizeSpeed" fill="#000000">dropdown-viewstabbar-plugin (1197)</text>
   <rect fill="blue" height="12.1" stroke="black" width="12" x="555" y="1305.9"/>
-  <text x="555" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 555,1322.9)" text-rendering="optimizeSpeed" fill="#000000">vstestrunner (1207)</text>
+  <text x="555" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 555,1322.9)" text-rendering="optimizeSpeed" fill="#000000">prereq-buildstep (1207)</text>
   <rect fill="blue" height="12.1" stroke="black" width="12" x="570" y="1305.9"/>
-  <text x="570" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 570,1322.9)" text-rendering="optimizeSpeed" fill="#000000">prereq-buildstep (1207)</text>
+  <text x="570" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 570,1322.9)" text-rendering="optimizeSpeed" fill="#000000">vstestrunner (1207)</text>
   <rect fill="blue" height="12.1" stroke="black" width="12" x="585" y="1305.8"/>
   <text x="585" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 585,1322.9)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1214)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="600" y="1305.8"/>
@@ -130,9 +130,9 @@
   <rect fill="blue" height="14.4" stroke="black" width="12" x="975" y="1303.5"/>
   <text x="975" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 975,1322.9)" text-rendering="optimizeSpeed" fill="#000000">job-exporter (1440)</text>
   <rect fill="blue" height="14.4" stroke="black" width="12" x="990" y="1303.5"/>
-  <text x="990" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 990,1322.9)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (1445)</text>
+  <text x="990" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 990,1322.9)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (1445)</text>
   <rect fill="blue" height="14.4" stroke="black" width="12" x="1005" y="1303.5"/>
-  <text x="1005" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1322.9)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (1445)</text>
+  <text x="1005" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1322.9)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (1445)</text>
   <rect fill="blue" height="14.6" stroke="black" width="12" x="1020" y="1303.4"/>
   <text x="1020" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 1020,1322.9)" text-rendering="optimizeSpeed" fill="#000000">project-description-setter (1457)</text>
   <rect fill="blue" height="14.6" stroke="black" width="12" x="1035" y="1303.3"/>
@@ -300,9 +300,9 @@
   <rect fill="blue" height="26.4" stroke="black" width="12" x="2250" y="1291.5"/>
   <text x="2250" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2250,1322.9)" text-rendering="optimizeSpeed" fill="#000000">buildtriggerbadge (2640)</text>
   <rect fill="blue" height="26.5" stroke="black" width="12" x="2265" y="1291.5"/>
-  <text x="2265" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2265,1322.9)" text-rendering="optimizeSpeed" fill="#000000">template-project (2648)</text>
+  <text x="2265" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2265,1322.9)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2648)</text>
   <rect fill="blue" height="26.5" stroke="black" width="12" x="2280" y="1291.5"/>
-  <text x="2280" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2280,1322.9)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2648)</text>
+  <text x="2280" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2280,1322.9)" text-rendering="optimizeSpeed" fill="#000000">template-project (2648)</text>
   <rect fill="blue" height="26.5" stroke="black" width="12" x="2295" y="1291.4"/>
   <text x="2295" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2295,1322.9)" text-rendering="optimizeSpeed" fill="#000000">clover (2652)</text>
   <rect fill="blue" height="26.7" stroke="black" width="12" x="2310" y="1291.3"/>
@@ -312,9 +312,9 @@
   <rect fill="blue" height="27.2" stroke="black" width="12" x="2340" y="1290.8"/>
   <text x="2340" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2340,1322.9)" text-rendering="optimizeSpeed" fill="#000000">workflow-basic-steps (2719)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="2355" y="1290.7"/>
-  <text x="2355" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2355,1322.9)" text-rendering="optimizeSpeed" fill="#000000">xvnc (2725)</text>
+  <text x="2355" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2355,1322.9)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2725)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="2370" y="1290.7"/>
-  <text x="2370" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2370,1322.9)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2725)</text>
+  <text x="2370" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2370,1322.9)" text-rendering="optimizeSpeed" fill="#000000">xvnc (2725)</text>
   <rect fill="blue" height="27.3" stroke="black" width="12" x="2385" y="1290.6"/>
   <text x="2385" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2385,1322.9)" text-rendering="optimizeSpeed" fill="#000000">tfs (2731)</text>
   <rect fill="blue" height="27.5" stroke="black" width="12" x="2400" y="1290.4"/>
@@ -342,9 +342,9 @@
   <rect fill="blue" height="29.0" stroke="black" width="12" x="2565" y="1288.9"/>
   <text x="2565" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2565,1322.9)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (2903)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="2580" y="1288.8"/>
-  <text x="2580" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2580,1322.9)" text-rendering="optimizeSpeed" fill="#000000">workflow-cps (2913)</text>
+  <text x="2580" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2580,1322.9)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2913)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="2595" y="1288.8"/>
-  <text x="2595" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2595,1322.9)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2913)</text>
+  <text x="2595" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2595,1322.9)" text-rendering="optimizeSpeed" fill="#000000">workflow-cps (2913)</text>
   <rect fill="blue" height="29.2" stroke="black" width="12" x="2610" y="1288.7"/>
   <text x="2610" y="1322.9" font-family="Tahoma" font-size="12" transform="rotate(90 2610,1322.9)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (2924)</text>
   <rect fill="blue" height="29.4" stroke="black" width="12" x="2625" y="1288.5"/>

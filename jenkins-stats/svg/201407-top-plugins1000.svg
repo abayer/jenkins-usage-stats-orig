@@ -246,9 +246,9 @@
   <rect fill="blue" height="25.3" stroke="black" width="12" x="1845" y="916.5"/>
   <text x="1845" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 1845,946.8)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2534)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="1860" y="916.5"/>
-  <text x="1860" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 1860,946.8)" text-rendering="optimizeSpeed" fill="#000000">mstest (2534)</text>
+  <text x="1860" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 1860,946.8)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2534)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="1875" y="916.5"/>
-  <text x="1875" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 1875,946.8)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2534)</text>
+  <text x="1875" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 1875,946.8)" text-rendering="optimizeSpeed" fill="#000000">mstest (2534)</text>
   <rect fill="blue" height="25.5" stroke="black" width="12" x="1890" y="916.3"/>
   <text x="1890" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 1890,946.8)" text-rendering="optimizeSpeed" fill="#000000">locale (2553)</text>
   <rect fill="blue" height="25.6" stroke="black" width="12" x="1905" y="916.3"/>
@@ -314,9 +314,9 @@
   <rect fill="blue" height="34.5" stroke="black" width="12" x="2355" y="907.3"/>
   <text x="2355" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 2355,946.8)" text-rendering="optimizeSpeed" fill="#000000">audit-trail (3452)</text>
   <rect fill="blue" height="34.5" stroke="black" width="12" x="2370" y="907.3"/>
-  <text x="2370" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 2370,946.8)" text-rendering="optimizeSpeed" fill="#000000">mask-passwords (3454)</text>
+  <text x="2370" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 2370,946.8)" text-rendering="optimizeSpeed" fill="#000000">description-setter (3454)</text>
   <rect fill="blue" height="34.5" stroke="black" width="12" x="2385" y="907.3"/>
-  <text x="2385" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 2385,946.8)" text-rendering="optimizeSpeed" fill="#000000">description-setter (3454)</text>
+  <text x="2385" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 2385,946.8)" text-rendering="optimizeSpeed" fill="#000000">mask-passwords (3454)</text>
   <rect fill="blue" height="35.4" stroke="black" width="12" x="2400" y="906.4"/>
   <text x="2400" y="946.8" font-family="Tahoma" font-size="12" transform="rotate(90 2400,946.8)" text-rendering="optimizeSpeed" fill="#000000">jacoco (3543)</text>
   <rect fill="blue" height="35.7" stroke="black" width="12" x="2415" y="906.2"/>

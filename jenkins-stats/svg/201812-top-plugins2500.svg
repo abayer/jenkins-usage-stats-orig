@@ -30,9 +30,9 @@
   <rect fill="blue" height="27.2" stroke="black" width="12" x="225" y="2180.9"/>
   <text x="225" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 225,2213.2)" text-rendering="optimizeSpeed" fill="#000000">vsphere-cloud (2723)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="240" y="2180.9"/>
-  <text x="240" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 240,2213.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-github (2724)</text>
+  <text x="240" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 240,2213.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-approve (2724)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="255" y="2180.9"/>
-  <text x="255" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 255,2213.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-approve (2724)</text>
+  <text x="255" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 255,2213.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-github (2724)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="270" y="2180.9"/>
   <text x="270" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 270,2213.2)" text-rendering="optimizeSpeed" fill="#000000">doxygen (2725)</text>
   <rect fill="blue" height="27.3" stroke="black" width="12" x="285" y="2180.9"/>
@@ -144,9 +144,9 @@
   <rect fill="blue" height="37.7" stroke="black" width="12" x="1080" y="2170.4"/>
   <text x="1080" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 1080,2213.2)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (3774)</text>
   <rect fill="blue" height="37.9" stroke="black" width="12" x="1095" y="2170.3"/>
-  <text x="1095" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 1095,2213.2)" text-rendering="optimizeSpeed" fill="#000000">notification (3791)</text>
+  <text x="1095" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 1095,2213.2)" text-rendering="optimizeSpeed" fill="#000000">maven-repo-cleaner (3791)</text>
   <rect fill="blue" height="37.9" stroke="black" width="12" x="1110" y="2170.3"/>
-  <text x="1110" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2213.2)" text-rendering="optimizeSpeed" fill="#000000">maven-repo-cleaner (3791)</text>
+  <text x="1110" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2213.2)" text-rendering="optimizeSpeed" fill="#000000">notification (3791)</text>
   <rect fill="blue" height="38.0" stroke="black" width="12" x="1125" y="2170.2"/>
   <text x="1125" y="2213.2" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2213.2)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (3797)</text>
   <rect fill="blue" height="38.0" stroke="black" width="12" x="1140" y="2170.2"/>

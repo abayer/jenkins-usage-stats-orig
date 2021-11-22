@@ -28,9 +28,9 @@
   <rect fill="blue" height="27.0" stroke="black" width="12" x="210" y="1488.1"/>
   <text x="210" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 210,1520.0)" text-rendering="optimizeSpeed" fill="#000000">pipeline-maven (2696)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="225" y="1487.8"/>
-  <text x="225" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 225,1520.0)" text-rendering="optimizeSpeed" fill="#000000">xvnc (2724)</text>
+  <text x="225" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 225,1520.0)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (2724)</text>
   <rect fill="blue" height="27.2" stroke="black" width="12" x="240" y="1487.8"/>
-  <text x="240" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 240,1520.0)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (2724)</text>
+  <text x="240" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 240,1520.0)" text-rendering="optimizeSpeed" fill="#000000">xvnc (2724)</text>
   <rect fill="blue" height="27.3" stroke="black" width="12" x="255" y="1487.7"/>
   <text x="255" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 255,1520.0)" text-rendering="optimizeSpeed" fill="#000000">sbt (2731)</text>
   <rect fill="blue" height="27.4" stroke="black" width="12" x="270" y="1487.6"/>
@@ -100,9 +100,9 @@
   <rect fill="blue" height="33.9" stroke="black" width="12" x="750" y="1481.2"/>
   <text x="750" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 750,1520.0)" text-rendering="optimizeSpeed" fill="#000000">categorized-view (3388)</text>
   <rect fill="blue" height="34.0" stroke="black" width="12" x="765" y="1481.0"/>
-  <text x="765" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 765,1520.0)" text-rendering="optimizeSpeed" fill="#000000">notification (3405)</text>
+  <text x="765" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 765,1520.0)" text-rendering="optimizeSpeed" fill="#000000">buildtriggerbadge (3405)</text>
   <rect fill="blue" height="34.0" stroke="black" width="12" x="780" y="1481.0"/>
-  <text x="780" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 780,1520.0)" text-rendering="optimizeSpeed" fill="#000000">buildtriggerbadge (3405)</text>
+  <text x="780" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 780,1520.0)" text-rendering="optimizeSpeed" fill="#000000">notification (3405)</text>
   <rect fill="blue" height="35.2" stroke="black" width="12" x="795" y="1479.9"/>
   <text x="795" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 795,1520.0)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (3518)</text>
   <rect fill="blue" height="35.2" stroke="black" width="12" x="810" y="1479.8"/>
@@ -200,9 +200,9 @@
   <rect fill="blue" height="50.9" stroke="black" width="12" x="1500" y="1464.2"/>
   <text x="1500" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 1500,1520.0)" text-rendering="optimizeSpeed" fill="#000000">uno-choice (5086)</text>
   <rect fill="blue" height="50.9" stroke="black" width="12" x="1515" y="1464.2"/>
-  <text x="1515" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1520.0)" text-rendering="optimizeSpeed" fill="#000000">locale (5089)</text>
+  <text x="1515" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1520.0)" text-rendering="optimizeSpeed" fill="#000000">ansible (5089)</text>
   <rect fill="blue" height="50.9" stroke="black" width="12" x="1530" y="1464.2"/>
-  <text x="1530" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1520.0)" text-rendering="optimizeSpeed" fill="#000000">ansible (5089)</text>
+  <text x="1530" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1520.0)" text-rendering="optimizeSpeed" fill="#000000">locale (5089)</text>
   <rect fill="blue" height="52.1" stroke="black" width="12" x="1545" y="1463.0"/>
   <text x="1545" y="1520.0" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1520.0)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (5206)</text>
   <rect fill="blue" height="52.4" stroke="black" width="12" x="1560" y="1462.6"/>

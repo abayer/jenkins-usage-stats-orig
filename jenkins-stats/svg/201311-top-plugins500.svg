@@ -96,9 +96,9 @@
   <rect fill="blue" height="6.9" stroke="black" width="12" x="720" y="756.0"/>
   <text x="720" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 720,767.9)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (691)</text>
   <rect fill="blue" height="6.9" stroke="black" width="12" x="735" y="756.0"/>
-  <text x="735" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 735,767.9)" text-rendering="optimizeSpeed" fill="#000000">ivytrigger (693)</text>
+  <text x="735" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 735,767.9)" text-rendering="optimizeSpeed" fill="#000000">configure-job-column-plugin (693)</text>
   <rect fill="blue" height="6.9" stroke="black" width="12" x="750" y="756.0"/>
-  <text x="750" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 750,767.9)" text-rendering="optimizeSpeed" fill="#000000">configure-job-column-plugin (693)</text>
+  <text x="750" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 750,767.9)" text-rendering="optimizeSpeed" fill="#000000">ivytrigger (693)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="765" y="756.0"/>
   <text x="765" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 765,767.9)" text-rendering="optimizeSpeed" fill="#000000">php (697)</text>
   <rect fill="blue" height="7.1" stroke="black" width="12" x="780" y="755.8"/>
@@ -170,9 +170,9 @@
   <rect fill="blue" height="8.6" stroke="black" width="12" x="1275" y="754.3"/>
   <text x="1275" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 1275,767.9)" text-rendering="optimizeSpeed" fill="#000000">cccc (863)</text>
   <rect fill="blue" height="8.7" stroke="black" width="12" x="1290" y="754.2"/>
-  <text x="1290" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 1290,767.9)" text-rendering="optimizeSpeed" fill="#000000">sitemonitor (870)</text>
+  <text x="1290" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 1290,767.9)" text-rendering="optimizeSpeed" fill="#000000">sbt (870)</text>
   <rect fill="blue" height="8.7" stroke="black" width="12" x="1305" y="754.2"/>
-  <text x="1305" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 1305,767.9)" text-rendering="optimizeSpeed" fill="#000000">sbt (870)</text>
+  <text x="1305" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 1305,767.9)" text-rendering="optimizeSpeed" fill="#000000">sitemonitor (870)</text>
   <rect fill="blue" height="8.8" stroke="black" width="12" x="1320" y="754.1"/>
   <text x="1320" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 1320,767.9)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (880)</text>
   <rect fill="blue" height="8.8" stroke="black" width="12" x="1335" y="754.1"/>
@@ -358,9 +358,9 @@
   <rect fill="blue" height="18.4" stroke="black" width="12" x="2685" y="744.5"/>
   <text x="2685" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 2685,767.9)" text-rendering="optimizeSpeed" fill="#000000">sloccount (1839)</text>
   <rect fill="blue" height="18.6" stroke="black" width="12" x="2700" y="744.3"/>
-  <text x="2700" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 2700,767.9)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (1864)</text>
+  <text x="2700" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 2700,767.9)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (1864)</text>
   <rect fill="blue" height="18.6" stroke="black" width="12" x="2715" y="744.3"/>
-  <text x="2715" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 2715,767.9)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (1864)</text>
+  <text x="2715" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 2715,767.9)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (1864)</text>
   <rect fill="blue" height="18.9" stroke="black" width="12" x="2730" y="744.0"/>
   <text x="2730" y="767.9" font-family="Tahoma" font-size="12" transform="rotate(90 2730,767.9)" text-rendering="optimizeSpeed" fill="#000000">xvfb (1892)</text>
   <rect fill="blue" height="19.1" stroke="black" width="12" x="2745" y="743.8"/>

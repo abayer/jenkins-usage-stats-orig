@@ -54,13 +54,13 @@
   <rect fill="blue" height="27.9" stroke="black" width="12" x="405" y="2800.1"/>
   <text x="405" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 405,2833.0)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (2786)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="420" y="2799.6"/>
-  <text x="420" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 420,2833.0)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2839)</text>
+  <text x="420" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 420,2833.0)" text-rendering="optimizeSpeed" fill="#000000">git-tag-message (2839)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="435" y="2799.6"/>
-  <text x="435" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 435,2833.0)" text-rendering="optimizeSpeed" fill="#000000">git-tag-message (2839)</text>
+  <text x="435" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 435,2833.0)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2839)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="450" y="2799.6"/>
-  <text x="450" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 450,2833.0)" text-rendering="optimizeSpeed" fill="#000000">filesystem-list-parameter-plugin (2840)</text>
+  <text x="450" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 450,2833.0)" text-rendering="optimizeSpeed" fill="#000000">emma (2840)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="465" y="2799.6"/>
-  <text x="465" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 465,2833.0)" text-rendering="optimizeSpeed" fill="#000000">emma (2840)</text>
+  <text x="465" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 465,2833.0)" text-rendering="optimizeSpeed" fill="#000000">filesystem-list-parameter-plugin (2840)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="480" y="2799.6"/>
   <text x="480" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 480,2833.0)" text-rendering="optimizeSpeed" fill="#000000">github-pr-coverage-status (2844)</text>
   <rect fill="blue" height="28.6" stroke="black" width="12" x="495" y="2799.4"/>
@@ -190,9 +190,9 @@
   <rect fill="blue" height="41.6" stroke="black" width="12" x="1425" y="2786.4"/>
   <text x="1425" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1425,2833.0)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (4164)</text>
   <rect fill="blue" height="41.7" stroke="black" width="12" x="1440" y="2786.3"/>
-  <text x="1440" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1440,2833.0)" text-rendering="optimizeSpeed" fill="#000000">periodicbackup (4171)</text>
+  <text x="1440" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1440,2833.0)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (4171)</text>
   <rect fill="blue" height="41.7" stroke="black" width="12" x="1455" y="2786.3"/>
-  <text x="1455" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1455,2833.0)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (4171)</text>
+  <text x="1455" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1455,2833.0)" text-rendering="optimizeSpeed" fill="#000000">periodicbackup (4171)</text>
   <rect fill="blue" height="42.1" stroke="black" width="12" x="1470" y="2785.9"/>
   <text x="1470" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1470,2833.0)" text-rendering="optimizeSpeed" fill="#000000">mail-watcher-plugin (4211)</text>
   <rect fill="blue" height="42.2" stroke="black" width="12" x="1485" y="2785.8"/>
@@ -226,9 +226,9 @@
   <rect fill="blue" height="45.7" stroke="black" width="12" x="1695" y="2782.3"/>
   <text x="1695" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1695,2833.0)" text-rendering="optimizeSpeed" fill="#000000">maven-metadata-plugin (4572)</text>
   <rect fill="blue" height="45.8" stroke="black" width="12" x="1710" y="2782.2"/>
-  <text x="1710" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1710,2833.0)" text-rendering="optimizeSpeed" fill="#000000">text-finder-run-condition (4576)</text>
+  <text x="1710" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1710,2833.0)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (4576)</text>
   <rect fill="blue" height="45.8" stroke="black" width="12" x="1725" y="2782.2"/>
-  <text x="1725" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1725,2833.0)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (4576)</text>
+  <text x="1725" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1725,2833.0)" text-rendering="optimizeSpeed" fill="#000000">text-finder-run-condition (4576)</text>
   <rect fill="blue" height="45.9" stroke="black" width="12" x="1740" y="2782.1"/>
   <text x="1740" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 1740,2833.0)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (4589)</text>
   <rect fill="blue" height="47.2" stroke="black" width="12" x="1755" y="2780.8"/>
@@ -322,9 +322,9 @@
   <rect fill="blue" height="63.3" stroke="black" width="12" x="2415" y="2764.7"/>
   <text x="2415" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2415,2833.0)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (6330)</text>
   <rect fill="blue" height="63.3" stroke="black" width="12" x="2430" y="2764.7"/>
-  <text x="2430" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2430,2833.0)" text-rendering="optimizeSpeed" fill="#000000">job-restrictions (6333)</text>
+  <text x="2430" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2430,2833.0)" text-rendering="optimizeSpeed" fill="#000000">build-failure-analyzer (6333)</text>
   <rect fill="blue" height="63.3" stroke="black" width="12" x="2445" y="2764.7"/>
-  <text x="2445" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2445,2833.0)" text-rendering="optimizeSpeed" fill="#000000">build-failure-analyzer (6333)</text>
+  <text x="2445" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2445,2833.0)" text-rendering="optimizeSpeed" fill="#000000">job-restrictions (6333)</text>
   <rect fill="blue" height="63.4" stroke="black" width="12" x="2460" y="2764.6"/>
   <text x="2460" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2460,2833.0)" text-rendering="optimizeSpeed" fill="#000000">async-http-client (6344)</text>
   <rect fill="blue" height="63.6" stroke="black" width="12" x="2475" y="2764.4"/>
@@ -364,9 +364,9 @@
   <rect fill="blue" height="76.1" stroke="black" width="12" x="2730" y="2751.9"/>
   <text x="2730" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2730,2833.0)" text-rendering="optimizeSpeed" fill="#000000">sonar-quality-gates (7614)</text>
   <rect fill="blue" height="77.0" stroke="black" width="12" x="2745" y="2751.1"/>
-  <text x="2745" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2745,2833.0)" text-rendering="optimizeSpeed" fill="#000000">stashNotifier (7695)</text>
+  <text x="2745" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2745,2833.0)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (7695)</text>
   <rect fill="blue" height="77.0" stroke="black" width="12" x="2760" y="2751.1"/>
-  <text x="2760" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2760,2833.0)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (7695)</text>
+  <text x="2760" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2760,2833.0)" text-rendering="optimizeSpeed" fill="#000000">stashNotifier (7695)</text>
   <rect fill="blue" height="77.1" stroke="black" width="12" x="2775" y="2750.9"/>
   <text x="2775" y="2833.0" font-family="Tahoma" font-size="12" transform="rotate(90 2775,2833.0)" text-rendering="optimizeSpeed" fill="#000000">backup (7707)</text>
   <rect fill="blue" height="78.6" stroke="black" width="12" x="2790" y="2749.4"/>

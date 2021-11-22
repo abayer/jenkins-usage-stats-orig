@@ -48,9 +48,9 @@
   <rect fill="blue" height="12.5" stroke="black" width="12" x="360" y="782.4"/>
   <text x="360" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 360,800.0)" text-rendering="optimizeSpeed" fill="#000000">rvm (1251)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="375" y="782.3"/>
-  <text x="375" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 375,800.0)" text-rendering="optimizeSpeed" fill="#000000">s3 (1261)</text>
+  <text x="375" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 375,800.0)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (1261)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="390" y="782.3"/>
-  <text x="390" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 390,800.0)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (1261)</text>
+  <text x="390" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 390,800.0)" text-rendering="optimizeSpeed" fill="#000000">s3 (1261)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="405" y="782.3"/>
   <text x="405" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 405,800.0)" text-rendering="optimizeSpeed" fill="#000000">favorite (1263)</text>
   <rect fill="blue" height="12.7" stroke="black" width="12" x="420" y="782.2"/>
@@ -64,9 +64,9 @@
   <rect fill="blue" height="13.7" stroke="black" width="12" x="480" y="781.3"/>
   <text x="480" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 480,800.0)" text-rendering="optimizeSpeed" fill="#000000">android-lint (1366)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="495" y="781.1"/>
-  <text x="495" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 495,800.0)" text-rendering="optimizeSpeed" fill="#000000">hipchat (1381)</text>
+  <text x="495" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 495,800.0)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1381)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="510" y="781.1"/>
-  <text x="510" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 510,800.0)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1381)</text>
+  <text x="510" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 510,800.0)" text-rendering="optimizeSpeed" fill="#000000">hipchat (1381)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="525" y="781.1"/>
   <text x="525" y="800.0" font-family="Tahoma" font-size="12" transform="rotate(90 525,800.0)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (1383)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="540" y="781.1"/>

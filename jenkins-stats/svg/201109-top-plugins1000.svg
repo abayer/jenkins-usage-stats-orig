@@ -66,9 +66,9 @@
   <rect fill="blue" height="16.7" stroke="black" width="12" x="495" y="309.8"/>
   <text x="495" y="331.5" font-family="Tahoma" font-size="12" transform="rotate(90 495,331.5)" text-rendering="optimizeSpeed" fill="#000000">ci-game (1669)</text>
   <rect fill="blue" height="16.9" stroke="black" width="12" x="510" y="309.6"/>
-  <text x="510" y="331.5" font-family="Tahoma" font-size="12" transform="rotate(90 510,331.5)" text-rendering="optimizeSpeed" fill="#000000">ssh (1687)</text>
+  <text x="510" y="331.5" font-family="Tahoma" font-size="12" transform="rotate(90 510,331.5)" text-rendering="optimizeSpeed" fill="#000000">locks-and-latches (1687)</text>
   <rect fill="blue" height="16.9" stroke="black" width="12" x="525" y="309.6"/>
-  <text x="525" y="331.5" font-family="Tahoma" font-size="12" transform="rotate(90 525,331.5)" text-rendering="optimizeSpeed" fill="#000000">locks-and-latches (1687)</text>
+  <text x="525" y="331.5" font-family="Tahoma" font-size="12" transform="rotate(90 525,331.5)" text-rendering="optimizeSpeed" fill="#000000">ssh (1687)</text>
   <rect fill="blue" height="16.9" stroke="black" width="12" x="540" y="309.6"/>
   <text x="540" y="331.5" font-family="Tahoma" font-size="12" transform="rotate(90 540,331.5)" text-rendering="optimizeSpeed" fill="#000000">log-parser (1690)</text>
   <rect fill="blue" height="19.3" stroke="black" width="12" x="555" y="307.2"/>

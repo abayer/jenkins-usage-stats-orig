@@ -34,9 +34,9 @@
   <rect fill="blue" height="27.6" stroke="black" width="12" x="255" y="1328.4"/>
   <text x="255" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 255,1361.1)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (2763)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="270" y="1328.2"/>
-  <text x="270" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 270,1361.1)" text-rendering="optimizeSpeed" fill="#000000">favorite (2783)</text>
+  <text x="270" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 270,1361.1)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2783)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="285" y="1328.2"/>
-  <text x="285" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 285,1361.1)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2783)</text>
+  <text x="285" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 285,1361.1)" text-rendering="optimizeSpeed" fill="#000000">favorite (2783)</text>
   <rect fill="blue" height="27.9" stroke="black" width="12" x="300" y="1328.2"/>
   <text x="300" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 300,1361.1)" text-rendering="optimizeSpeed" fill="#000000">stashNotifier (2786)</text>
   <rect fill="blue" height="28.2" stroke="black" width="12" x="315" y="1327.9"/>
@@ -94,9 +94,9 @@
   <rect fill="blue" height="33.5" stroke="black" width="12" x="705" y="1322.5"/>
   <text x="705" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 705,1361.1)" text-rendering="optimizeSpeed" fill="#000000">build-environment (3352)</text>
   <rect fill="blue" height="33.6" stroke="black" width="12" x="720" y="1322.5"/>
-  <text x="720" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 720,1361.1)" text-rendering="optimizeSpeed" fill="#000000">envfile (3356)</text>
+  <text x="720" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 720,1361.1)" text-rendering="optimizeSpeed" fill="#000000">docker-build-publish (3356)</text>
   <rect fill="blue" height="33.6" stroke="black" width="12" x="735" y="1322.5"/>
-  <text x="735" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 735,1361.1)" text-rendering="optimizeSpeed" fill="#000000">docker-build-publish (3356)</text>
+  <text x="735" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 735,1361.1)" text-rendering="optimizeSpeed" fill="#000000">envfile (3356)</text>
   <rect fill="blue" height="33.6" stroke="black" width="12" x="750" y="1322.5"/>
   <text x="750" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 750,1361.1)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (3361)</text>
   <rect fill="blue" height="33.9" stroke="black" width="12" x="765" y="1322.2"/>
@@ -198,9 +198,9 @@
   <rect fill="blue" height="54.9" stroke="black" width="12" x="1485" y="1301.1"/>
   <text x="1485" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 1485,1361.1)" text-rendering="optimizeSpeed" fill="#000000">Parameterized-Remote-Trigger (5492)</text>
   <rect fill="blue" height="55.0" stroke="black" width="12" x="1500" y="1301.1"/>
-  <text x="1500" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 1500,1361.1)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (5498)</text>
+  <text x="1500" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 1500,1361.1)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (5498)</text>
   <rect fill="blue" height="55.0" stroke="black" width="12" x="1515" y="1301.1"/>
-  <text x="1515" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1361.1)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (5498)</text>
+  <text x="1515" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1361.1)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (5498)</text>
   <rect fill="blue" height="55.5" stroke="black" width="12" x="1530" y="1300.6"/>
   <text x="1530" y="1361.1" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1361.1)" text-rendering="optimizeSpeed" fill="#000000">ivy (5548)</text>
   <rect fill="blue" height="56.3" stroke="black" width="12" x="1545" y="1299.8"/>

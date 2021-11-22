@@ -70,9 +70,9 @@
   <rect fill="blue" height="13.4" stroke="black" width="12" x="525" y="655.5"/>
   <text x="525" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 525,674.0)" text-rendering="optimizeSpeed" fill="#000000">next-executions (1343)</text>
   <rect fill="blue" height="13.5" stroke="black" width="12" x="540" y="655.4"/>
-  <text x="540" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 540,674.0)" text-rendering="optimizeSpeed" fill="#000000">xvfb (1354)</text>
+  <text x="540" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 540,674.0)" text-rendering="optimizeSpeed" fill="#000000">scriptler (1354)</text>
   <rect fill="blue" height="13.5" stroke="black" width="12" x="555" y="655.4"/>
-  <text x="555" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 555,674.0)" text-rendering="optimizeSpeed" fill="#000000">scriptler (1354)</text>
+  <text x="555" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 555,674.0)" text-rendering="optimizeSpeed" fill="#000000">xvfb (1354)</text>
   <rect fill="blue" height="13.7" stroke="black" width="12" x="570" y="655.3"/>
   <text x="570" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 570,674.0)" text-rendering="optimizeSpeed" fill="#000000">rubyMetrics (1368)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="585" y="655.1"/>
@@ -132,9 +132,9 @@
   <rect fill="blue" height="17.5" stroke="black" width="12" x="990" y="651.5"/>
   <text x="990" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 990,674.0)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (1750)</text>
   <rect fill="blue" height="17.5" stroke="black" width="12" x="1005" y="651.4"/>
-  <text x="1005" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 1005,674.0)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (1754)</text>
+  <text x="1005" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 1005,674.0)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (1754)</text>
   <rect fill="blue" height="17.5" stroke="black" width="12" x="1020" y="651.4"/>
-  <text x="1020" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 1020,674.0)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (1754)</text>
+  <text x="1020" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 1020,674.0)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (1754)</text>
   <rect fill="blue" height="17.8" stroke="black" width="12" x="1035" y="651.2"/>
   <text x="1035" y="674.0" font-family="Tahoma" font-size="12" transform="rotate(90 1035,674.0)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (1781)</text>
   <rect fill="blue" height="17.8" stroke="black" width="12" x="1050" y="651.2"/>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 455 8427.4">
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="8127.4"/>
-  <text x="15" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-mavenjobgenerator-MavenJobGenerator (1)</text>
+  <text x="15" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MonitoringJobsProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="8127.4"/>
-  <text x="30" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 30,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MonitoringJobsProject (1)</text>
+  <text x="30" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 30,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreparationDailyProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="8127.4"/>
-  <text x="45" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreparationDailyProject (1)</text>
+  <text x="45" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-mavenjobgenerator-MavenJobGenerator (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="8127.4"/>
   <text x="60" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-performance_receiver-PerformanceProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="8127.4"/>
@@ -24,9 +24,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="180" y="8127.3"/>
   <text x="180" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 180,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeProject (31)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="195" y="8127.3"/>
-  <text x="195" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreShelveProject (32)</text>
+  <text x="195" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeFirProject (32)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="210" y="8127.3"/>
-  <text x="210" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeFirProject (32)</text>
+  <text x="210" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreShelveProject (32)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="225" y="8127.3"/>
   <text x="225" y="8132.4" font-family="Tahoma" font-size="12" transform="rotate(90 225,8132.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pipeline-multibranch-defaults-PipelineMultiBranchDefaultsProject (41)</text>
   <rect fill="blue" height="0.2" stroke="black" width="12" x="240" y="8127.2"/>

@@ -38,9 +38,9 @@
   <rect fill="blue" height="11.9" stroke="black" width="12" x="285" y="733.6"/>
   <text x="285" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 285,750.5)" text-rendering="optimizeSpeed" fill="#000000">jshint-checkstyle (1190)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="300" y="733.3"/>
-  <text x="300" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 300,750.5)" text-rendering="optimizeSpeed" fill="#000000">hipchat (1220)</text>
+  <text x="300" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 300,750.5)" text-rendering="optimizeSpeed" fill="#000000">build-monitor-plugin (1220)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="315" y="733.3"/>
-  <text x="315" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 315,750.5)" text-rendering="optimizeSpeed" fill="#000000">build-monitor-plugin (1220)</text>
+  <text x="315" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 315,750.5)" text-rendering="optimizeSpeed" fill="#000000">hipchat (1220)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="330" y="733.2"/>
   <text x="330" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 330,750.5)" text-rendering="optimizeSpeed" fill="#000000">favorite (1239)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="345" y="733.0"/>
@@ -232,9 +232,9 @@
   <rect fill="blue" height="27.3" stroke="black" width="12" x="1740" y="718.2"/>
   <text x="1740" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 1740,750.5)" text-rendering="optimizeSpeed" fill="#000000">description-setter (2730)</text>
   <rect fill="blue" height="27.4" stroke="black" width="12" x="1755" y="718.2"/>
-  <text x="1755" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 1755,750.5)" text-rendering="optimizeSpeed" fill="#000000">jenkins-multijob-plugin (2738)</text>
+  <text x="1755" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 1755,750.5)" text-rendering="optimizeSpeed" fill="#000000">build-flow-plugin (2738)</text>
   <rect fill="blue" height="27.4" stroke="black" width="12" x="1770" y="718.2"/>
-  <text x="1770" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 1770,750.5)" text-rendering="optimizeSpeed" fill="#000000">build-flow-plugin (2738)</text>
+  <text x="1770" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 1770,750.5)" text-rendering="optimizeSpeed" fill="#000000">jenkins-multijob-plugin (2738)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="1785" y="718.0"/>
   <text x="1785" y="750.5" font-family="Tahoma" font-size="12" transform="rotate(90 1785,750.5)" text-rendering="optimizeSpeed" fill="#000000">multiple-scms (2755)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="1800" y="717.8"/>

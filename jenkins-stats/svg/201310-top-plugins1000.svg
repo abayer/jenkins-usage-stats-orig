@@ -8,9 +8,9 @@
   <rect fill="blue" height="10.4" stroke="black" width="12" x="60" y="755.6"/>
   <text x="60" y="771.1" font-family="Tahoma" font-size="12" transform="rotate(90 60,771.1)" text-rendering="optimizeSpeed" fill="#000000">build-publisher (1044)</text>
   <rect fill="blue" height="10.5" stroke="black" width="12" x="75" y="755.5"/>
-  <text x="75" y="771.1" font-family="Tahoma" font-size="12" transform="rotate(90 75,771.1)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (1052)</text>
+  <text x="75" y="771.1" font-family="Tahoma" font-size="12" transform="rotate(90 75,771.1)" text-rendering="optimizeSpeed" fill="#000000">confluence-publisher (1052)</text>
   <rect fill="blue" height="10.5" stroke="black" width="12" x="90" y="755.5"/>
-  <text x="90" y="771.1" font-family="Tahoma" font-size="12" transform="rotate(90 90,771.1)" text-rendering="optimizeSpeed" fill="#000000">confluence-publisher (1052)</text>
+  <text x="90" y="771.1" font-family="Tahoma" font-size="12" transform="rotate(90 90,771.1)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (1052)</text>
   <rect fill="blue" height="10.6" stroke="black" width="12" x="105" y="755.4"/>
   <text x="105" y="771.1" font-family="Tahoma" font-size="12" transform="rotate(90 105,771.1)" text-rendering="optimizeSpeed" fill="#000000">extended-read-permission (1064)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="120" y="755.3"/>

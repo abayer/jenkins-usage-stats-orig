@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 6980 3264.3">
   <rect fill="blue" height="25.0" stroke="black" width="12" x="15" y="2939.3"/>
-  <text x="15" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 15,2969.3)" text-rendering="optimizeSpeed" fill="#000000">hipchat (2503)</text>
+  <text x="15" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 15,2969.3)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2503)</text>
   <rect fill="blue" height="25.0" stroke="black" width="12" x="30" y="2939.3"/>
-  <text x="30" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 30,2969.3)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2503)</text>
+  <text x="30" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 30,2969.3)" text-rendering="optimizeSpeed" fill="#000000">hipchat (2503)</text>
   <rect fill="blue" height="25.1" stroke="black" width="12" x="45" y="2939.2"/>
   <text x="45" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 45,2969.3)" text-rendering="optimizeSpeed" fill="#000000">run-condition-extras (2510)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="60" y="2939.1"/>
@@ -92,9 +92,9 @@
   <rect fill="blue" height="31.0" stroke="black" width="12" x="690" y="2933.3"/>
   <text x="690" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 690,2969.3)" text-rendering="optimizeSpeed" fill="#000000">repository (3099)</text>
   <rect fill="blue" height="31.0" stroke="black" width="12" x="705" y="2933.3"/>
-  <text x="705" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 705,2969.3)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (3100)</text>
+  <text x="705" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 705,2969.3)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (3100)</text>
   <rect fill="blue" height="31.0" stroke="black" width="12" x="720" y="2933.3"/>
-  <text x="720" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 720,2969.3)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (3100)</text>
+  <text x="720" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 720,2969.3)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (3100)</text>
   <rect fill="blue" height="31.1" stroke="black" width="12" x="735" y="2933.2"/>
   <text x="735" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 735,2969.3)" text-rendering="optimizeSpeed" fill="#000000">dependency-track (3105)</text>
   <rect fill="blue" height="31.2" stroke="black" width="12" x="750" y="2933.1"/>
@@ -104,9 +104,9 @@
   <rect fill="blue" height="31.6" stroke="black" width="12" x="780" y="2932.7"/>
   <text x="780" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 780,2969.3)" text-rendering="optimizeSpeed" fill="#000000">confluence-publisher (3160)</text>
   <rect fill="blue" height="31.8" stroke="black" width="12" x="795" y="2932.5"/>
-  <text x="795" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 795,2969.3)" text-rendering="optimizeSpeed" fill="#000000">workflow-remote-loader (3184)</text>
+  <text x="795" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 795,2969.3)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-credentials (3184)</text>
   <rect fill="blue" height="31.8" stroke="black" width="12" x="810" y="2932.5"/>
-  <text x="810" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 810,2969.3)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-credentials (3184)</text>
+  <text x="810" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 810,2969.3)" text-rendering="optimizeSpeed" fill="#000000">workflow-remote-loader (3184)</text>
   <rect fill="blue" height="32.5" stroke="black" width="12" x="825" y="2931.8"/>
   <text x="825" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 825,2969.3)" text-rendering="optimizeSpeed" fill="#000000">disable-failed-job (3248)</text>
   <rect fill="blue" height="33.0" stroke="black" width="12" x="840" y="2931.3"/>
@@ -126,9 +126,9 @@
   <rect fill="blue" height="34.2" stroke="black" width="12" x="945" y="2930.1"/>
   <text x="945" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 945,2969.3)" text-rendering="optimizeSpeed" fill="#000000">repo (3422)</text>
   <rect fill="blue" height="34.7" stroke="black" width="12" x="960" y="2929.6"/>
-  <text x="960" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 960,2969.3)" text-rendering="optimizeSpeed" fill="#000000">list-git-branches-parameter (3472)</text>
+  <text x="960" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 960,2969.3)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (3472)</text>
   <rect fill="blue" height="34.7" stroke="black" width="12" x="975" y="2929.6"/>
-  <text x="975" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 975,2969.3)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (3472)</text>
+  <text x="975" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 975,2969.3)" text-rendering="optimizeSpeed" fill="#000000">list-git-branches-parameter (3472)</text>
   <rect fill="blue" height="35.1" stroke="black" width="12" x="990" y="2929.2"/>
   <text x="990" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 990,2969.3)" text-rendering="optimizeSpeed" fill="#000000">jira-trigger (3515)</text>
   <rect fill="blue" height="35.3" stroke="black" width="12" x="1005" y="2929.0"/>
@@ -154,9 +154,9 @@
   <rect fill="blue" height="36.8" stroke="black" width="12" x="1155" y="2927.5"/>
   <text x="1155" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 1155,2969.3)" text-rendering="optimizeSpeed" fill="#000000">testInProgress (3682)</text>
   <rect fill="blue" height="36.9" stroke="black" width="12" x="1170" y="2927.4"/>
-  <text x="1170" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 1170,2969.3)" text-rendering="optimizeSpeed" fill="#000000">terraform (3686)</text>
+  <text x="1170" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 1170,2969.3)" text-rendering="optimizeSpeed" fill="#000000">strict-crumb-issuer (3686)</text>
   <rect fill="blue" height="36.9" stroke="black" width="12" x="1185" y="2927.4"/>
-  <text x="1185" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 1185,2969.3)" text-rendering="optimizeSpeed" fill="#000000">strict-crumb-issuer (3686)</text>
+  <text x="1185" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 1185,2969.3)" text-rendering="optimizeSpeed" fill="#000000">terraform (3686)</text>
   <rect fill="blue" height="37.0" stroke="black" width="12" x="1200" y="2927.3"/>
   <text x="1200" y="2969.3" font-family="Tahoma" font-size="12" transform="rotate(90 1200,2969.3)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (3703)</text>
   <rect fill="blue" height="37.2" stroke="black" width="12" x="1215" y="2927.1"/>

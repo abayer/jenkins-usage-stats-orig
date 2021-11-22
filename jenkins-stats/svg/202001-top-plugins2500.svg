@@ -42,9 +42,9 @@
   <rect fill="blue" height="27.6" stroke="black" width="12" x="315" y="2655.4"/>
   <text x="315" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 315,2688.0)" text-rendering="optimizeSpeed" fill="#000000">filesystem-list-parameter-plugin (2760)</text>
   <rect fill="blue" height="27.9" stroke="black" width="12" x="330" y="2655.1"/>
-  <text x="330" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 330,2688.0)" text-rendering="optimizeSpeed" fill="#000000">hudson-wsclean-plugin (2791)</text>
+  <text x="330" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 330,2688.0)" text-rendering="optimizeSpeed" fill="#000000">date-parameter (2791)</text>
   <rect fill="blue" height="27.9" stroke="black" width="12" x="345" y="2655.1"/>
-  <text x="345" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 345,2688.0)" text-rendering="optimizeSpeed" fill="#000000">date-parameter (2791)</text>
+  <text x="345" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 345,2688.0)" text-rendering="optimizeSpeed" fill="#000000">hudson-wsclean-plugin (2791)</text>
   <rect fill="blue" height="28.0" stroke="black" width="12" x="360" y="2655.0"/>
   <text x="360" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 360,2688.0)" text-rendering="optimizeSpeed" fill="#000000">nuget (2799)</text>
   <rect fill="blue" height="28.0" stroke="black" width="12" x="375" y="2654.9"/>
@@ -796,9 +796,9 @@
   <rect fill="blue" height="2260.6" stroke="black" width="12" x="5970" y="422.4"/>
   <text x="5970" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 5970,2688.0)" text-rendering="optimizeSpeed" fill="#000000">pipeline-graph-analysis (226058)</text>
   <rect fill="blue" height="2270.9" stroke="black" width="12" x="5985" y="412.1"/>
-  <text x="5985" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 5985,2688.0)" text-rendering="optimizeSpeed" fill="#000000">momentjs (227089)</text>
+  <text x="5985" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 5985,2688.0)" text-rendering="optimizeSpeed" fill="#000000">handlebars (227089)</text>
   <rect fill="blue" height="2270.9" stroke="black" width="12" x="6000" y="412.1"/>
-  <text x="6000" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 6000,2688.0)" text-rendering="optimizeSpeed" fill="#000000">handlebars (227089)</text>
+  <text x="6000" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 6000,2688.0)" text-rendering="optimizeSpeed" fill="#000000">momentjs (227089)</text>
   <rect fill="blue" height="2273.3" stroke="black" width="12" x="6015" y="409.7"/>
   <text x="6015" y="2688.0" font-family="Tahoma" font-size="12" transform="rotate(90 6015,2688.0)" text-rendering="optimizeSpeed" fill="#000000">workflow-cps-global-lib (227327)</text>
   <rect fill="blue" height="2280.1" stroke="black" width="12" x="6030" y="402.9"/>

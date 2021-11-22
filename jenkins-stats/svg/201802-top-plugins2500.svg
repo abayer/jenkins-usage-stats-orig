@@ -148,9 +148,9 @@
   <rect fill="blue" height="41.7" stroke="black" width="12" x="1110" y="1513.1"/>
   <text x="1110" y="1559.7" font-family="Tahoma" font-size="12" transform="rotate(90 1110,1559.7)" text-rendering="optimizeSpeed" fill="#000000">build-environment (4166)</text>
   <rect fill="blue" height="41.8" stroke="black" width="12" x="1125" y="1513.0"/>
-  <text x="1125" y="1559.7" font-family="Tahoma" font-size="12" transform="rotate(90 1125,1559.7)" text-rendering="optimizeSpeed" fill="#000000">pipeline-multibranch-defaults (4175)</text>
+  <text x="1125" y="1559.7" font-family="Tahoma" font-size="12" transform="rotate(90 1125,1559.7)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (4175)</text>
   <rect fill="blue" height="41.8" stroke="black" width="12" x="1140" y="1513.0"/>
-  <text x="1140" y="1559.7" font-family="Tahoma" font-size="12" transform="rotate(90 1140,1559.7)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (4175)</text>
+  <text x="1140" y="1559.7" font-family="Tahoma" font-size="12" transform="rotate(90 1140,1559.7)" text-rendering="optimizeSpeed" fill="#000000">pipeline-multibranch-defaults (4175)</text>
   <rect fill="blue" height="41.9" stroke="black" width="12" x="1155" y="1512.8"/>
   <text x="1155" y="1559.7" font-family="Tahoma" font-size="12" transform="rotate(90 1155,1559.7)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (4187)</text>
   <rect fill="blue" height="42.0" stroke="black" width="12" x="1170" y="1512.7"/>

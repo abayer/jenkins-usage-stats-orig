@@ -24,9 +24,9 @@
   <rect fill="blue" height="26.4" stroke="black" width="12" x="180" y="1103.2"/>
   <text x="180" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 180,1134.6)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2635)</text>
   <rect fill="blue" height="26.4" stroke="black" width="12" x="195" y="1103.1"/>
-  <text x="195" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 195,1134.6)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (2643)</text>
+  <text x="195" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 195,1134.6)" text-rendering="optimizeSpeed" fill="#000000">envfile (2643)</text>
   <rect fill="blue" height="26.4" stroke="black" width="12" x="210" y="1103.1"/>
-  <text x="210" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 210,1134.6)" text-rendering="optimizeSpeed" fill="#000000">envfile (2643)</text>
+  <text x="210" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 210,1134.6)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (2643)</text>
   <rect fill="blue" height="26.8" stroke="black" width="12" x="225" y="1102.8"/>
   <text x="225" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 225,1134.6)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2675)</text>
   <rect fill="blue" height="26.8" stroke="black" width="12" x="240" y="1102.7"/>
@@ -342,9 +342,9 @@
   <rect fill="blue" height="169.7" stroke="black" width="12" x="2565" y="959.9"/>
   <text x="2565" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 2565,1134.6)" text-rendering="optimizeSpeed" fill="#000000">build-pipeline-plugin (16972)</text>
   <rect fill="blue" height="173.1" stroke="black" width="12" x="2580" y="956.4"/>
-  <text x="2580" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 2580,1134.6)" text-rendering="optimizeSpeed" fill="#000000">ssh-agent (17313)</text>
+  <text x="2580" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 2580,1134.6)" text-rendering="optimizeSpeed" fill="#000000">github (17313)</text>
   <rect fill="blue" height="173.1" stroke="black" width="12" x="2595" y="956.4"/>
-  <text x="2595" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 2595,1134.6)" text-rendering="optimizeSpeed" fill="#000000">github (17313)</text>
+  <text x="2595" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 2595,1134.6)" text-rendering="optimizeSpeed" fill="#000000">ssh-agent (17313)</text>
   <rect fill="blue" height="173.2" stroke="black" width="12" x="2610" y="956.4"/>
   <text x="2610" y="1134.6" font-family="Tahoma" font-size="12" transform="rotate(90 2610,1134.6)" text-rendering="optimizeSpeed" fill="#000000">icon-shim (17316)</text>
   <rect fill="blue" height="178.7" stroke="black" width="12" x="2625" y="950.9"/>

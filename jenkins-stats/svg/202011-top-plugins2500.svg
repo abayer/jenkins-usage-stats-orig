@@ -202,15 +202,15 @@
   <rect fill="blue" height="43.8" stroke="black" width="12" x="1515" y="2739.4"/>
   <text x="1515" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1515,2788.2)" text-rendering="optimizeSpeed" fill="#000000">build-flow-plugin (4376)</text>
   <rect fill="blue" height="43.8" stroke="black" width="12" x="1530" y="2739.4"/>
-  <text x="1530" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1530,2788.2)" text-rendering="optimizeSpeed" fill="#000000">maven-invoker-plugin (4379)</text>
+  <text x="1530" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1530,2788.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4379)</text>
   <rect fill="blue" height="43.8" stroke="black" width="12" x="1545" y="2739.4"/>
-  <text x="1545" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1545,2788.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4379)</text>
+  <text x="1545" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1545,2788.2)" text-rendering="optimizeSpeed" fill="#000000">maven-invoker-plugin (4379)</text>
   <rect fill="blue" height="44.1" stroke="black" width="12" x="1560" y="2739.1"/>
   <text x="1560" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1560,2788.2)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (4413)</text>
   <rect fill="blue" height="44.3" stroke="black" width="12" x="1575" y="2738.9"/>
-  <text x="1575" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1575,2788.2)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (4429)</text>
+  <text x="1575" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1575,2788.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-pullrequest-builder (4429)</text>
   <rect fill="blue" height="44.3" stroke="black" width="12" x="1590" y="2738.9"/>
-  <text x="1590" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1590,2788.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-pullrequest-builder (4429)</text>
+  <text x="1590" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1590,2788.2)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (4429)</text>
   <rect fill="blue" height="44.5" stroke="black" width="12" x="1605" y="2738.7"/>
   <text x="1605" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 1605,2788.2)" text-rendering="optimizeSpeed" fill="#000000">junit-attachments (4453)</text>
   <rect fill="blue" height="44.6" stroke="black" width="12" x="1620" y="2738.6"/>
@@ -274,17 +274,17 @@
   <rect fill="blue" height="51.4" stroke="black" width="12" x="2055" y="2731.8"/>
   <text x="2055" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2055,2788.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-cd (5138)</text>
   <rect fill="blue" height="51.9" stroke="black" width="12" x="2070" y="2731.3"/>
-  <text x="2070" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2070,2788.2)" text-rendering="optimizeSpeed" fill="#000000">scp (5188)</text>
+  <text x="2070" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2070,2788.2)" text-rendering="optimizeSpeed" fill="#000000">notification (5188)</text>
   <rect fill="blue" height="51.9" stroke="black" width="12" x="2085" y="2731.3"/>
-  <text x="2085" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2085,2788.2)" text-rendering="optimizeSpeed" fill="#000000">notification (5188)</text>
+  <text x="2085" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2085,2788.2)" text-rendering="optimizeSpeed" fill="#000000">scp (5188)</text>
   <rect fill="blue" height="51.9" stroke="black" width="12" x="2100" y="2731.3"/>
   <text x="2100" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2100,2788.2)" text-rendering="optimizeSpeed" fill="#000000">claim (5190)</text>
   <rect fill="blue" height="54.0" stroke="black" width="12" x="2115" y="2729.2"/>
   <text x="2115" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2115,2788.2)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (5398)</text>
   <rect fill="blue" height="54.1" stroke="black" width="12" x="2130" y="2729.1"/>
-  <text x="2130" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2130,2788.2)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (5413)</text>
+  <text x="2130" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2130,2788.2)" text-rendering="optimizeSpeed" fill="#000000">global-slack-notifier (5413)</text>
   <rect fill="blue" height="54.1" stroke="black" width="12" x="2145" y="2729.1"/>
-  <text x="2145" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2145,2788.2)" text-rendering="optimizeSpeed" fill="#000000">global-slack-notifier (5413)</text>
+  <text x="2145" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2145,2788.2)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (5413)</text>
   <rect fill="blue" height="54.8" stroke="black" width="12" x="2160" y="2728.4"/>
   <text x="2160" y="2788.2" font-family="Tahoma" font-size="12" transform="rotate(90 2160,2788.2)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (5476)</text>
   <rect fill="blue" height="54.8" stroke="black" width="12" x="2175" y="2728.4"/>

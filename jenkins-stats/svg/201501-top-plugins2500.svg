@@ -2,9 +2,9 @@
   <rect fill="blue" height="25.1" stroke="black" width="12" x="15" y="1035.6"/>
   <text x="15" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,1065.7)" text-rendering="optimizeSpeed" fill="#000000">next-executions (2510)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="30" y="1035.6"/>
-  <text x="30" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 30,1065.7)" text-rendering="optimizeSpeed" fill="#000000">naginator (2516)</text>
+  <text x="30" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 30,1065.7)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2516)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="45" y="1035.6"/>
-  <text x="45" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 45,1065.7)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2516)</text>
+  <text x="45" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 45,1065.7)" text-rendering="optimizeSpeed" fill="#000000">naginator (2516)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="60" y="1035.5"/>
   <text x="60" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 60,1065.7)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (2522)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="75" y="1035.4"/>
@@ -50,9 +50,9 @@
   <rect fill="blue" height="31.5" stroke="black" width="12" x="375" y="1029.2"/>
   <text x="375" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 375,1065.7)" text-rendering="optimizeSpeed" fill="#000000">doxygen (3154)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="390" y="1029.1"/>
-  <text x="390" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 390,1065.7)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (3165)</text>
+  <text x="390" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 390,1065.7)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (3165)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="405" y="1029.1"/>
-  <text x="405" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 405,1065.7)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (3165)</text>
+  <text x="405" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 405,1065.7)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (3165)</text>
   <rect fill="blue" height="32.8" stroke="black" width="12" x="420" y="1027.9"/>
   <text x="420" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 420,1065.7)" text-rendering="optimizeSpeed" fill="#000000">build-user-vars-plugin (3283)</text>
   <rect fill="blue" height="32.9" stroke="black" width="12" x="435" y="1027.8"/>

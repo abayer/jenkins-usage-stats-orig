@@ -6,9 +6,9 @@
   <rect fill="blue" height="10.2" stroke="black" width="12" x="45" y="1139.0"/>
   <text x="45" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 45,1154.2)" text-rendering="optimizeSpeed" fill="#000000">jslint (1017)</text>
   <rect fill="blue" height="10.2" stroke="black" width="12" x="60" y="1139.0"/>
-  <text x="60" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 60,1154.2)" text-rendering="optimizeSpeed" fill="#000000">fitnesse (1020)</text>
+  <text x="60" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 60,1154.2)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1020)</text>
   <rect fill="blue" height="10.2" stroke="black" width="12" x="75" y="1139.0"/>
-  <text x="75" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 75,1154.2)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1020)</text>
+  <text x="75" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 75,1154.2)" text-rendering="optimizeSpeed" fill="#000000">fitnesse (1020)</text>
   <rect fill="blue" height="10.2" stroke="black" width="12" x="90" y="1139.0"/>
   <text x="90" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 90,1154.2)" text-rendering="optimizeSpeed" fill="#000000">configure-job-column-plugin (1023)</text>
   <rect fill="blue" height="10.2" stroke="black" width="12" x="105" y="1139.0"/>
@@ -402,9 +402,9 @@
   <rect fill="blue" height="44.7" stroke="black" width="12" x="3015" y="1104.5"/>
   <text x="3015" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 3015,1154.2)" text-rendering="optimizeSpeed" fill="#000000">text-finder (4470)</text>
   <rect fill="blue" height="44.9" stroke="black" width="12" x="3030" y="1104.3"/>
-  <text x="3030" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 3030,1154.2)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (4489)</text>
+  <text x="3030" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 3030,1154.2)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (4489)</text>
   <rect fill="blue" height="44.9" stroke="black" width="12" x="3045" y="1104.3"/>
-  <text x="3045" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 3045,1154.2)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (4489)</text>
+  <text x="3045" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 3045,1154.2)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (4489)</text>
   <rect fill="blue" height="45.0" stroke="black" width="12" x="3060" y="1104.2"/>
   <text x="3060" y="1154.2" font-family="Tahoma" font-size="12" transform="rotate(90 3060,1154.2)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (4502)</text>
   <rect fill="blue" height="45.8" stroke="black" width="12" x="3075" y="1103.4"/>

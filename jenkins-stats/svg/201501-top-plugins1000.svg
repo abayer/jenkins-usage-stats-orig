@@ -64,9 +64,9 @@
   <rect fill="blue" height="12.5" stroke="black" width="12" x="480" y="1048.2"/>
   <text x="480" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 480,1065.7)" text-rendering="optimizeSpeed" fill="#000000">progress-bar-column-plugin (1253)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="495" y="1048.2"/>
-  <text x="495" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 495,1065.7)" text-rendering="optimizeSpeed" fill="#000000">shiningpanda (1256)</text>
+  <text x="495" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 495,1065.7)" text-rendering="optimizeSpeed" fill="#000000">fail-the-build-plugin (1256)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="510" y="1048.2"/>
-  <text x="510" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 510,1065.7)" text-rendering="optimizeSpeed" fill="#000000">fail-the-build-plugin (1256)</text>
+  <text x="510" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 510,1065.7)" text-rendering="optimizeSpeed" fill="#000000">shiningpanda (1256)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="525" y="1048.1"/>
   <text x="525" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 525,1065.7)" text-rendering="optimizeSpeed" fill="#000000">http_request (1258)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="540" y="1048.1"/>
@@ -158,9 +158,9 @@
   <rect fill="blue" height="18.1" stroke="black" width="12" x="1185" y="1042.6"/>
   <text x="1185" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1185,1065.7)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (1811)</text>
   <rect fill="blue" height="18.2" stroke="black" width="12" x="1200" y="1042.6"/>
-  <text x="1200" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1200,1065.7)" text-rendering="optimizeSpeed" fill="#000000">nant (1816)</text>
+  <text x="1200" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1200,1065.7)" text-rendering="optimizeSpeed" fill="#000000">fstrigger (1816)</text>
   <rect fill="blue" height="18.2" stroke="black" width="12" x="1215" y="1042.6"/>
-  <text x="1215" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1215,1065.7)" text-rendering="optimizeSpeed" fill="#000000">fstrigger (1816)</text>
+  <text x="1215" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1215,1065.7)" text-rendering="optimizeSpeed" fill="#000000">nant (1816)</text>
   <rect fill="blue" height="18.2" stroke="black" width="12" x="1230" y="1042.5"/>
   <text x="1230" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1230,1065.7)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (1822)</text>
   <rect fill="blue" height="18.4" stroke="black" width="12" x="1245" y="1042.3"/>
@@ -246,9 +246,9 @@
   <rect fill="blue" height="25.1" stroke="black" width="12" x="1845" y="1035.6"/>
   <text x="1845" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1845,1065.7)" text-rendering="optimizeSpeed" fill="#000000">next-executions (2510)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="1860" y="1035.6"/>
-  <text x="1860" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1860,1065.7)" text-rendering="optimizeSpeed" fill="#000000">naginator (2516)</text>
+  <text x="1860" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1860,1065.7)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2516)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="1875" y="1035.6"/>
-  <text x="1875" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1875,1065.7)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2516)</text>
+  <text x="1875" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1875,1065.7)" text-rendering="optimizeSpeed" fill="#000000">naginator (2516)</text>
   <rect fill="blue" height="25.2" stroke="black" width="12" x="1890" y="1035.5"/>
   <text x="1890" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 1890,1065.7)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (2522)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="1905" y="1035.4"/>
@@ -294,9 +294,9 @@
   <rect fill="blue" height="31.5" stroke="black" width="12" x="2205" y="1029.2"/>
   <text x="2205" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 2205,1065.7)" text-rendering="optimizeSpeed" fill="#000000">doxygen (3154)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="2220" y="1029.1"/>
-  <text x="2220" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 2220,1065.7)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (3165)</text>
+  <text x="2220" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 2220,1065.7)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (3165)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="2235" y="1029.1"/>
-  <text x="2235" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 2235,1065.7)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (3165)</text>
+  <text x="2235" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 2235,1065.7)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (3165)</text>
   <rect fill="blue" height="32.8" stroke="black" width="12" x="2250" y="1027.9"/>
   <text x="2250" y="1065.7" font-family="Tahoma" font-size="12" transform="rotate(90 2250,1065.7)" text-rendering="optimizeSpeed" fill="#000000">build-user-vars-plugin (3283)</text>
   <rect fill="blue" height="32.9" stroke="black" width="12" x="2265" y="1027.8"/>

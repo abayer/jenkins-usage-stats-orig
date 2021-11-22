@@ -118,17 +118,17 @@
   <rect fill="blue" height="15.8" stroke="black" width="12" x="885" y="862.4"/>
   <text x="885" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 885,883.2)" text-rendering="optimizeSpeed" fill="#000000">jshint-checkstyle (1577)</text>
   <rect fill="blue" height="15.8" stroke="black" width="12" x="900" y="862.3"/>
-  <text x="900" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 900,883.2)" text-rendering="optimizeSpeed" fill="#000000">phing (1582)</text>
+  <text x="900" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 900,883.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (1582)</text>
   <rect fill="blue" height="15.8" stroke="black" width="12" x="915" y="862.3"/>
-  <text x="915" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 915,883.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (1582)</text>
+  <text x="915" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 915,883.2)" text-rendering="optimizeSpeed" fill="#000000">phing (1582)</text>
   <rect fill="blue" height="15.9" stroke="black" width="12" x="930" y="862.2"/>
   <text x="930" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 930,883.2)" text-rendering="optimizeSpeed" fill="#000000">clearcase (1593)</text>
   <rect fill="blue" height="16.2" stroke="black" width="12" x="945" y="862.0"/>
   <text x="945" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 945,883.2)" text-rendering="optimizeSpeed" fill="#000000">s3 (1619)</text>
   <rect fill="blue" height="16.2" stroke="black" width="12" x="960" y="862.0"/>
-  <text x="960" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 960,883.2)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (1620)</text>
+  <text x="960" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 960,883.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (1620)</text>
   <rect fill="blue" height="16.2" stroke="black" width="12" x="975" y="862.0"/>
-  <text x="975" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,883.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (1620)</text>
+  <text x="975" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,883.2)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (1620)</text>
   <rect fill="blue" height="16.4" stroke="black" width="12" x="990" y="861.8"/>
   <text x="990" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 990,883.2)" text-rendering="optimizeSpeed" fill="#000000">svnpublisher (1635)</text>
   <rect fill="blue" height="16.6" stroke="black" width="12" x="1005" y="861.6"/>
@@ -186,9 +186,9 @@
   <rect fill="blue" height="20.7" stroke="black" width="12" x="1395" y="857.5"/>
   <text x="1395" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 1395,883.2)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (2067)</text>
   <rect fill="blue" height="21.0" stroke="black" width="12" x="1410" y="857.2"/>
-  <text x="1410" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 1410,883.2)" text-rendering="optimizeSpeed" fill="#000000">redmine (2097)</text>
+  <text x="1410" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 1410,883.2)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (2097)</text>
   <rect fill="blue" height="21.0" stroke="black" width="12" x="1425" y="857.2"/>
-  <text x="1425" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 1425,883.2)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (2097)</text>
+  <text x="1425" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 1425,883.2)" text-rendering="optimizeSpeed" fill="#000000">redmine (2097)</text>
   <rect fill="blue" height="21.1" stroke="black" width="12" x="1440" y="857.1"/>
   <text x="1440" y="883.2" font-family="Tahoma" font-size="12" transform="rotate(90 1440,883.2)" text-rendering="optimizeSpeed" fill="#000000">clover (2110)</text>
   <rect fill="blue" height="21.5" stroke="black" width="12" x="1455" y="856.7"/>

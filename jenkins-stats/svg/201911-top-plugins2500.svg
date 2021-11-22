@@ -310,9 +310,9 @@
   <rect fill="blue" height="55.9" stroke="black" width="12" x="2325" y="2651.7"/>
   <text x="2325" y="2712.7" font-family="Tahoma" font-size="12" transform="rotate(90 2325,2712.7)" text-rendering="optimizeSpeed" fill="#000000">scp (5593)</text>
   <rect fill="blue" height="56.7" stroke="black" width="12" x="2340" y="2650.9"/>
-  <text x="2340" y="2712.7" font-family="Tahoma" font-size="12" transform="rotate(90 2340,2712.7)" text-rendering="optimizeSpeed" fill="#000000">repository-connector (5674)</text>
+  <text x="2340" y="2712.7" font-family="Tahoma" font-size="12" transform="rotate(90 2340,2712.7)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (5674)</text>
   <rect fill="blue" height="56.7" stroke="black" width="12" x="2355" y="2650.9"/>
-  <text x="2355" y="2712.7" font-family="Tahoma" font-size="12" transform="rotate(90 2355,2712.7)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (5674)</text>
+  <text x="2355" y="2712.7" font-family="Tahoma" font-size="12" transform="rotate(90 2355,2712.7)" text-rendering="optimizeSpeed" fill="#000000">repository-connector (5674)</text>
   <rect fill="blue" height="57.1" stroke="black" width="12" x="2370" y="2650.6"/>
   <text x="2370" y="2712.7" font-family="Tahoma" font-size="12" transform="rotate(90 2370,2712.7)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-build-status-notifier (5706)</text>
   <rect fill="blue" height="57.2" stroke="black" width="12" x="2385" y="2650.5"/>

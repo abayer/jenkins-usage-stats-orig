@@ -226,9 +226,9 @@
   <rect fill="blue" height="44.5" stroke="black" width="12" x="1695" y="2496.2"/>
   <text x="1695" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 1695,2545.7)" text-rendering="optimizeSpeed" fill="#000000">extended-read-permission (4451)</text>
   <rect fill="blue" height="44.7" stroke="black" width="12" x="1710" y="2495.9"/>
-  <text x="1710" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 1710,2545.7)" text-rendering="optimizeSpeed" fill="#000000">google-login (4474)</text>
+  <text x="1710" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 1710,2545.7)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (4474)</text>
   <rect fill="blue" height="44.7" stroke="black" width="12" x="1725" y="2495.9"/>
-  <text x="1725" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 1725,2545.7)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (4474)</text>
+  <text x="1725" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 1725,2545.7)" text-rendering="optimizeSpeed" fill="#000000">google-login (4474)</text>
   <rect fill="blue" height="44.8" stroke="black" width="12" x="1740" y="2495.8"/>
   <text x="1740" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 1740,2545.7)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecr (4483)</text>
   <rect fill="blue" height="45.1" stroke="black" width="12" x="1755" y="2495.6"/>
@@ -452,9 +452,9 @@
   <rect fill="blue" height="114.1" stroke="black" width="12" x="3390" y="2426.6"/>
   <text x="3390" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 3390,2545.7)" text-rendering="optimizeSpeed" fill="#000000">gitlab-oauth (11411)</text>
   <rect fill="blue" height="115.6" stroke="black" width="12" x="3405" y="2425.1"/>
-  <text x="3405" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 3405,2545.7)" text-rendering="optimizeSpeed" fill="#000000">github-pullrequest (11558)</text>
+  <text x="3405" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 3405,2545.7)" text-rendering="optimizeSpeed" fill="#000000">Parameterized-Remote-Trigger (11558)</text>
   <rect fill="blue" height="115.6" stroke="black" width="12" x="3420" y="2425.1"/>
-  <text x="3420" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 3420,2545.7)" text-rendering="optimizeSpeed" fill="#000000">Parameterized-Remote-Trigger (11558)</text>
+  <text x="3420" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 3420,2545.7)" text-rendering="optimizeSpeed" fill="#000000">github-pullrequest (11558)</text>
   <rect fill="blue" height="116.8" stroke="black" width="12" x="3435" y="2423.8"/>
   <text x="3435" y="2545.7" font-family="Tahoma" font-size="12" transform="rotate(90 3435,2545.7)" text-rendering="optimizeSpeed" fill="#000000">build-blocker-plugin (11683)</text>
   <rect fill="blue" height="116.9" stroke="black" width="12" x="3450" y="2423.8"/>

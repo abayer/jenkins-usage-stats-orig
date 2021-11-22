@@ -16,9 +16,9 @@
   <rect fill="blue" height="10.8" stroke="black" width="12" x="120" y="400.8"/>
   <text x="120" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 120,416.5)" text-rendering="optimizeSpeed" fill="#000000">saferestart (1077)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="135" y="400.5"/>
-  <text x="135" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 135,416.5)" text-rendering="optimizeSpeed" fill="#000000">iphoneview (1102)</text>
+  <text x="135" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 135,416.5)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (1102)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="150" y="400.5"/>
-  <text x="150" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 150,416.5)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (1102)</text>
+  <text x="150" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 150,416.5)" text-rendering="optimizeSpeed" fill="#000000">iphoneview (1102)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="165" y="400.4"/>
   <text x="165" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 165,416.5)" text-rendering="optimizeSpeed" fill="#000000">sloccount (1112)</text>
   <rect fill="blue" height="11.2" stroke="black" width="12" x="180" y="400.4"/>
@@ -94,9 +94,9 @@
   <rect fill="blue" height="15.5" stroke="black" width="12" x="705" y="396.1"/>
   <text x="705" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 705,416.5)" text-rendering="optimizeSpeed" fill="#000000">rake (1548)</text>
   <rect fill="blue" height="15.9" stroke="black" width="12" x="720" y="395.6"/>
-  <text x="720" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 720,416.5)" text-rendering="optimizeSpeed" fill="#000000">view-job-filters (1591)</text>
+  <text x="720" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 720,416.5)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (1591)</text>
   <rect fill="blue" height="15.9" stroke="black" width="12" x="735" y="395.6"/>
-  <text x="735" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 735,416.5)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (1591)</text>
+  <text x="735" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 735,416.5)" text-rendering="optimizeSpeed" fill="#000000">view-job-filters (1591)</text>
   <rect fill="blue" height="16.3" stroke="black" width="12" x="750" y="395.3"/>
   <text x="750" y="416.5" font-family="Tahoma" font-size="12" transform="rotate(90 750,416.5)" text-rendering="optimizeSpeed" fill="#000000">python (1628)</text>
   <rect fill="blue" height="16.4" stroke="black" width="12" x="765" y="395.2"/>

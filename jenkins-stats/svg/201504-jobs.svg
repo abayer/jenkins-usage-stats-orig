@@ -6,9 +6,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="4776.4"/>
   <text x="45" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreparationDailyProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="4776.4"/>
-  <text x="60" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MonitoringJobsProject (3)</text>
+  <text x="60" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-AutomationTesting-AutomationTestingProject (3)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="4776.4"/>
-  <text x="75" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 75,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-AutomationTesting-AutomationTestingProject (3)</text>
+  <text x="75" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 75,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MonitoringJobsProject (3)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="4776.4"/>
   <text x="90" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 90,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-flyweightproject-FlyweightProject (7)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="105" y="4776.4"/>
@@ -22,9 +22,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="165" y="4776.3"/>
   <text x="165" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 165,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-PreShelveProject (40)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="180" y="4776.3"/>
-  <text x="180" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 180,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeProject (41)</text>
+  <text x="180" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 180,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeFirProject (41)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="195" y="4776.3"/>
-  <text x="195" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeFirProject (41)</text>
+  <text x="195" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 195,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-SyncSources-MakeProject (41)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="210" y="4776.3"/>
   <text x="210" y="4781.4" font-family="Tahoma" font-size="12" transform="rotate(90 210,4781.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (52)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="225" y="4776.3"/>

@@ -22,9 +22,9 @@
   <rect fill="blue" height="27.8" stroke="black" width="12" x="165" y="989.6"/>
   <text x="165" y="1022.5" font-family="Tahoma" font-size="12" transform="rotate(90 165,1022.5)" text-rendering="optimizeSpeed" fill="#000000">slack (2782)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="180" y="989.0"/>
-  <text x="180" y="1022.5" font-family="Tahoma" font-size="12" transform="rotate(90 180,1022.5)" text-rendering="optimizeSpeed" fill="#000000">mstest (2845)</text>
+  <text x="180" y="1022.5" font-family="Tahoma" font-size="12" transform="rotate(90 180,1022.5)" text-rendering="optimizeSpeed" fill="#000000">batch-task (2845)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="195" y="989.0"/>
-  <text x="195" y="1022.5" font-family="Tahoma" font-size="12" transform="rotate(90 195,1022.5)" text-rendering="optimizeSpeed" fill="#000000">batch-task (2845)</text>
+  <text x="195" y="1022.5" font-family="Tahoma" font-size="12" transform="rotate(90 195,1022.5)" text-rendering="optimizeSpeed" fill="#000000">mstest (2845)</text>
   <rect fill="blue" height="28.7" stroke="black" width="12" x="210" y="988.8"/>
   <text x="210" y="1022.5" font-family="Tahoma" font-size="12" transform="rotate(90 210,1022.5)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (2866)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="225" y="988.4"/>

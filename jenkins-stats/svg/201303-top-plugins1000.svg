@@ -32,9 +32,9 @@
   <rect fill="blue" height="12.0" stroke="black" width="12" x="240" y="632.6"/>
   <text x="240" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 240,649.7)" text-rendering="optimizeSpeed" fill="#000000">job-import-plugin (1203)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="255" y="632.5"/>
-  <text x="255" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 255,649.7)" text-rendering="optimizeSpeed" fill="#000000">xvfb (1216)</text>
+  <text x="255" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 255,649.7)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (1216)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="270" y="632.5"/>
-  <text x="270" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 270,649.7)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (1216)</text>
+  <text x="270" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 270,649.7)" text-rendering="optimizeSpeed" fill="#000000">xvfb (1216)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="285" y="632.4"/>
   <text x="285" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 285,649.7)" text-rendering="optimizeSpeed" fill="#000000">phing (1222)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="300" y="632.4"/>
@@ -182,9 +182,9 @@
   <rect fill="blue" height="22.3" stroke="black" width="12" x="1365" y="622.3"/>
   <text x="1365" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 1365,649.7)" text-rendering="optimizeSpeed" fill="#000000">description-setter (2231)</text>
   <rect fill="blue" height="22.9" stroke="black" width="12" x="1380" y="621.8"/>
-  <text x="1380" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 1380,649.7)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (2287)</text>
+  <text x="1380" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 1380,649.7)" text-rendering="optimizeSpeed" fill="#000000">git-parameter (2287)</text>
   <rect fill="blue" height="22.9" stroke="black" width="12" x="1395" y="621.8"/>
-  <text x="1395" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 1395,649.7)" text-rendering="optimizeSpeed" fill="#000000">git-parameter (2287)</text>
+  <text x="1395" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 1395,649.7)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (2287)</text>
   <rect fill="blue" height="22.9" stroke="black" width="12" x="1410" y="621.8"/>
   <text x="1410" y="649.7" font-family="Tahoma" font-size="12" transform="rotate(90 1410,649.7)" text-rendering="optimizeSpeed" fill="#000000">role-strategy (2290)</text>
   <rect fill="blue" height="23.0" stroke="black" width="12" x="1425" y="621.6"/>

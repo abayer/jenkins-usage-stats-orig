@@ -86,9 +86,9 @@
   <rect fill="blue" height="14.5" stroke="black" width="12" x="645" y="455.2"/>
   <text x="645" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 645,474.7)" text-rendering="optimizeSpeed" fill="#000000">redmine (1447)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="660" y="454.9"/>
-  <text x="660" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 660,474.7)" text-rendering="optimizeSpeed" fill="#000000">text-finder (1482)</text>
+  <text x="660" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 660,474.7)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1482)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="675" y="454.9"/>
-  <text x="675" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 675,474.7)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1482)</text>
+  <text x="675" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 675,474.7)" text-rendering="optimizeSpeed" fill="#000000">text-finder (1482)</text>
   <rect fill="blue" height="14.9" stroke="black" width="12" x="690" y="454.8"/>
   <text x="690" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 690,474.7)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1490)</text>
   <rect fill="blue" height="15.1" stroke="black" width="12" x="705" y="454.7"/>

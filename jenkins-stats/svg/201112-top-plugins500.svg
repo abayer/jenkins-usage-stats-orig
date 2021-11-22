@@ -22,9 +22,9 @@
   <rect fill="blue" height="5.8" stroke="black" width="12" x="165" y="347.9"/>
   <text x="165" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 165,358.7)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (575)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="180" y="347.9"/>
-  <text x="180" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 180,358.7)" text-rendering="optimizeSpeed" fill="#000000">powershell (580)</text>
+  <text x="180" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 180,358.7)" text-rendering="optimizeSpeed" fill="#000000">junit-attachments (580)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="195" y="347.9"/>
-  <text x="195" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 195,358.7)" text-rendering="optimizeSpeed" fill="#000000">junit-attachments (580)</text>
+  <text x="195" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 195,358.7)" text-rendering="optimizeSpeed" fill="#000000">powershell (580)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="210" y="347.9"/>
   <text x="210" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 210,358.7)" text-rendering="optimizeSpeed" fill="#000000">javancss (582)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="225" y="347.9"/>
@@ -132,9 +132,9 @@
   <rect fill="blue" height="10.9" stroke="black" width="12" x="990" y="342.8"/>
   <text x="990" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 990,358.7)" text-rendering="optimizeSpeed" fill="#000000">description-setter (1086)</text>
   <rect fill="blue" height="10.9" stroke="black" width="12" x="1005" y="342.7"/>
-  <text x="1005" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 1005,358.7)" text-rendering="optimizeSpeed" fill="#000000">thinBackup (1093)</text>
+  <text x="1005" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 1005,358.7)" text-rendering="optimizeSpeed" fill="#000000">ruby (1093)</text>
   <rect fill="blue" height="10.9" stroke="black" width="12" x="1020" y="342.7"/>
-  <text x="1020" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 1020,358.7)" text-rendering="optimizeSpeed" fill="#000000">ruby (1093)</text>
+  <text x="1020" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 1020,358.7)" text-rendering="optimizeSpeed" fill="#000000">thinBackup (1093)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="1035" y="342.7"/>
   <text x="1035" y="358.7" font-family="Tahoma" font-size="12" transform="rotate(90 1035,358.7)" text-rendering="optimizeSpeed" fill="#000000">redmine (1098)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="1050" y="342.6"/>

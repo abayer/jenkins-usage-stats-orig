@@ -164,9 +164,9 @@
   <rect fill="blue" height="56.2" stroke="black" width="12" x="1230" y="960.4"/>
   <text x="1230" y="1021.6" font-family="Tahoma" font-size="12" transform="rotate(90 1230,1021.6)" text-rendering="optimizeSpeed" fill="#000000">git-parameter (5619)</text>
   <rect fill="blue" height="56.9" stroke="black" width="12" x="1245" y="959.7"/>
-  <text x="1245" y="1021.6" font-family="Tahoma" font-size="12" transform="rotate(90 1245,1021.6)" text-rendering="optimizeSpeed" fill="#000000">monitoring (5689)</text>
+  <text x="1245" y="1021.6" font-family="Tahoma" font-size="12" transform="rotate(90 1245,1021.6)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (5689)</text>
   <rect fill="blue" height="56.9" stroke="black" width="12" x="1260" y="959.7"/>
-  <text x="1260" y="1021.6" font-family="Tahoma" font-size="12" transform="rotate(90 1260,1021.6)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (5689)</text>
+  <text x="1260" y="1021.6" font-family="Tahoma" font-size="12" transform="rotate(90 1260,1021.6)" text-rendering="optimizeSpeed" fill="#000000">monitoring (5689)</text>
   <rect fill="blue" height="57.0" stroke="black" width="12" x="1275" y="959.6"/>
   <text x="1275" y="1021.6" font-family="Tahoma" font-size="12" transform="rotate(90 1275,1021.6)" text-rendering="optimizeSpeed" fill="#000000">view-job-filters (5695)</text>
   <rect fill="blue" height="58.2" stroke="black" width="12" x="1290" y="958.3"/>

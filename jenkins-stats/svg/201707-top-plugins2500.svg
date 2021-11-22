@@ -20,9 +20,9 @@
   <rect fill="blue" height="26.5" stroke="black" width="12" x="150" y="1488.3"/>
   <text x="150" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 150,1519.9)" text-rendering="optimizeSpeed" fill="#000000">google-oauth-plugin (2653)</text>
   <rect fill="blue" height="27.3" stroke="black" width="12" x="165" y="1487.6"/>
-  <text x="165" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 165,1519.9)" text-rendering="optimizeSpeed" fill="#000000">mail-watcher-plugin (2728)</text>
+  <text x="165" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 165,1519.9)" text-rendering="optimizeSpeed" fill="#000000">clover (2728)</text>
   <rect fill="blue" height="27.3" stroke="black" width="12" x="180" y="1487.6"/>
-  <text x="180" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 180,1519.9)" text-rendering="optimizeSpeed" fill="#000000">clover (2728)</text>
+  <text x="180" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 180,1519.9)" text-rendering="optimizeSpeed" fill="#000000">mail-watcher-plugin (2728)</text>
   <rect fill="blue" height="27.5" stroke="black" width="12" x="195" y="1487.4"/>
   <text x="195" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 195,1519.9)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-build-status-notifier (2749)</text>
   <rect fill="blue" height="27.5" stroke="black" width="12" x="210" y="1487.3"/>
@@ -50,9 +50,9 @@
   <rect fill="blue" height="29.0" stroke="black" width="12" x="375" y="1485.9"/>
   <text x="375" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 375,1519.9)" text-rendering="optimizeSpeed" fill="#000000">all-changes (2900)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="390" y="1485.8"/>
-  <text x="390" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 390,1519.9)" text-rendering="optimizeSpeed" fill="#000000">template-project (2905)</text>
+  <text x="390" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 390,1519.9)" text-rendering="optimizeSpeed" fill="#000000">doxygen (2905)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="405" y="1485.8"/>
-  <text x="405" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 405,1519.9)" text-rendering="optimizeSpeed" fill="#000000">doxygen (2905)</text>
+  <text x="405" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 405,1519.9)" text-rendering="optimizeSpeed" fill="#000000">template-project (2905)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="420" y="1485.8"/>
   <text x="420" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 420,1519.9)" text-rendering="optimizeSpeed" fill="#000000">sbt (2909)</text>
   <rect fill="blue" height="29.3" stroke="black" width="12" x="435" y="1485.5"/>
@@ -70,9 +70,9 @@
   <rect fill="blue" height="30.9" stroke="black" width="12" x="525" y="1483.9"/>
   <text x="525" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 525,1519.9)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-bitbucket-branch-source (3093)</text>
   <rect fill="blue" height="31.1" stroke="black" width="12" x="540" y="1483.8"/>
-  <text x="540" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 540,1519.9)" text-rendering="optimizeSpeed" fill="#000000">zentimestamp (3109)</text>
+  <text x="540" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 540,1519.9)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (3109)</text>
   <rect fill="blue" height="31.1" stroke="black" width="12" x="555" y="1483.8"/>
-  <text x="555" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 555,1519.9)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (3109)</text>
+  <text x="555" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 555,1519.9)" text-rendering="optimizeSpeed" fill="#000000">zentimestamp (3109)</text>
   <rect fill="blue" height="31.1" stroke="black" width="12" x="570" y="1483.7"/>
   <text x="570" y="1519.9" font-family="Tahoma" font-size="12" transform="rotate(90 570,1519.9)" text-rendering="optimizeSpeed" fill="#000000">gitlab-merge-request-jenkins (3112)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="585" y="1483.4"/>

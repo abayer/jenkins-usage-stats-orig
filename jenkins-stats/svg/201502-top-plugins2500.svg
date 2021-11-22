@@ -228,9 +228,9 @@
   <rect fill="blue" height="91.5" stroke="black" width="12" x="1710" y="978.0"/>
   <text x="1710" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1710,1074.5)" text-rendering="optimizeSpeed" fill="#000000">timestamper (9150)</text>
   <rect fill="blue" height="93.4" stroke="black" width="12" x="1725" y="976.2"/>
-  <text x="1725" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1725,1074.5)" text-rendering="optimizeSpeed" fill="#000000">warnings (9336)</text>
+  <text x="1725" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1725,1074.5)" text-rendering="optimizeSpeed" fill="#000000">ssh (9336)</text>
   <rect fill="blue" height="93.4" stroke="black" width="12" x="1740" y="976.2"/>
-  <text x="1740" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1740,1074.5)" text-rendering="optimizeSpeed" fill="#000000">ssh (9336)</text>
+  <text x="1740" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1740,1074.5)" text-rendering="optimizeSpeed" fill="#000000">warnings (9336)</text>
   <rect fill="blue" height="93.8" stroke="black" width="12" x="1755" y="975.8"/>
   <text x="1755" y="1074.5" font-family="Tahoma" font-size="12" transform="rotate(90 1755,1074.5)" text-rendering="optimizeSpeed" fill="#000000">gradle (9376)</text>
   <rect fill="blue" height="97.0" stroke="black" width="12" x="1770" y="972.6"/>

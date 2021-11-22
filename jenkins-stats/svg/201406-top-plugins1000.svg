@@ -192,9 +192,9 @@
   <rect fill="blue" height="20.9" stroke="black" width="12" x="1440" y="868.5"/>
   <text x="1440" y="894.5" font-family="Tahoma" font-size="12" transform="rotate(90 1440,894.5)" text-rendering="optimizeSpeed" fill="#000000">next-executions (2090)</text>
   <rect fill="blue" height="21.0" stroke="black" width="12" x="1455" y="868.5"/>
-  <text x="1455" y="894.5" font-family="Tahoma" font-size="12" transform="rotate(90 1455,894.5)" text-rendering="optimizeSpeed" fill="#000000">hipchat (2098)</text>
+  <text x="1455" y="894.5" font-family="Tahoma" font-size="12" transform="rotate(90 1455,894.5)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (2098)</text>
   <rect fill="blue" height="21.0" stroke="black" width="12" x="1470" y="868.5"/>
-  <text x="1470" y="894.5" font-family="Tahoma" font-size="12" transform="rotate(90 1470,894.5)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (2098)</text>
+  <text x="1470" y="894.5" font-family="Tahoma" font-size="12" transform="rotate(90 1470,894.5)" text-rendering="optimizeSpeed" fill="#000000">hipchat (2098)</text>
   <rect fill="blue" height="21.1" stroke="black" width="12" x="1485" y="868.4"/>
   <text x="1485" y="894.5" font-family="Tahoma" font-size="12" transform="rotate(90 1485,894.5)" text-rendering="optimizeSpeed" fill="#000000">notification (2107)</text>
   <rect fill="blue" height="21.3" stroke="black" width="12" x="1500" y="868.2"/>

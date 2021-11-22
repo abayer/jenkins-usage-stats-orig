@@ -32,9 +32,9 @@
   <rect fill="blue" height="11.1" stroke="black" width="12" x="240" y="534.3"/>
   <text x="240" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 240,550.4)" text-rendering="optimizeSpeed" fill="#000000">emotional-hudson (1109)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="255" y="534.3"/>
-  <text x="255" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 255,550.4)" text-rendering="optimizeSpeed" fill="#000000">multiple-scms (1114)</text>
+  <text x="255" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 255,550.4)" text-rendering="optimizeSpeed" fill="#000000">ivy (1114)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="270" y="534.3"/>
-  <text x="270" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 270,550.4)" text-rendering="optimizeSpeed" fill="#000000">ivy (1114)</text>
+  <text x="270" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 270,550.4)" text-rendering="optimizeSpeed" fill="#000000">multiple-scms (1114)</text>
   <rect fill="blue" height="11.2" stroke="black" width="12" x="285" y="534.2"/>
   <text x="285" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 285,550.4)" text-rendering="optimizeSpeed" fill="#000000">rubyMetrics (1125)</text>
   <rect fill="blue" height="11.6" stroke="black" width="12" x="300" y="533.8"/>
@@ -84,9 +84,9 @@
   <rect fill="blue" height="13.9" stroke="black" width="12" x="630" y="531.5"/>
   <text x="630" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 630,550.4)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (1391)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="645" y="531.2"/>
-  <text x="645" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 645,550.4)" text-rendering="optimizeSpeed" fill="#000000">sloccount (1417)</text>
+  <text x="645" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 645,550.4)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1417)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="660" y="531.2"/>
-  <text x="660" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 660,550.4)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1417)</text>
+  <text x="660" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 660,550.4)" text-rendering="optimizeSpeed" fill="#000000">sloccount (1417)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="675" y="531.2"/>
   <text x="675" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 675,550.4)" text-rendering="optimizeSpeed" fill="#000000">xvnc (1417)</text>
   <rect fill="blue" height="14.6" stroke="black" width="12" x="690" y="530.8"/>
@@ -94,9 +94,9 @@
   <rect fill="blue" height="14.6" stroke="black" width="12" x="705" y="530.8"/>
   <text x="705" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 705,550.4)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (1461)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="720" y="530.5"/>
-  <text x="720" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 720,550.4)" text-rendering="optimizeSpeed" fill="#000000">testng-plugin (1485)</text>
+  <text x="720" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 720,550.4)" text-rendering="optimizeSpeed" fill="#000000">ruby (1485)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="735" y="530.5"/>
-  <text x="735" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 735,550.4)" text-rendering="optimizeSpeed" fill="#000000">ruby (1485)</text>
+  <text x="735" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 735,550.4)" text-rendering="optimizeSpeed" fill="#000000">testng-plugin (1485)</text>
   <rect fill="blue" height="14.9" stroke="black" width="12" x="750" y="530.5"/>
   <text x="750" y="550.4" font-family="Tahoma" font-size="12" transform="rotate(90 750,550.4)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (1494)</text>
   <rect fill="blue" height="15.0" stroke="black" width="12" x="765" y="530.4"/>

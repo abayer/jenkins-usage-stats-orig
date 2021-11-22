@@ -92,15 +92,15 @@
   <rect fill="blue" height="30.4" stroke="black" width="12" x="690" y="2759.6"/>
   <text x="690" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 690,2795.0)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (3035)</text>
   <rect fill="blue" height="30.6" stroke="black" width="12" x="705" y="2759.4"/>
-  <text x="705" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 705,2795.0)" text-rendering="optimizeSpeed" fill="#000000">vsphere-cloud (3056)</text>
+  <text x="705" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 705,2795.0)" text-rendering="optimizeSpeed" fill="#000000">hipchat (3056)</text>
   <rect fill="blue" height="30.6" stroke="black" width="12" x="720" y="2759.4"/>
-  <text x="720" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 720,2795.0)" text-rendering="optimizeSpeed" fill="#000000">hipchat (3056)</text>
+  <text x="720" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 720,2795.0)" text-rendering="optimizeSpeed" fill="#000000">vsphere-cloud (3056)</text>
   <rect fill="blue" height="30.7" stroke="black" width="12" x="735" y="2759.3"/>
   <text x="735" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 735,2795.0)" text-rendering="optimizeSpeed" fill="#000000">configuration-as-code-support (3067)</text>
   <rect fill="blue" height="30.9" stroke="black" width="12" x="750" y="2759.1"/>
-  <text x="750" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 750,2795.0)" text-rendering="optimizeSpeed" fill="#000000">workflow-remote-loader (3091)</text>
+  <text x="750" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 750,2795.0)" text-rendering="optimizeSpeed" fill="#000000">nant (3091)</text>
   <rect fill="blue" height="30.9" stroke="black" width="12" x="765" y="2759.1"/>
-  <text x="765" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 765,2795.0)" text-rendering="optimizeSpeed" fill="#000000">nant (3091)</text>
+  <text x="765" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 765,2795.0)" text-rendering="optimizeSpeed" fill="#000000">workflow-remote-loader (3091)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="780" y="2758.5"/>
   <text x="780" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 780,2795.0)" text-rendering="optimizeSpeed" fill="#000000">persistent-parameter (3146)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="795" y="2758.5"/>
@@ -148,9 +148,9 @@
   <rect fill="blue" height="34.7" stroke="black" width="12" x="1110" y="2755.2"/>
   <text x="1110" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2795.0)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (3474)</text>
   <rect fill="blue" height="35.0" stroke="black" width="12" x="1125" y="2755.0"/>
-  <text x="1125" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2795.0)" text-rendering="optimizeSpeed" fill="#000000">clover (3500)</text>
+  <text x="1125" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2795.0)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (3500)</text>
   <rect fill="blue" height="35.0" stroke="black" width="12" x="1140" y="2755.0"/>
-  <text x="1140" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2795.0)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (3500)</text>
+  <text x="1140" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2795.0)" text-rendering="optimizeSpeed" fill="#000000">clover (3500)</text>
   <rect fill="blue" height="35.9" stroke="black" width="12" x="1155" y="2754.1"/>
   <text x="1155" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1155,2795.0)" text-rendering="optimizeSpeed" fill="#000000">purge-build-queue-plugin (3586)</text>
   <rect fill="blue" height="36.5" stroke="black" width="12" x="1170" y="2753.5"/>
@@ -264,9 +264,9 @@
   <rect fill="blue" height="49.9" stroke="black" width="12" x="1980" y="2740.1"/>
   <text x="1980" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1980,2795.0)" text-rendering="optimizeSpeed" fill="#000000">managed-scripts (4988)</text>
   <rect fill="blue" height="50.1" stroke="black" width="12" x="1995" y="2739.8"/>
-  <text x="1995" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1995,2795.0)" text-rendering="optimizeSpeed" fill="#000000">prometheus (5014)</text>
+  <text x="1995" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 1995,2795.0)" text-rendering="optimizeSpeed" fill="#000000">global-slack-notifier (5014)</text>
   <rect fill="blue" height="50.1" stroke="black" width="12" x="2010" y="2739.8"/>
-  <text x="2010" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 2010,2795.0)" text-rendering="optimizeSpeed" fill="#000000">global-slack-notifier (5014)</text>
+  <text x="2010" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 2010,2795.0)" text-rendering="optimizeSpeed" fill="#000000">prometheus (5014)</text>
   <rect fill="blue" height="50.3" stroke="black" width="12" x="2025" y="2739.6"/>
   <text x="2025" y="2795.0" font-family="Tahoma" font-size="12" transform="rotate(90 2025,2795.0)" text-rendering="optimizeSpeed" fill="#000000">pipeline-githubnotify-step (5032)</text>
   <rect fill="blue" height="51.0" stroke="black" width="12" x="2040" y="2739.0"/>

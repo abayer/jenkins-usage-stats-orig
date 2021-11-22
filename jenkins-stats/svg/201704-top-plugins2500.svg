@@ -68,9 +68,9 @@
   <rect fill="blue" height="29.6" stroke="black" width="12" x="510" y="1429.4"/>
   <text x="510" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 510,1464.0)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (2959)</text>
   <rect fill="blue" height="29.7" stroke="black" width="12" x="525" y="1429.3"/>
-  <text x="525" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 525,1464.0)" text-rendering="optimizeSpeed" fill="#000000">doxygen (2971)</text>
+  <text x="525" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 525,1464.0)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2971)</text>
   <rect fill="blue" height="29.7" stroke="black" width="12" x="540" y="1429.3"/>
-  <text x="540" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 540,1464.0)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2971)</text>
+  <text x="540" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 540,1464.0)" text-rendering="optimizeSpeed" fill="#000000">doxygen (2971)</text>
   <rect fill="blue" height="29.8" stroke="black" width="12" x="555" y="1429.2"/>
   <text x="555" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 555,1464.0)" text-rendering="optimizeSpeed" fill="#000000">extended-read-permission (2975)</text>
   <rect fill="blue" height="30.0" stroke="black" width="12" x="570" y="1429.0"/>
@@ -248,9 +248,9 @@
   <rect fill="blue" height="67.1" stroke="black" width="12" x="1860" y="1391.8"/>
   <text x="1860" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 1860,1464.0)" text-rendering="optimizeSpeed" fill="#000000">dry (6712)</text>
   <rect fill="blue" height="67.4" stroke="black" width="12" x="1875" y="1391.6"/>
-  <text x="1875" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 1875,1464.0)" text-rendering="optimizeSpeed" fill="#000000">text-finder (6736)</text>
+  <text x="1875" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 1875,1464.0)" text-rendering="optimizeSpeed" fill="#000000">extra-columns (6736)</text>
   <rect fill="blue" height="67.4" stroke="black" width="12" x="1890" y="1391.6"/>
-  <text x="1890" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 1890,1464.0)" text-rendering="optimizeSpeed" fill="#000000">extra-columns (6736)</text>
+  <text x="1890" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 1890,1464.0)" text-rendering="optimizeSpeed" fill="#000000">text-finder (6736)</text>
   <rect fill="blue" height="67.5" stroke="black" width="12" x="1905" y="1391.5"/>
   <text x="1905" y="1464.0" font-family="Tahoma" font-size="12" transform="rotate(90 1905,1464.0)" text-rendering="optimizeSpeed" fill="#000000">Parameterized-Remote-Trigger (6748)</text>
   <rect fill="blue" height="68.2" stroke="black" width="12" x="1920" y="1390.8"/>

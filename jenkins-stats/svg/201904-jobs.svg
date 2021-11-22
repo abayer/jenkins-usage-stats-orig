@@ -2,11 +2,11 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="14898.6"/>
   <text x="15" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 15,14903.6)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-PhpProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="14898.6"/>
-  <text x="30" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 30,14903.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-StoreVersion (1)</text>
+  <text x="30" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 30,14903.6)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-wormpex-data-template-DataWarehouseStyleProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="14898.6"/>
-  <text x="45" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 45,14903.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (1)</text>
+  <text x="45" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 45,14903.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-StoreVersion (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="14898.6"/>
-  <text x="60" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 60,14903.6)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-wormpex-data-template-DataWarehouseStyleProject (1)</text>
+  <text x="60" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 60,14903.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="14898.6"/>
   <text x="75" y="14903.6" font-family="Tahoma" font-size="12" transform="rotate(90 75,14903.6)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-PortalNotifier (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="14898.6"/>

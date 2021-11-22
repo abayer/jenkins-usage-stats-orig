@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 650 11830.0">
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="11530.0"/>
-  <text x="15" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 15,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateBranchProject (1)</text>
+  <text x="15" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 15,11535.0)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-PhpProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="11530.0"/>
-  <text x="30" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 30,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pluginintegrationnew-LcaToolProject (1)</text>
+  <text x="30" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 30,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateBranchProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="11530.0"/>
   <text x="45" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 45,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-StoreVersion (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="11530.0"/>
-  <text x="60" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 60,11535.0)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-PhpProject (1)</text>
+  <text x="60" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 60,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pluginintegrationnew-LcaToolProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="11530.0"/>
-  <text x="75" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 75,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-PortalNotifier (2)</text>
+  <text x="75" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 75,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="11530.0"/>
-  <text x="90" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 90,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (2)</text>
+  <text x="90" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 90,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-PortalNotifier (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="105" y="11530.0"/>
-  <text x="105" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 105,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-coordinator-dummy-model-CoordinatorProject (7)</text>
+  <text x="105" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 105,11535.0)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-CppProject (7)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="120" y="11530.0"/>
-  <text x="120" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 120,11535.0)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-CppProject (7)</text>
+  <text x="120" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 120,11535.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-coordinator-dummy-model-CoordinatorProject (7)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="135" y="11530.0"/>
   <text x="135" y="11535.0" font-family="Tahoma" font-size="12" transform="rotate(90 135,11535.0)" text-rendering="optimizeSpeed" fill="#000000">com-github-mjdetullio-jenkins-plugins-multibranch-IvyMultiBranchProject (8)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="150" y="11530.0"/>

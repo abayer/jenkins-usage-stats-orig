@@ -28,9 +28,9 @@
   <rect fill="blue" height="29.5" stroke="black" width="12" x="210" y="680.2"/>
   <text x="210" y="714.7" font-family="Tahoma" font-size="12" transform="rotate(90 210,714.7)" text-rendering="optimizeSpeed" fill="#000000">git-server (2950)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="225" y="679.8"/>
-  <text x="225" y="714.7" font-family="Tahoma" font-size="12" transform="rotate(90 225,714.7)" text-rendering="optimizeSpeed" fill="#000000">nested-view (2990)</text>
+  <text x="225" y="714.7" font-family="Tahoma" font-size="12" transform="rotate(90 225,714.7)" text-rendering="optimizeSpeed" fill="#000000">audit-trail (2990)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="240" y="679.8"/>
-  <text x="240" y="714.7" font-family="Tahoma" font-size="12" transform="rotate(90 240,714.7)" text-rendering="optimizeSpeed" fill="#000000">audit-trail (2990)</text>
+  <text x="240" y="714.7" font-family="Tahoma" font-size="12" transform="rotate(90 240,714.7)" text-rendering="optimizeSpeed" fill="#000000">nested-view (2990)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="255" y="679.7"/>
   <text x="255" y="714.7" font-family="Tahoma" font-size="12" transform="rotate(90 255,714.7)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (2994)</text>
   <rect fill="blue" height="30.3" stroke="black" width="12" x="270" y="679.4"/>

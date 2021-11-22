@@ -40,9 +40,9 @@
   <rect fill="blue" height="5.7" stroke="black" width="12" x="300" y="431.8"/>
   <text x="300" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 300,442.5)" text-rendering="optimizeSpeed" fill="#000000">throttle-concurrents (572)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="315" y="431.8"/>
-  <text x="315" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 315,442.5)" text-rendering="optimizeSpeed" fill="#000000">ncover (575)</text>
+  <text x="315" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 315,442.5)" text-rendering="optimizeSpeed" fill="#000000">extended-choice-parameter (575)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="330" y="431.8"/>
-  <text x="330" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 330,442.5)" text-rendering="optimizeSpeed" fill="#000000">extended-choice-parameter (575)</text>
+  <text x="330" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 330,442.5)" text-rendering="optimizeSpeed" fill="#000000">ncover (575)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="345" y="431.7"/>
   <text x="345" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 345,442.5)" text-rendering="optimizeSpeed" fill="#000000">jquery (581)</text>
   <rect fill="blue" height="5.9" stroke="black" width="12" x="360" y="431.7"/>
@@ -78,9 +78,9 @@
   <rect fill="blue" height="6.7" stroke="black" width="12" x="585" y="430.9"/>
   <text x="585" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 585,442.5)" text-rendering="optimizeSpeed" fill="#000000">git-parameter (665)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="600" y="430.6"/>
-  <text x="600" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 600,442.5)" text-rendering="optimizeSpeed" fill="#000000">build-publisher (696)</text>
+  <text x="600" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 600,442.5)" text-rendering="optimizeSpeed" fill="#000000">blame-upstream-commiters (696)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="615" y="430.6"/>
-  <text x="615" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 615,442.5)" text-rendering="optimizeSpeed" fill="#000000">blame-upstream-commiters (696)</text>
+  <text x="615" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 615,442.5)" text-rendering="optimizeSpeed" fill="#000000">build-publisher (696)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="630" y="430.6"/>
   <text x="630" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 630,442.5)" text-rendering="optimizeSpeed" fill="#000000">groovy-postbuild (698)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="645" y="430.5"/>
@@ -114,9 +114,9 @@
   <rect fill="blue" height="8.2" stroke="black" width="12" x="855" y="429.3"/>
   <text x="855" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 855,442.5)" text-rendering="optimizeSpeed" fill="#000000">phing (825)</text>
   <rect fill="blue" height="8.4" stroke="black" width="12" x="870" y="429.2"/>
-  <text x="870" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 870,442.5)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (836)</text>
+  <text x="870" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 870,442.5)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (836)</text>
   <rect fill="blue" height="8.4" stroke="black" width="12" x="885" y="429.2"/>
-  <text x="885" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 885,442.5)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (836)</text>
+  <text x="885" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 885,442.5)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (836)</text>
   <rect fill="blue" height="8.4" stroke="black" width="12" x="900" y="429.2"/>
   <text x="900" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 900,442.5)" text-rendering="optimizeSpeed" fill="#000000">ansicolor (839)</text>
   <rect fill="blue" height="8.6" stroke="black" width="12" x="915" y="429.0"/>
@@ -204,9 +204,9 @@
   <rect fill="blue" height="12.9" stroke="black" width="12" x="1530" y="424.6"/>
   <text x="1530" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 1530,442.5)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (1293)</text>
   <rect fill="blue" height="13.0" stroke="black" width="12" x="1545" y="424.5"/>
-  <text x="1545" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 1545,442.5)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (1302)</text>
+  <text x="1545" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 1545,442.5)" text-rendering="optimizeSpeed" fill="#000000">all-changes (1302)</text>
   <rect fill="blue" height="13.0" stroke="black" width="12" x="1560" y="424.5"/>
-  <text x="1560" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 1560,442.5)" text-rendering="optimizeSpeed" fill="#000000">all-changes (1302)</text>
+  <text x="1560" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 1560,442.5)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (1302)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="1575" y="424.3"/>
   <text x="1575" y="442.5" font-family="Tahoma" font-size="12" transform="rotate(90 1575,442.5)" text-rendering="optimizeSpeed" fill="#000000">ws-cleanup (1327)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="1590" y="424.2"/>

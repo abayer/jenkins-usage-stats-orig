@@ -106,9 +106,9 @@
   <rect fill="blue" height="31.3" stroke="black" width="12" x="795" y="2556.1"/>
   <text x="795" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 795,2592.4)" text-rendering="optimizeSpeed" fill="#000000">fstrigger (3127)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="810" y="2555.8"/>
-  <text x="810" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 810,2592.4)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (3154)</text>
+  <text x="810" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 810,2592.4)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (3154)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="825" y="2555.8"/>
-  <text x="825" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 825,2592.4)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (3154)</text>
+  <text x="825" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 825,2592.4)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (3154)</text>
   <rect fill="blue" height="31.6" stroke="black" width="12" x="840" y="2555.8"/>
   <text x="840" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 840,2592.4)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (3159)</text>
   <rect fill="blue" height="32.0" stroke="black" width="12" x="855" y="2555.4"/>
@@ -184,9 +184,9 @@
   <rect fill="blue" height="39.5" stroke="black" width="12" x="1380" y="2547.9"/>
   <text x="1380" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1380,2592.4)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (3948)</text>
   <rect fill="blue" height="40.1" stroke="black" width="12" x="1395" y="2547.3"/>
-  <text x="1395" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1395,2592.4)" text-rendering="optimizeSpeed" fill="#000000">sonar-quality-gates (4007)</text>
+  <text x="1395" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1395,2592.4)" text-rendering="optimizeSpeed" fill="#000000">mail-watcher-plugin (4007)</text>
   <rect fill="blue" height="40.1" stroke="black" width="12" x="1410" y="2547.3"/>
-  <text x="1410" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1410,2592.4)" text-rendering="optimizeSpeed" fill="#000000">mail-watcher-plugin (4007)</text>
+  <text x="1410" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1410,2592.4)" text-rendering="optimizeSpeed" fill="#000000">sonar-quality-gates (4007)</text>
   <rect fill="blue" height="41.2" stroke="black" width="12" x="1425" y="2546.2"/>
   <text x="1425" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1425,2592.4)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (4122)</text>
   <rect fill="blue" height="41.5" stroke="black" width="12" x="1440" y="2545.9"/>
@@ -222,9 +222,9 @@
   <rect fill="blue" height="44.6" stroke="black" width="12" x="1665" y="2542.8"/>
   <text x="1665" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1665,2592.4)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (4460)</text>
   <rect fill="blue" height="45.0" stroke="black" width="12" x="1680" y="2542.4"/>
-  <text x="1680" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1680,2592.4)" text-rendering="optimizeSpeed" fill="#000000">configuration-as-code (4497)</text>
+  <text x="1680" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1680,2592.4)" text-rendering="optimizeSpeed" fill="#000000">cloud-stats (4497)</text>
   <rect fill="blue" height="45.0" stroke="black" width="12" x="1695" y="2542.4"/>
-  <text x="1695" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1695,2592.4)" text-rendering="optimizeSpeed" fill="#000000">cloud-stats (4497)</text>
+  <text x="1695" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1695,2592.4)" text-rendering="optimizeSpeed" fill="#000000">configuration-as-code (4497)</text>
   <rect fill="blue" height="45.0" stroke="black" width="12" x="1710" y="2542.4"/>
   <text x="1710" y="2592.4" font-family="Tahoma" font-size="12" transform="rotate(90 1710,2592.4)" text-rendering="optimizeSpeed" fill="#000000">jaxb (4500)</text>
   <rect fill="blue" height="45.0" stroke="black" width="12" x="1725" y="2542.3"/>

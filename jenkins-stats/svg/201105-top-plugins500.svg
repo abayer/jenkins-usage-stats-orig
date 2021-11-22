@@ -70,9 +70,9 @@
   <rect fill="blue" height="8.1" stroke="black" width="12" x="525" y="272.2"/>
   <text x="525" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 525,285.3)" text-rendering="optimizeSpeed" fill="#000000">locale (808)</text>
   <rect fill="blue" height="8.1" stroke="black" width="12" x="540" y="272.2"/>
-  <text x="540" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 540,285.3)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (814)</text>
+  <text x="540" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 540,285.3)" text-rendering="optimizeSpeed" fill="#000000">monitoring (814)</text>
   <rect fill="blue" height="8.1" stroke="black" width="12" x="555" y="272.2"/>
-  <text x="555" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 555,285.3)" text-rendering="optimizeSpeed" fill="#000000">monitoring (814)</text>
+  <text x="555" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 555,285.3)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (814)</text>
   <rect fill="blue" height="8.1" stroke="black" width="12" x="570" y="272.2"/>
   <text x="570" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 570,285.3)" text-rendering="optimizeSpeed" fill="#000000">ruby (814)</text>
   <rect fill="blue" height="8.3" stroke="black" width="12" x="585" y="272.0"/>
@@ -82,9 +82,9 @@
   <rect fill="blue" height="8.5" stroke="black" width="12" x="615" y="271.8"/>
   <text x="615" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 615,285.3)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (850)</text>
   <rect fill="blue" height="8.6" stroke="black" width="12" x="630" y="271.8"/>
-  <text x="630" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 630,285.3)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (855)</text>
+  <text x="630" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 630,285.3)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (855)</text>
   <rect fill="blue" height="8.6" stroke="black" width="12" x="645" y="271.8"/>
-  <text x="645" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 645,285.3)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (855)</text>
+  <text x="645" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 645,285.3)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (855)</text>
   <rect fill="blue" height="8.6" stroke="black" width="12" x="660" y="271.7"/>
   <text x="660" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 660,285.3)" text-rendering="optimizeSpeed" fill="#000000">groovy (861)</text>
   <rect fill="blue" height="8.9" stroke="black" width="12" x="675" y="271.4"/>
@@ -132,9 +132,9 @@
   <rect fill="blue" height="12.3" stroke="black" width="12" x="990" y="268.0"/>
   <text x="990" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 990,285.3)" text-rendering="optimizeSpeed" fill="#000000">sidebar-link (1227)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="1005" y="267.8"/>
-  <text x="1005" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 1005,285.3)" text-rendering="optimizeSpeed" fill="#000000">release (1248)</text>
+  <text x="1005" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 1005,285.3)" text-rendering="optimizeSpeed" fill="#000000">performance (1248)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="1020" y="267.8"/>
-  <text x="1020" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 1020,285.3)" text-rendering="optimizeSpeed" fill="#000000">performance (1248)</text>
+  <text x="1020" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 1020,285.3)" text-rendering="optimizeSpeed" fill="#000000">release (1248)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="1035" y="267.7"/>
   <text x="1035" y="285.3" font-family="Tahoma" font-size="12" transform="rotate(90 1035,285.3)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (1257)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="1050" y="267.7"/>

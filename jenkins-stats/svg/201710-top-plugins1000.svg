@@ -214,9 +214,9 @@
   <rect fill="blue" height="15.1" stroke="black" width="12" x="1605" y="1550.5"/>
   <text x="1605" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1605,1570.6)" text-rendering="optimizeSpeed" fill="#000000">progress-bar-column-plugin (1505)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1620" y="1550.4"/>
-  <text x="1620" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1620,1570.6)" text-rendering="optimizeSpeed" fill="#000000">hidden-parameter (1516)</text>
+  <text x="1620" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1620,1570.6)" text-rendering="optimizeSpeed" fill="#000000">file-operations (1516)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1635" y="1550.4"/>
-  <text x="1635" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1635,1570.6)" text-rendering="optimizeSpeed" fill="#000000">file-operations (1516)</text>
+  <text x="1635" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1635,1570.6)" text-rendering="optimizeSpeed" fill="#000000">hidden-parameter (1516)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1650" y="1550.4"/>
   <text x="1650" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1650,1570.6)" text-rendering="optimizeSpeed" fill="#000000">quality-gates (1522)</text>
   <rect fill="blue" height="15.3" stroke="black" width="12" x="1665" y="1550.3"/>
@@ -262,9 +262,9 @@
   <rect fill="blue" height="16.7" stroke="black" width="12" x="1965" y="1548.9"/>
   <text x="1965" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1965,1570.6)" text-rendering="optimizeSpeed" fill="#000000">pegdown-formatter (1667)</text>
   <rect fill="blue" height="16.7" stroke="black" width="12" x="1980" y="1548.8"/>
-  <text x="1980" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1980,1570.6)" text-rendering="optimizeSpeed" fill="#000000">teamconcert (1674)</text>
+  <text x="1980" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1980,1570.6)" text-rendering="optimizeSpeed" fill="#000000">saml (1674)</text>
   <rect fill="blue" height="16.7" stroke="black" width="12" x="1995" y="1548.8"/>
-  <text x="1995" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1995,1570.6)" text-rendering="optimizeSpeed" fill="#000000">saml (1674)</text>
+  <text x="1995" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 1995,1570.6)" text-rendering="optimizeSpeed" fill="#000000">teamconcert (1674)</text>
   <rect fill="blue" height="16.8" stroke="black" width="12" x="2010" y="1548.8"/>
   <text x="2010" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 2010,1570.6)" text-rendering="optimizeSpeed" fill="#000000">pipeline-githubnotify-step (1680)</text>
   <rect fill="blue" height="16.8" stroke="black" width="12" x="2025" y="1548.8"/>
@@ -624,9 +624,9 @@
   <rect fill="blue" height="55.9" stroke="black" width="12" x="4680" y="1509.7"/>
   <text x="4680" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 4680,1570.6)" text-rendering="optimizeSpeed" fill="#000000">chucknorris (5586)</text>
   <rect fill="blue" height="55.9" stroke="black" width="12" x="4695" y="1509.7"/>
-  <text x="4695" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 4695,1570.6)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (5594)</text>
+  <text x="4695" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 4695,1570.6)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (5594)</text>
   <rect fill="blue" height="55.9" stroke="black" width="12" x="4710" y="1509.7"/>
-  <text x="4710" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 4710,1570.6)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (5594)</text>
+  <text x="4710" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 4710,1570.6)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (5594)</text>
   <rect fill="blue" height="56.1" stroke="black" width="12" x="4725" y="1509.5"/>
   <text x="4725" y="1570.6" font-family="Tahoma" font-size="12" transform="rotate(90 4725,1570.6)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (5613)</text>
   <rect fill="blue" height="57.6" stroke="black" width="12" x="4740" y="1508.0"/>

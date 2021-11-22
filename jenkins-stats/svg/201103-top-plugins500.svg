@@ -62,9 +62,9 @@
   <rect fill="blue" height="7.8" stroke="black" width="12" x="465" y="264.5"/>
   <text x="465" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 465,277.3)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (779)</text>
   <rect fill="blue" height="7.8" stroke="black" width="12" x="480" y="264.5"/>
-  <text x="480" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 480,277.3)" text-rendering="optimizeSpeed" fill="#000000">ruby (780)</text>
+  <text x="480" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 480,277.3)" text-rendering="optimizeSpeed" fill="#000000">description-setter (780)</text>
   <rect fill="blue" height="7.8" stroke="black" width="12" x="495" y="264.5"/>
-  <text x="495" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 495,277.3)" text-rendering="optimizeSpeed" fill="#000000">description-setter (780)</text>
+  <text x="495" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 495,277.3)" text-rendering="optimizeSpeed" fill="#000000">ruby (780)</text>
   <rect fill="blue" height="7.8" stroke="black" width="12" x="510" y="264.5"/>
   <text x="510" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 510,277.3)" text-rendering="optimizeSpeed" fill="#000000">hudsontrayapp (781)</text>
   <rect fill="blue" height="7.9" stroke="black" width="12" x="525" y="264.4"/>
@@ -116,9 +116,9 @@
   <rect fill="blue" height="10.9" stroke="black" width="12" x="870" y="261.5"/>
   <text x="870" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 870,277.3)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (1087)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="885" y="261.3"/>
-  <text x="885" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 885,277.3)" text-rendering="optimizeSpeed" fill="#000000">statusmonitor (1101)</text>
+  <text x="885" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 885,277.3)" text-rendering="optimizeSpeed" fill="#000000">github (1101)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="900" y="261.3"/>
-  <text x="900" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 900,277.3)" text-rendering="optimizeSpeed" fill="#000000">github (1101)</text>
+  <text x="900" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 900,277.3)" text-rendering="optimizeSpeed" fill="#000000">statusmonitor (1101)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="915" y="260.9"/>
   <text x="915" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 915,277.3)" text-rendering="optimizeSpeed" fill="#000000">nunit (1145)</text>
   <rect fill="blue" height="11.5" stroke="black" width="12" x="930" y="260.8"/>
@@ -136,9 +136,9 @@
   <rect fill="blue" height="12.3" stroke="black" width="12" x="1020" y="260.1"/>
   <text x="1020" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 1020,277.3)" text-rendering="optimizeSpeed" fill="#000000">release (1226)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="1035" y="259.8"/>
-  <text x="1035" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 1035,277.3)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (1254)</text>
+  <text x="1035" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 1035,277.3)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (1254)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="1050" y="259.8"/>
-  <text x="1050" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 1050,277.3)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (1254)</text>
+  <text x="1050" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 1050,277.3)" text-rendering="optimizeSpeed" fill="#000000">svn-release-mgr (1254)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="1065" y="259.8"/>
   <text x="1065" y="277.3" font-family="Tahoma" font-size="12" transform="rotate(90 1065,277.3)" text-rendering="optimizeSpeed" fill="#000000">audit-trail (1256)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="1080" y="259.7"/>

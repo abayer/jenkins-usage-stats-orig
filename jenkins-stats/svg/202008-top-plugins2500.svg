@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 6830 3052.8">
   <rect fill="blue" height="25.3" stroke="black" width="12" x="15" y="2727.6"/>
-  <text x="15" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 15,2757.8)" text-rendering="optimizeSpeed" fill="#000000">run-condition-extras (2526)</text>
+  <text x="15" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 15,2757.8)" text-rendering="optimizeSpeed" fill="#000000">project-description-setter (2526)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="30" y="2727.6"/>
-  <text x="30" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 30,2757.8)" text-rendering="optimizeSpeed" fill="#000000">project-description-setter (2526)</text>
+  <text x="30" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 30,2757.8)" text-rendering="optimizeSpeed" fill="#000000">run-condition-extras (2526)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="45" y="2727.5"/>
   <text x="45" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 45,2757.8)" text-rendering="optimizeSpeed" fill="#000000">ez-templates (2534)</text>
   <rect fill="blue" height="25.4" stroke="black" width="12" x="60" y="2727.5"/>
@@ -328,9 +328,9 @@
   <rect fill="blue" height="62.6" stroke="black" width="12" x="2460" y="2690.2"/>
   <text x="2460" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 2460,2757.8)" text-rendering="optimizeSpeed" fill="#000000">build-environment (6259)</text>
   <rect fill="blue" height="62.6" stroke="black" width="12" x="2475" y="2690.2"/>
-  <text x="2475" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 2475,2757.8)" text-rendering="optimizeSpeed" fill="#000000">nexus-jenkins-plugin (6262)</text>
+  <text x="2475" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 2475,2757.8)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecr (6262)</text>
   <rect fill="blue" height="62.6" stroke="black" width="12" x="2490" y="2690.2"/>
-  <text x="2490" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 2490,2757.8)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecr (6262)</text>
+  <text x="2490" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 2490,2757.8)" text-rendering="optimizeSpeed" fill="#000000">nexus-jenkins-plugin (6262)</text>
   <rect fill="blue" height="62.6" stroke="black" width="12" x="2505" y="2690.2"/>
   <text x="2505" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 2505,2757.8)" text-rendering="optimizeSpeed" fill="#000000">async-http-client (6264)</text>
   <rect fill="blue" height="62.9" stroke="black" width="12" x="2520" y="2689.9"/>
@@ -540,9 +540,9 @@
   <rect fill="blue" height="191.2" stroke="black" width="12" x="4050" y="2561.7"/>
   <text x="4050" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 4050,2757.8)" text-rendering="optimizeSpeed" fill="#000000">postbuild-task (19118)</text>
   <rect fill="blue" height="193.1" stroke="black" width="12" x="4065" y="2559.7"/>
-  <text x="4065" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 4065,2757.8)" text-rendering="optimizeSpeed" fill="#000000">nodelabelparameter (19310)</text>
+  <text x="4065" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 4065,2757.8)" text-rendering="optimizeSpeed" fill="#000000">jacoco (19310)</text>
   <rect fill="blue" height="193.1" stroke="black" width="12" x="4080" y="2559.7"/>
-  <text x="4080" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 4080,2757.8)" text-rendering="optimizeSpeed" fill="#000000">jacoco (19310)</text>
+  <text x="4080" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 4080,2757.8)" text-rendering="optimizeSpeed" fill="#000000">nodelabelparameter (19310)</text>
   <rect fill="blue" height="195.4" stroke="black" width="12" x="4095" y="2557.5"/>
   <text x="4095" y="2757.8" font-family="Tahoma" font-size="12" transform="rotate(90 4095,2757.8)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-credentials (19537)</text>
   <rect fill="blue" height="199.2" stroke="black" width="12" x="4110" y="2553.6"/>

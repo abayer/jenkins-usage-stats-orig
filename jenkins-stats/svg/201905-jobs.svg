@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 590 15831.4">
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="15531.4"/>
-  <text x="15" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-StoreVersion (1)</text>
+  <text x="15" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-PhpProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="15531.4"/>
-  <text x="30" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 30,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-mavenjobgenerator-MavenJobGenerator (1)</text>
+  <text x="30" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 30,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-wormpex-data-template-DataWarehouseStyleProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="15531.4"/>
-  <text x="45" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (1)</text>
+  <text x="45" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 45,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="15531.4"/>
-  <text x="60" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-PhpProject (1)</text>
+  <text x="60" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 60,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-StoreVersion (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="15531.4"/>
-  <text x="75" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 75,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-wormpex-data-template-DataWarehouseStyleProject (1)</text>
+  <text x="75" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 75,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-mavenjobgenerator-MavenJobGenerator (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="15531.4"/>
-  <text x="90" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 90,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (1)</text>
+  <text x="90" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 90,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-spoontrigger-SpoonProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="105" y="15531.4"/>
   <text x="105" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 105,15536.4)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-PortalNotifier (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="120" y="15531.4"/>
-  <text x="120" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 120,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-job_dependency-projects-MasterProject (6)</text>
+  <text x="120" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 120,15536.4)" text-rendering="optimizeSpeed" fill="#000000">com-github-mjdetullio-jenkins-plugins-multibranch-IvyMultiBranchProject (6)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="135" y="15531.4"/>
-  <text x="135" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 135,15536.4)" text-rendering="optimizeSpeed" fill="#000000">com-github-mjdetullio-jenkins-plugins-multibranch-IvyMultiBranchProject (6)</text>
+  <text x="135" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 135,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-job_dependency-projects-MasterProject (6)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="150" y="15531.4"/>
   <text x="150" y="15536.4" font-family="Tahoma" font-size="12" transform="rotate(90 150,15536.4)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-GolangProject (7)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="165" y="15531.4"/>

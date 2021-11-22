@@ -24,9 +24,9 @@
   <rect fill="blue" height="10.9" stroke="black" width="12" x="180" y="492.6"/>
   <text x="180" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 180,508.5)" text-rendering="optimizeSpeed" fill="#000000">iphoneview (1087)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="195" y="492.1"/>
-  <text x="195" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 195,508.5)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (1138)</text>
+  <text x="195" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 195,508.5)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1138)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="210" y="492.1"/>
-  <text x="210" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 210,508.5)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1138)</text>
+  <text x="210" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 210,508.5)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (1138)</text>
   <rect fill="blue" height="11.4" stroke="black" width="12" x="225" y="492.1"/>
   <text x="225" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 225,508.5)" text-rendering="optimizeSpeed" fill="#000000">envfile (1139)</text>
   <rect fill="blue" height="11.7" stroke="black" width="12" x="240" y="491.8"/>
@@ -34,9 +34,9 @@
   <rect fill="blue" height="11.7" stroke="black" width="12" x="255" y="491.8"/>
   <text x="255" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 255,508.5)" text-rendering="optimizeSpeed" fill="#000000">cron_column (1172)</text>
   <rect fill="blue" height="11.8" stroke="black" width="12" x="270" y="491.7"/>
-  <text x="270" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 270,508.5)" text-rendering="optimizeSpeed" fill="#000000">trac (1178)</text>
+  <text x="270" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 270,508.5)" text-rendering="optimizeSpeed" fill="#000000">rebuild (1178)</text>
   <rect fill="blue" height="11.8" stroke="black" width="12" x="285" y="491.7"/>
-  <text x="285" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 285,508.5)" text-rendering="optimizeSpeed" fill="#000000">rebuild (1178)</text>
+  <text x="285" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 285,508.5)" text-rendering="optimizeSpeed" fill="#000000">trac (1178)</text>
   <rect fill="blue" height="12.1" stroke="black" width="12" x="300" y="491.4"/>
   <text x="300" y="508.5" font-family="Tahoma" font-size="12" transform="rotate(90 300,508.5)" text-rendering="optimizeSpeed" fill="#000000">mstest (1209)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="315" y="491.2"/>

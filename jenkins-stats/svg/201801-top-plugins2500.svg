@@ -80,9 +80,9 @@
   <rect fill="blue" height="32.0" stroke="black" width="12" x="600" y="1580.7"/>
   <text x="600" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 600,1617.8)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (3204)</text>
   <rect fill="blue" height="32.2" stroke="black" width="12" x="615" y="1580.6"/>
-  <text x="615" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 615,1617.8)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (3221)</text>
+  <text x="615" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 615,1617.8)" text-rendering="optimizeSpeed" fill="#000000">ez-templates (3221)</text>
   <rect fill="blue" height="32.2" stroke="black" width="12" x="630" y="1580.6"/>
-  <text x="630" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 630,1617.8)" text-rendering="optimizeSpeed" fill="#000000">ez-templates (3221)</text>
+  <text x="630" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 630,1617.8)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (3221)</text>
   <rect fill="blue" height="32.3" stroke="black" width="12" x="645" y="1580.5"/>
   <text x="645" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 645,1617.8)" text-rendering="optimizeSpeed" fill="#000000">envfile (3230)</text>
   <rect fill="blue" height="32.6" stroke="black" width="12" x="660" y="1580.2"/>
@@ -192,9 +192,9 @@
   <rect fill="blue" height="50.5" stroke="black" width="12" x="1440" y="1562.2"/>
   <text x="1440" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 1440,1617.8)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (5055)</text>
   <rect fill="blue" height="50.8" stroke="black" width="12" x="1455" y="1562.0"/>
-  <text x="1455" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 1455,1617.8)" text-rendering="optimizeSpeed" fill="#000000">scp (5083)</text>
+  <text x="1455" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 1455,1617.8)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (5083)</text>
   <rect fill="blue" height="50.8" stroke="black" width="12" x="1470" y="1562.0"/>
-  <text x="1470" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 1470,1617.8)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (5083)</text>
+  <text x="1470" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 1470,1617.8)" text-rendering="optimizeSpeed" fill="#000000">scp (5083)</text>
   <rect fill="blue" height="52.1" stroke="black" width="12" x="1485" y="1560.6"/>
   <text x="1485" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 1485,1617.8)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (5214)</text>
   <rect fill="blue" height="52.2" stroke="black" width="12" x="1500" y="1560.6"/>
@@ -296,9 +296,9 @@
   <rect fill="blue" height="80.2" stroke="black" width="12" x="2220" y="1532.6"/>
   <text x="2220" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 2220,1617.8)" text-rendering="optimizeSpeed" fill="#000000">build-flow-plugin (8023)</text>
   <rect fill="blue" height="80.5" stroke="black" width="12" x="2235" y="1532.3"/>
-  <text x="2235" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 2235,1617.8)" text-rendering="optimizeSpeed" fill="#000000">node-iterator-api (8048)</text>
+  <text x="2235" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 2235,1617.8)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (8048)</text>
   <rect fill="blue" height="80.5" stroke="black" width="12" x="2250" y="1532.3"/>
-  <text x="2250" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 2250,1617.8)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (8048)</text>
+  <text x="2250" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 2250,1617.8)" text-rendering="optimizeSpeed" fill="#000000">node-iterator-api (8048)</text>
   <rect fill="blue" height="82.1" stroke="black" width="12" x="2265" y="1530.7"/>
   <text x="2265" y="1617.8" font-family="Tahoma" font-size="12" transform="rotate(90 2265,1617.8)" text-rendering="optimizeSpeed" fill="#000000">configurationslicing (8208)</text>
   <rect fill="blue" height="82.2" stroke="black" width="12" x="2280" y="1530.6"/>

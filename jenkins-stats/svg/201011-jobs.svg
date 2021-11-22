@@ -2,9 +2,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="15" y="280.5"/>
   <text x="15" y="285.5" font-family="Tahoma" font-size="12" transform="rotate(90 15,285.5)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-multibuild-MultiBuildJob (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="280.5"/>
-  <text x="30" y="285.5" font-family="Tahoma" font-size="12" transform="rotate(90 30,285.5)" text-rendering="optimizeSpeed" fill="#000000">org-jvnet-hudson-maven3-Maven3Project (1)</text>
+  <text x="30" y="285.5" font-family="Tahoma" font-size="12" transform="rotate(90 30,285.5)" text-rendering="optimizeSpeed" fill="#000000">hudson-workflow-WorkflowProject (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="280.5"/>
-  <text x="45" y="285.5" font-family="Tahoma" font-size="12" transform="rotate(90 45,285.5)" text-rendering="optimizeSpeed" fill="#000000">hudson-workflow-WorkflowProject (1)</text>
+  <text x="45" y="285.5" font-family="Tahoma" font-size="12" transform="rotate(90 45,285.5)" text-rendering="optimizeSpeed" fill="#000000">org-jvnet-hudson-maven3-Maven3Project (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="280.5"/>
   <text x="60" y="285.5" font-family="Tahoma" font-size="12" transform="rotate(90 60,285.5)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-sectioned_view-TaobaoStyleProject (3)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="280.5"/>

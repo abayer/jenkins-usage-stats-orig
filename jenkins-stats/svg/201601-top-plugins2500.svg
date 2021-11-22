@@ -24,9 +24,9 @@
   <rect fill="blue" height="28.0" stroke="black" width="12" x="180" y="1272.7"/>
   <text x="180" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 180,1305.7)" text-rendering="optimizeSpeed" fill="#000000">tfs (2796)</text>
   <rect fill="blue" height="28.0" stroke="black" width="12" x="195" y="1272.7"/>
-  <text x="195" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 195,1305.7)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (2798)</text>
+  <text x="195" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 195,1305.7)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (2798)</text>
   <rect fill="blue" height="28.0" stroke="black" width="12" x="210" y="1272.7"/>
-  <text x="210" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 210,1305.7)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (2798)</text>
+  <text x="210" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 210,1305.7)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (2798)</text>
   <rect fill="blue" height="28.3" stroke="black" width="12" x="225" y="1272.4"/>
   <text x="225" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 225,1305.7)" text-rendering="optimizeSpeed" fill="#000000">node-iterator-api (2829)</text>
   <rect fill="blue" height="28.8" stroke="black" width="12" x="240" y="1271.9"/>
@@ -188,9 +188,9 @@
   <rect fill="blue" height="53.4" stroke="black" width="12" x="1410" y="1247.2"/>
   <text x="1410" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 1410,1305.7)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-folder (5344)</text>
   <rect fill="blue" height="53.6" stroke="black" width="12" x="1425" y="1247.1"/>
-  <text x="1425" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1305.7)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (5359)</text>
+  <text x="1425" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1305.7)" text-rendering="optimizeSpeed" fill="#000000">instant-messaging (5359)</text>
   <rect fill="blue" height="53.6" stroke="black" width="12" x="1440" y="1247.1"/>
-  <text x="1440" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 1440,1305.7)" text-rendering="optimizeSpeed" fill="#000000">instant-messaging (5359)</text>
+  <text x="1440" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 1440,1305.7)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (5359)</text>
   <rect fill="blue" height="54.2" stroke="black" width="12" x="1455" y="1246.4"/>
   <text x="1455" y="1305.7" font-family="Tahoma" font-size="12" transform="rotate(90 1455,1305.7)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (5422)</text>
   <rect fill="blue" height="54.3" stroke="black" width="12" x="1470" y="1246.4"/>

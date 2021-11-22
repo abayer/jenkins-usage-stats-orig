@@ -84,9 +84,9 @@
   <rect fill="blue" height="12.1" stroke="black" width="12" x="630" y="1293.5"/>
   <text x="630" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 630,1310.5)" text-rendering="optimizeSpeed" fill="#000000">jobgenerator (1208)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="645" y="1293.4"/>
-  <text x="645" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 645,1310.5)" text-rendering="optimizeSpeed" fill="#000000">xshell (1216)</text>
+  <text x="645" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 645,1310.5)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1216)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="660" y="1293.4"/>
-  <text x="660" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 660,1310.5)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1216)</text>
+  <text x="660" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 660,1310.5)" text-rendering="optimizeSpeed" fill="#000000">xshell (1216)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="675" y="1293.3"/>
   <text x="675" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 675,1310.5)" text-rendering="optimizeSpeed" fill="#000000">gitbucket (1226)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="690" y="1293.2"/>
@@ -168,9 +168,9 @@
   <rect fill="blue" height="15.9" stroke="black" width="12" x="1260" y="1289.7"/>
   <text x="1260" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 1260,1310.5)" text-rendering="optimizeSpeed" fill="#000000">test-results-analyzer (1586)</text>
   <rect fill="blue" height="16.1" stroke="black" width="12" x="1275" y="1289.4"/>
-  <text x="1275" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 1275,1310.5)" text-rendering="optimizeSpeed" fill="#000000">global-variable-string-parameter (1612)</text>
+  <text x="1275" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 1275,1310.5)" text-rendering="optimizeSpeed" fill="#000000">copy-project-link (1612)</text>
   <rect fill="blue" height="16.1" stroke="black" width="12" x="1290" y="1289.4"/>
-  <text x="1290" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 1290,1310.5)" text-rendering="optimizeSpeed" fill="#000000">copy-project-link (1612)</text>
+  <text x="1290" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 1290,1310.5)" text-rendering="optimizeSpeed" fill="#000000">global-variable-string-parameter (1612)</text>
   <rect fill="blue" height="16.3" stroke="black" width="12" x="1305" y="1289.3"/>
   <text x="1305" y="1310.5" font-family="Tahoma" font-size="12" transform="rotate(90 1305,1310.5)" text-rendering="optimizeSpeed" fill="#000000">google-oauth-plugin (1627)</text>
   <rect fill="blue" height="16.4" stroke="black" width="12" x="1320" y="1289.1"/>

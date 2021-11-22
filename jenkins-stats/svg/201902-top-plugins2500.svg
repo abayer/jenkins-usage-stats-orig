@@ -84,9 +84,9 @@
   <rect fill="blue" height="29.8" stroke="black" width="12" x="630" y="2273.9"/>
   <text x="630" y="2308.8" font-family="Tahoma" font-size="12" transform="rotate(90 630,2308.8)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-approve (2983)</text>
   <rect fill="blue" height="30.0" stroke="black" width="12" x="645" y="2273.8"/>
-  <text x="645" y="2308.8" font-family="Tahoma" font-size="12" transform="rotate(90 645,2308.8)" text-rendering="optimizeSpeed" fill="#000000">template-project (2997)</text>
+  <text x="645" y="2308.8" font-family="Tahoma" font-size="12" transform="rotate(90 645,2308.8)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2997)</text>
   <rect fill="blue" height="30.0" stroke="black" width="12" x="660" y="2273.8"/>
-  <text x="660" y="2308.8" font-family="Tahoma" font-size="12" transform="rotate(90 660,2308.8)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (2997)</text>
+  <text x="660" y="2308.8" font-family="Tahoma" font-size="12" transform="rotate(90 660,2308.8)" text-rendering="optimizeSpeed" fill="#000000">template-project (2997)</text>
   <rect fill="blue" height="30.4" stroke="black" width="12" x="675" y="2273.3"/>
   <text x="675" y="2308.8" font-family="Tahoma" font-size="12" transform="rotate(90 675,2308.8)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (3041)</text>
   <rect fill="blue" height="30.4" stroke="black" width="12" x="690" y="2273.3"/>

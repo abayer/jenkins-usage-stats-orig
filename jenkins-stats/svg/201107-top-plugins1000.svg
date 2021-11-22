@@ -4,9 +4,9 @@
   <rect fill="blue" height="10.4" stroke="black" width="12" x="30" y="281.8"/>
   <text x="30" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 30,297.2)" text-rendering="optimizeSpeed" fill="#000000">artifactory (1037)</text>
   <rect fill="blue" height="10.4" stroke="black" width="12" x="45" y="281.8"/>
-  <text x="45" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 45,297.2)" text-rendering="optimizeSpeed" fill="#000000">trac (1039)</text>
+  <text x="45" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 45,297.2)" text-rendering="optimizeSpeed" fill="#000000">timestamper (1039)</text>
   <rect fill="blue" height="10.4" stroke="black" width="12" x="60" y="281.8"/>
-  <text x="60" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 60,297.2)" text-rendering="optimizeSpeed" fill="#000000">timestamper (1039)</text>
+  <text x="60" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 60,297.2)" text-rendering="optimizeSpeed" fill="#000000">trac (1039)</text>
   <rect fill="blue" height="10.5" stroke="black" width="12" x="75" y="281.7"/>
   <text x="75" y="297.2" font-family="Tahoma" font-size="12" transform="rotate(90 75,297.2)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (1048)</text>
   <rect fill="blue" height="10.5" stroke="black" width="12" x="90" y="281.7"/>

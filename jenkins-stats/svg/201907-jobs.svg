@@ -10,13 +10,13 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="16010.9"/>
   <text x="75" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 75,16015.9)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-CppProject (8)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="16010.9"/>
-  <text x="90" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 90,16015.9)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-job_dependency-projects-MasterProject (13)</text>
+  <text x="90" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 90,16015.9)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-HtmlProject (13)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="105" y="16010.9"/>
-  <text x="105" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 105,16015.9)" text-rendering="optimizeSpeed" fill="#000000">hudson-model-HtmlProject (13)</text>
+  <text x="105" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 105,16015.9)" text-rendering="optimizeSpeed" fill="#000000">hudson-plugins-job_dependency-projects-MasterProject (13)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="120" y="16010.9"/>
-  <text x="120" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 120,16015.9)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-drupal-projects-DrupalProject (17)</text>
+  <text x="120" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 120,16015.9)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-coordinator-dummy-model-CoordinatorProject (17)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="135" y="16010.9"/>
-  <text x="135" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 135,16015.9)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-coordinator-dummy-model-CoordinatorProject (17)</text>
+  <text x="135" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 135,16015.9)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-drupal-projects-DrupalProject (17)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="150" y="16010.8"/>
   <text x="150" y="16015.9" font-family="Tahoma" font-size="12" transform="rotate(90 150,16015.9)" text-rendering="optimizeSpeed" fill="#000000">com-barchart-jenkins-cascade-CascadeProject (23)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="165" y="16010.8"/>

@@ -32,9 +32,9 @@
   <rect fill="blue" height="10.6" stroke="black" width="12" x="240" y="1387.7"/>
   <text x="240" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 240,1403.3)" text-rendering="optimizeSpeed" fill="#000000">shared-workspace (1059)</text>
   <rect fill="blue" height="10.6" stroke="black" width="12" x="255" y="1387.7"/>
-  <text x="255" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 255,1403.3)" text-rendering="optimizeSpeed" fill="#000000">stash-pullrequest-builder (1060)</text>
+  <text x="255" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 255,1403.3)" text-rendering="optimizeSpeed" fill="#000000">google-play-android-publisher (1060)</text>
   <rect fill="blue" height="10.6" stroke="black" width="12" x="270" y="1387.7"/>
-  <text x="270" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 270,1403.3)" text-rendering="optimizeSpeed" fill="#000000">google-play-android-publisher (1060)</text>
+  <text x="270" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 270,1403.3)" text-rendering="optimizeSpeed" fill="#000000">stash-pullrequest-builder (1060)</text>
   <rect fill="blue" height="10.7" stroke="black" width="12" x="285" y="1387.7"/>
   <text x="285" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 285,1403.3)" text-rendering="optimizeSpeed" fill="#000000">teamconcert (1065)</text>
   <rect fill="blue" height="10.7" stroke="black" width="12" x="300" y="1387.6"/>
@@ -54,9 +54,9 @@
   <rect fill="blue" height="11.0" stroke="black" width="12" x="405" y="1387.3"/>
   <text x="405" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 405,1403.3)" text-rendering="optimizeSpeed" fill="#000000">fitnesse (1103)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="420" y="1387.2"/>
-  <text x="420" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 420,1403.3)" text-rendering="optimizeSpeed" fill="#000000">test-stability (1110)</text>
+  <text x="420" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 420,1403.3)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (1110)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="435" y="1387.2"/>
-  <text x="435" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 435,1403.3)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (1110)</text>
+  <text x="435" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 435,1403.3)" text-rendering="optimizeSpeed" fill="#000000">test-stability (1110)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="450" y="1387.2"/>
   <text x="450" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 450,1403.3)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-approve (1112)</text>
   <rect fill="blue" height="11.2" stroke="black" width="12" x="465" y="1387.2"/>
@@ -90,9 +90,9 @@
   <rect fill="blue" height="12.0" stroke="black" width="12" x="675" y="1386.3"/>
   <text x="675" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 675,1403.3)" text-rendering="optimizeSpeed" fill="#000000">changes-since-last-success (1198)</text>
   <rect fill="blue" height="12.0" stroke="black" width="12" x="690" y="1386.3"/>
-  <text x="690" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 690,1403.3)" text-rendering="optimizeSpeed" fill="#000000">reverse-proxy-auth-plugin (1201)</text>
+  <text x="690" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 690,1403.3)" text-rendering="optimizeSpeed" fill="#000000">repository (1201)</text>
   <rect fill="blue" height="12.0" stroke="black" width="12" x="705" y="1386.3"/>
-  <text x="705" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 705,1403.3)" text-rendering="optimizeSpeed" fill="#000000">repository (1201)</text>
+  <text x="705" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 705,1403.3)" text-rendering="optimizeSpeed" fill="#000000">reverse-proxy-auth-plugin (1201)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="720" y="1386.1"/>
   <text x="720" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 720,1403.3)" text-rendering="optimizeSpeed" fill="#000000">maven-metadata-plugin (1218)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="735" y="1386.1"/>
@@ -110,9 +110,9 @@
   <rect fill="blue" height="12.8" stroke="black" width="12" x="825" y="1385.5"/>
   <text x="825" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 825,1403.3)" text-rendering="optimizeSpeed" fill="#000000">job-exporter (1282)</text>
   <rect fill="blue" height="12.9" stroke="black" width="12" x="840" y="1385.4"/>
-  <text x="840" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 840,1403.3)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1290)</text>
+  <text x="840" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 840,1403.3)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (1290)</text>
   <rect fill="blue" height="12.9" stroke="black" width="12" x="855" y="1385.4"/>
-  <text x="855" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 855,1403.3)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (1290)</text>
+  <text x="855" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 855,1403.3)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1290)</text>
   <rect fill="blue" height="13.1" stroke="black" width="12" x="870" y="1385.2"/>
   <text x="870" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 870,1403.3)" text-rendering="optimizeSpeed" fill="#000000">pegdown-formatter (1313)</text>
   <rect fill="blue" height="13.2" stroke="black" width="12" x="885" y="1385.1"/>
@@ -196,9 +196,9 @@
   <rect fill="blue" height="16.5" stroke="black" width="12" x="1470" y="1381.8"/>
   <text x="1470" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 1470,1403.3)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-pullrequest-builder (1647)</text>
   <rect fill="blue" height="16.7" stroke="black" width="12" x="1485" y="1381.6"/>
-  <text x="1485" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 1485,1403.3)" text-rendering="optimizeSpeed" fill="#000000">run-condition-extras (1668)</text>
+  <text x="1485" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 1485,1403.3)" text-rendering="optimizeSpeed" fill="#000000">phing (1668)</text>
   <rect fill="blue" height="16.7" stroke="black" width="12" x="1500" y="1381.6"/>
-  <text x="1500" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 1500,1403.3)" text-rendering="optimizeSpeed" fill="#000000">phing (1668)</text>
+  <text x="1500" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 1500,1403.3)" text-rendering="optimizeSpeed" fill="#000000">run-condition-extras (1668)</text>
   <rect fill="blue" height="16.9" stroke="black" width="12" x="1515" y="1381.5"/>
   <text x="1515" y="1403.3" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1403.3)" text-rendering="optimizeSpeed" fill="#000000">sitemonitor (1686)</text>
   <rect fill="blue" height="16.9" stroke="black" width="12" x="1530" y="1381.4"/>

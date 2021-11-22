@@ -14,9 +14,9 @@
   <rect fill="blue" height="5.6" stroke="black" width="12" x="105" y="167.7"/>
   <text x="105" y="178.4" font-family="Tahoma" font-size="12" transform="rotate(90 105,178.4)" text-rendering="optimizeSpeed" fill="#000000">performance (564)</text>
   <rect fill="blue" height="5.7" stroke="black" width="12" x="120" y="167.7"/>
-  <text x="120" y="178.4" font-family="Tahoma" font-size="12" transform="rotate(90 120,178.4)" text-rendering="optimizeSpeed" fill="#000000">ssh (567)</text>
+  <text x="120" y="178.4" font-family="Tahoma" font-size="12" transform="rotate(90 120,178.4)" text-rendering="optimizeSpeed" fill="#000000">perforce (567)</text>
   <rect fill="blue" height="5.7" stroke="black" width="12" x="135" y="167.7"/>
-  <text x="135" y="178.4" font-family="Tahoma" font-size="12" transform="rotate(90 135,178.4)" text-rendering="optimizeSpeed" fill="#000000">perforce (567)</text>
+  <text x="135" y="178.4" font-family="Tahoma" font-size="12" transform="rotate(90 135,178.4)" text-rendering="optimizeSpeed" fill="#000000">ssh (567)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="150" y="167.6"/>
   <text x="150" y="178.4" font-family="Tahoma" font-size="12" transform="rotate(90 150,178.4)" text-rendering="optimizeSpeed" fill="#000000">python (580)</text>
   <rect fill="blue" height="5.9" stroke="black" width="12" x="165" y="167.4"/>

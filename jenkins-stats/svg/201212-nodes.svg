@@ -2,9 +2,9 @@
   <rect fill="blue" height="0.1" stroke="black" width="12" x="15" y="4025.9"/>
   <text x="15" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 15,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Darwin (ppc) (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="30" y="4025.9"/>
-  <text x="30" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 30,4031.0)" text-rendering="optimizeSpeed" fill="#000000">NetBSD (amd64) (1)</text>
+  <text x="30" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 30,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Darwin (universal) (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="45" y="4025.9"/>
-  <text x="45" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 45,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Darwin (universal) (1)</text>
+  <text x="45" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 45,4031.0)" text-rendering="optimizeSpeed" fill="#000000">NetBSD (amd64) (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="60" y="4025.9"/>
   <text x="60" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 60,4031.0)" text-rendering="optimizeSpeed" fill="#000000">NetBSD (i386) (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="75" y="4025.9"/>
@@ -16,9 +16,9 @@
   <rect fill="blue" height="0.3" stroke="black" width="12" x="120" y="4025.7"/>
   <text x="120" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 120,4031.0)" text-rendering="optimizeSpeed" fill="#000000">OpenBSD (i386) (3)</text>
   <rect fill="blue" height="0.5" stroke="black" width="12" x="135" y="4025.5"/>
-  <text x="135" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 135,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2003 (amd64) (5)</text>
+  <text x="135" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 135,4031.0)" text-rendering="optimizeSpeed" fill="#000000">OpenBSD (amd64) (5)</text>
   <rect fill="blue" height="0.5" stroke="black" width="12" x="150" y="4025.5"/>
-  <text x="150" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 150,4031.0)" text-rendering="optimizeSpeed" fill="#000000">OpenBSD (amd64) (5)</text>
+  <text x="150" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 150,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2003 (amd64) (5)</text>
   <rect fill="blue" height="0.9" stroke="black" width="12" x="165" y="4025.1"/>
   <text x="165" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 165,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Mac OS X (amd64) (9)</text>
   <rect fill="blue" height="1.7" stroke="black" width="12" x="180" y="4024.3"/>
@@ -28,9 +28,9 @@
   <rect fill="blue" height="2.0" stroke="black" width="12" x="210" y="4024.0"/>
   <text x="210" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 210,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Linux (ppc64) (20)</text>
   <rect fill="blue" height="2.5" stroke="black" width="12" x="225" y="4023.5"/>
-  <text x="225" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 225,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2012 (x86) (25)</text>
+  <text x="225" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 225,4031.0)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (IA64W) (25)</text>
   <rect fill="blue" height="2.5" stroke="black" width="12" x="240" y="4023.5"/>
-  <text x="240" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 240,4031.0)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (IA64W) (25)</text>
+  <text x="240" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 240,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2012 (x86) (25)</text>
   <rect fill="blue" height="2.7" stroke="black" width="12" x="255" y="4023.3"/>
   <text x="255" y="4031.0" font-family="Tahoma" font-size="12" transform="rotate(90 255,4031.0)" text-rendering="optimizeSpeed" fill="#000000">Linux (ppc) (27)</text>
   <rect fill="blue" height="2.9" stroke="black" width="12" x="270" y="4023.1"/>

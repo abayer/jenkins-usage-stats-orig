@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 6650 2934.9">
   <rect fill="blue" height="25.1" stroke="black" width="12" x="15" y="2609.8"/>
-  <text x="15" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 15,2639.9)" text-rendering="optimizeSpeed" fill="#000000">project-description-setter (2514)</text>
+  <text x="15" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 15,2639.9)" text-rendering="optimizeSpeed" fill="#000000">gitbucket (2514)</text>
   <rect fill="blue" height="25.1" stroke="black" width="12" x="30" y="2609.8"/>
-  <text x="30" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 30,2639.9)" text-rendering="optimizeSpeed" fill="#000000">gitbucket (2514)</text>
+  <text x="30" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 30,2639.9)" text-rendering="optimizeSpeed" fill="#000000">project-description-setter (2514)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="45" y="2609.6"/>
   <text x="45" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 45,2639.9)" text-rendering="optimizeSpeed" fill="#000000">modernstatus (2531)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="60" y="2609.6"/>
@@ -132,9 +132,9 @@
   <rect fill="blue" height="32.9" stroke="black" width="12" x="990" y="2602.0"/>
   <text x="990" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 990,2639.9)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (3291)</text>
   <rect fill="blue" height="33.0" stroke="black" width="12" x="1005" y="2601.9"/>
-  <text x="1005" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 1005,2639.9)" text-rendering="optimizeSpeed" fill="#000000">prometheus (3299)</text>
+  <text x="1005" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 1005,2639.9)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (3299)</text>
   <rect fill="blue" height="33.0" stroke="black" width="12" x="1020" y="2601.9"/>
-  <text x="1020" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 1020,2639.9)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (3299)</text>
+  <text x="1020" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 1020,2639.9)" text-rendering="optimizeSpeed" fill="#000000">prometheus (3299)</text>
   <rect fill="blue" height="33.2" stroke="black" width="12" x="1035" y="2601.7"/>
   <text x="1035" y="2639.9" font-family="Tahoma" font-size="12" transform="rotate(90 1035,2639.9)" text-rendering="optimizeSpeed" fill="#000000">repo (3320)</text>
   <rect fill="blue" height="33.6" stroke="black" width="12" x="1050" y="2601.3"/>

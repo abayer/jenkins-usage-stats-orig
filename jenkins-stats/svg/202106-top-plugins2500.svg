@@ -48,9 +48,9 @@
   <rect fill="blue" height="27.4" stroke="black" width="12" x="360" y="2955.8"/>
   <text x="360" y="2988.2" font-family="Tahoma" font-size="12" transform="rotate(90 360,2988.2)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (2736)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="375" y="2955.7"/>
-  <text x="375" y="2988.2" font-family="Tahoma" font-size="12" transform="rotate(90 375,2988.2)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (2755)</text>
+  <text x="375" y="2988.2" font-family="Tahoma" font-size="12" transform="rotate(90 375,2988.2)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (2755)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="390" y="2955.7"/>
-  <text x="390" y="2988.2" font-family="Tahoma" font-size="12" transform="rotate(90 390,2988.2)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (2755)</text>
+  <text x="390" y="2988.2" font-family="Tahoma" font-size="12" transform="rotate(90 390,2988.2)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (2755)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="405" y="2955.6"/>
   <text x="405" y="2988.2" font-family="Tahoma" font-size="12" transform="rotate(90 405,2988.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-credentials-provider (2756)</text>
   <rect fill="blue" height="27.6" stroke="black" width="12" x="420" y="2955.6"/>

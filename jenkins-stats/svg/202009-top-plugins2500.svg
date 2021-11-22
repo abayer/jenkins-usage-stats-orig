@@ -42,9 +42,9 @@
   <rect fill="blue" height="27.6" stroke="black" width="12" x="315" y="2775.7"/>
   <text x="315" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 315,2808.3)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (2763)</text>
   <rect fill="blue" height="28.1" stroke="black" width="12" x="330" y="2775.2"/>
-  <text x="330" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 330,2808.3)" text-rendering="optimizeSpeed" fill="#000000">hipchat (2814)</text>
+  <text x="330" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 330,2808.3)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2814)</text>
   <rect fill="blue" height="28.1" stroke="black" width="12" x="345" y="2775.2"/>
-  <text x="345" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 345,2808.3)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2814)</text>
+  <text x="345" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 345,2808.3)" text-rendering="optimizeSpeed" fill="#000000">hipchat (2814)</text>
   <rect fill="blue" height="28.2" stroke="black" width="12" x="360" y="2775.2"/>
   <text x="360" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 360,2808.3)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (2817)</text>
   <rect fill="blue" height="28.2" stroke="black" width="12" x="375" y="2775.1"/>
@@ -636,9 +636,9 @@
   <rect fill="blue" height="403.8" stroke="black" width="12" x="4770" y="2399.5"/>
   <text x="4770" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 4770,2808.3)" text-rendering="optimizeSpeed" fill="#000000">cvs (40384)</text>
   <rect fill="blue" height="405.9" stroke="black" width="12" x="4785" y="2397.4"/>
-  <text x="4785" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 4785,2808.3)" text-rendering="optimizeSpeed" fill="#000000">pipeline-utility-steps (40592)</text>
+  <text x="4785" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 4785,2808.3)" text-rendering="optimizeSpeed" fill="#000000">localization-support (40592)</text>
   <rect fill="blue" height="405.9" stroke="black" width="12" x="4800" y="2397.4"/>
-  <text x="4800" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 4800,2808.3)" text-rendering="optimizeSpeed" fill="#000000">localization-support (40592)</text>
+  <text x="4800" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 4800,2808.3)" text-rendering="optimizeSpeed" fill="#000000">pipeline-utility-steps (40592)</text>
   <rect fill="blue" height="425.4" stroke="black" width="12" x="4815" y="2378.0"/>
   <text x="4815" y="2808.3" font-family="Tahoma" font-size="12" transform="rotate(90 4815,2808.3)" text-rendering="optimizeSpeed" fill="#000000">rebuild (42535)</text>
   <rect fill="blue" height="432.1" stroke="black" width="12" x="4830" y="2371.2"/>

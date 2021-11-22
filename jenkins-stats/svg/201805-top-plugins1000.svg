@@ -64,9 +64,9 @@
   <rect fill="blue" height="11.2" stroke="black" width="12" x="480" y="1667.9"/>
   <text x="480" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 480,1684.2)" text-rendering="optimizeSpeed" fill="#000000">configure-job-column-plugin (1122)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="495" y="1667.9"/>
-  <text x="495" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 495,1684.2)" text-rendering="optimizeSpeed" fill="#000000">read-only-configurations (1127)</text>
+  <text x="495" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 495,1684.2)" text-rendering="optimizeSpeed" fill="#000000">datadog (1127)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="510" y="1667.9"/>
-  <text x="510" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 510,1684.2)" text-rendering="optimizeSpeed" fill="#000000">datadog (1127)</text>
+  <text x="510" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 510,1684.2)" text-rendering="optimizeSpeed" fill="#000000">read-only-configurations (1127)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="525" y="1667.8"/>
   <text x="525" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 525,1684.2)" text-rendering="optimizeSpeed" fill="#000000">job-exporter (1135)</text>
   <rect fill="blue" height="11.5" stroke="black" width="12" x="540" y="1667.6"/>
@@ -128,9 +128,9 @@
   <rect fill="blue" height="13.1" stroke="black" width="12" x="960" y="1666.1"/>
   <text x="960" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 960,1684.2)" text-rendering="optimizeSpeed" fill="#000000">docker-traceability (1307)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="975" y="1665.9"/>
-  <text x="975" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,1684.2)" text-rendering="optimizeSpeed" fill="#000000">rundeck (1328)</text>
+  <text x="975" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,1684.2)" text-rendering="optimizeSpeed" fill="#000000">phing (1328)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="990" y="1665.9"/>
-  <text x="990" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 990,1684.2)" text-rendering="optimizeSpeed" fill="#000000">phing (1328)</text>
+  <text x="990" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 990,1684.2)" text-rendering="optimizeSpeed" fill="#000000">rundeck (1328)</text>
   <rect fill="blue" height="13.4" stroke="black" width="12" x="1005" y="1665.7"/>
   <text x="1005" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1684.2)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1344)</text>
   <rect fill="blue" height="13.5" stroke="black" width="12" x="1020" y="1665.7"/>
@@ -188,9 +188,9 @@
   <rect fill="blue" height="15.3" stroke="black" width="12" x="1410" y="1663.9"/>
   <text x="1410" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1410,1684.2)" text-rendering="optimizeSpeed" fill="#000000">gitbucket (1529)</text>
   <rect fill="blue" height="15.3" stroke="black" width="12" x="1425" y="1663.8"/>
-  <text x="1425" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1684.2)" text-rendering="optimizeSpeed" fill="#000000">shared-workspace (1531)</text>
+  <text x="1425" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1684.2)" text-rendering="optimizeSpeed" fill="#000000">html5-notifier-plugin (1531)</text>
   <rect fill="blue" height="15.3" stroke="black" width="12" x="1440" y="1663.8"/>
-  <text x="1440" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1440,1684.2)" text-rendering="optimizeSpeed" fill="#000000">html5-notifier-plugin (1531)</text>
+  <text x="1440" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1440,1684.2)" text-rendering="optimizeSpeed" fill="#000000">shared-workspace (1531)</text>
   <rect fill="blue" height="15.3" stroke="black" width="12" x="1455" y="1663.8"/>
   <text x="1455" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 1455,1684.2)" text-rendering="optimizeSpeed" fill="#000000">filesystem_scm (1532)</text>
   <rect fill="blue" height="15.4" stroke="black" width="12" x="1470" y="1663.8"/>
@@ -568,9 +568,9 @@
   <rect fill="blue" height="40.0" stroke="black" width="12" x="4260" y="1639.2"/>
   <text x="4260" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 4260,1684.2)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (3995)</text>
   <rect fill="blue" height="40.0" stroke="black" width="12" x="4275" y="1639.1"/>
-  <text x="4275" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 4275,1684.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4003)</text>
+  <text x="4275" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 4275,1684.2)" text-rendering="optimizeSpeed" fill="#000000">authorize-project (4003)</text>
   <rect fill="blue" height="40.0" stroke="black" width="12" x="4290" y="1639.1"/>
-  <text x="4290" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 4290,1684.2)" text-rendering="optimizeSpeed" fill="#000000">authorize-project (4003)</text>
+  <text x="4290" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 4290,1684.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4003)</text>
   <rect fill="blue" height="40.7" stroke="black" width="12" x="4305" y="1638.4"/>
   <text x="4305" y="1684.2" font-family="Tahoma" font-size="12" transform="rotate(90 4305,1684.2)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (4072)</text>
   <rect fill="blue" height="40.8" stroke="black" width="12" x="4320" y="1638.3"/>

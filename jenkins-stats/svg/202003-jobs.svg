@@ -4,9 +4,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="16337.5"/>
   <text x="30" y="16342.5" font-family="Tahoma" font-size="12" transform="rotate(90 30,16342.5)" text-rendering="optimizeSpeed" fill="#000000">org-cloudbees-literate-jenkins-LiterateMultibranchProject (2)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="16337.5"/>
-  <text x="45" y="16342.5" font-family="Tahoma" font-size="12" transform="rotate(90 45,16342.5)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pipeline-multibranch-defaults-git-PipelineMultiBranchDefaultsGitProject (5)</text>
+  <text x="45" y="16342.5" font-family="Tahoma" font-size="12" transform="rotate(90 45,16342.5)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-atlas-job-AtlasJob (5)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="16337.5"/>
-  <text x="60" y="16342.5" font-family="Tahoma" font-size="12" transform="rotate(90 60,16342.5)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-atlas-job-AtlasJob (5)</text>
+  <text x="60" y="16342.5" font-family="Tahoma" font-size="12" transform="rotate(90 60,16342.5)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pipeline-multibranch-defaults-git-PipelineMultiBranchDefaultsGitProject (5)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="16337.5"/>
   <text x="75" y="16342.5" font-family="Tahoma" font-size="12" transform="rotate(90 75,16342.5)" text-rendering="optimizeSpeed" fill="#000000">com-github-mjdetullio-jenkins-plugins-multibranch-IvyMultiBranchProject (6)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="16337.5"/>

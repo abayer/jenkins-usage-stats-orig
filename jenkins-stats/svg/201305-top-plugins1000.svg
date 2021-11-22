@@ -40,9 +40,9 @@
   <rect fill="blue" height="12.1" stroke="black" width="12" x="300" y="668.5"/>
   <text x="300" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 300,685.6)" text-rendering="optimizeSpeed" fill="#000000">postbuildscript (1211)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="315" y="668.4"/>
-  <text x="315" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 315,685.6)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (1219)</text>
+  <text x="315" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 315,685.6)" text-rendering="optimizeSpeed" fill="#000000">ivy (1219)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="330" y="668.4"/>
-  <text x="330" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 330,685.6)" text-rendering="optimizeSpeed" fill="#000000">ivy (1219)</text>
+  <text x="330" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 330,685.6)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (1219)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="345" y="668.3"/>
   <text x="345" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 345,685.6)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (1229)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="360" y="668.2"/>
@@ -138,9 +138,9 @@
   <rect fill="blue" height="18.0" stroke="black" width="12" x="1035" y="662.6"/>
   <text x="1035" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1035,685.6)" text-rendering="optimizeSpeed" fill="#000000">throttle-concurrents (1797)</text>
   <rect fill="blue" height="18.3" stroke="black" width="12" x="1050" y="662.3"/>
-  <text x="1050" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1050,685.6)" text-rendering="optimizeSpeed" fill="#000000">locale (1828)</text>
+  <text x="1050" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1050,685.6)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (1828)</text>
   <rect fill="blue" height="18.3" stroke="black" width="12" x="1065" y="662.3"/>
-  <text x="1065" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1065,685.6)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (1828)</text>
+  <text x="1065" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1065,685.6)" text-rendering="optimizeSpeed" fill="#000000">locale (1828)</text>
   <rect fill="blue" height="18.4" stroke="black" width="12" x="1080" y="662.2"/>
   <text x="1080" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1080,685.6)" text-rendering="optimizeSpeed" fill="#000000">mask-passwords (1840)</text>
   <rect fill="blue" height="18.4" stroke="black" width="12" x="1095" y="662.2"/>
@@ -210,9 +210,9 @@
   <rect fill="blue" height="24.9" stroke="black" width="12" x="1575" y="655.7"/>
   <text x="1575" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1575,685.6)" text-rendering="optimizeSpeed" fill="#000000">jabber (2493)</text>
   <rect fill="blue" height="25.4" stroke="black" width="12" x="1590" y="655.2"/>
-  <text x="1590" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1590,685.6)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (2536)</text>
+  <text x="1590" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1590,685.6)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (2536)</text>
   <rect fill="blue" height="25.4" stroke="black" width="12" x="1605" y="655.2"/>
-  <text x="1605" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1605,685.6)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (2536)</text>
+  <text x="1605" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1605,685.6)" text-rendering="optimizeSpeed" fill="#000000">radiatorviewplugin (2536)</text>
   <rect fill="blue" height="26.1" stroke="black" width="12" x="1620" y="654.5"/>
   <text x="1620" y="685.6" font-family="Tahoma" font-size="12" transform="rotate(90 1620,685.6)" text-rendering="optimizeSpeed" fill="#000000">sidebar-link (2608)</text>
   <rect fill="blue" height="26.3" stroke="black" width="12" x="1635" y="654.2"/>

@@ -1,7 +1,7 @@
 "org-jenkinsci-plugins-performance_receiver-PerformanceProject","1"
+"org-jenkinsci-plugins-AutomationTesting-AutomationTestingProject","2"
 "org-jenkinsci-plugins-SyncSources-MonitoringJobsProject","2"
 "org-jenkinsci-plugins-SyncSources-PreparationDailyProject","2"
-"org-jenkinsci-plugins-AutomationTesting-AutomationTestingProject","2"
 "org-jvnet-hudson-test-MockFolder","4"
 "org-jenkinsci-plugins-flyweightproject-FlyweightProject","13"
 "org-jenkinsci-plugins-utsnode-UTSNode","15"

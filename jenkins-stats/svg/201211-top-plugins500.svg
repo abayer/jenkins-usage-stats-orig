@@ -4,9 +4,9 @@
   <rect fill="blue" height="5.0" stroke="black" width="12" x="30" y="559.1"/>
   <text x="30" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 30,569.1)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (505)</text>
   <rect fill="blue" height="5.1" stroke="black" width="12" x="45" y="559.0"/>
-  <text x="45" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 45,569.1)" text-rendering="optimizeSpeed" fill="#000000">robot (510)</text>
+  <text x="45" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 45,569.1)" text-rendering="optimizeSpeed" fill="#000000">gerrit (510)</text>
   <rect fill="blue" height="5.1" stroke="black" width="12" x="60" y="559.0"/>
-  <text x="60" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 60,569.1)" text-rendering="optimizeSpeed" fill="#000000">gerrit (510)</text>
+  <text x="60" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 60,569.1)" text-rendering="optimizeSpeed" fill="#000000">robot (510)</text>
   <rect fill="blue" height="5.1" stroke="black" width="12" x="75" y="559.0"/>
   <text x="75" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 75,569.1)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (514)</text>
   <rect fill="blue" height="5.2" stroke="black" width="12" x="90" y="558.9"/>
@@ -126,9 +126,9 @@
   <rect fill="blue" height="7.3" stroke="black" width="12" x="945" y="556.8"/>
   <text x="945" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 945,569.1)" text-rendering="optimizeSpeed" fill="#000000">selenium (728)</text>
   <rect fill="blue" height="7.3" stroke="black" width="12" x="960" y="556.8"/>
-  <text x="960" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 960,569.1)" text-rendering="optimizeSpeed" fill="#000000">schedule-failed-builds (729)</text>
+  <text x="960" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 960,569.1)" text-rendering="optimizeSpeed" fill="#000000">cmakebuilder (729)</text>
   <rect fill="blue" height="7.3" stroke="black" width="12" x="975" y="556.8"/>
-  <text x="975" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 975,569.1)" text-rendering="optimizeSpeed" fill="#000000">cmakebuilder (729)</text>
+  <text x="975" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 975,569.1)" text-rendering="optimizeSpeed" fill="#000000">schedule-failed-builds (729)</text>
   <rect fill="blue" height="7.3" stroke="black" width="12" x="990" y="556.8"/>
   <text x="990" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 990,569.1)" text-rendering="optimizeSpeed" fill="#000000">javancss (733)</text>
   <rect fill="blue" height="7.5" stroke="black" width="12" x="1005" y="556.7"/>
@@ -174,9 +174,9 @@
   <rect fill="blue" height="9.0" stroke="black" width="12" x="1305" y="555.1"/>
   <text x="1305" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 1305,569.1)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (902)</text>
   <rect fill="blue" height="9.1" stroke="black" width="12" x="1320" y="555.0"/>
-  <text x="1320" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 1320,569.1)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (910)</text>
+  <text x="1320" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 1320,569.1)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (910)</text>
   <rect fill="blue" height="9.1" stroke="black" width="12" x="1335" y="555.0"/>
-  <text x="1335" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 1335,569.1)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (910)</text>
+  <text x="1335" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 1335,569.1)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (910)</text>
   <rect fill="blue" height="9.2" stroke="black" width="12" x="1350" y="554.9"/>
   <text x="1350" y="569.1" font-family="Tahoma" font-size="12" transform="rotate(90 1350,569.1)" text-rendering="optimizeSpeed" fill="#000000">job-import-plugin (925)</text>
   <rect fill="blue" height="9.5" stroke="black" width="12" x="1365" y="554.6"/>

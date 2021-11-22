@@ -74,9 +74,9 @@
   <rect fill="blue" height="33.0" stroke="black" width="12" x="555" y="1208.4"/>
   <text x="555" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 555,1246.4)" text-rendering="optimizeSpeed" fill="#000000">workflow-step-api (3296)</text>
   <rect fill="blue" height="33.2" stroke="black" width="12" x="570" y="1208.2"/>
-  <text x="570" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 570,1246.4)" text-rendering="optimizeSpeed" fill="#000000">naginator (3317)</text>
+  <text x="570" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 570,1246.4)" text-rendering="optimizeSpeed" fill="#000000">extensible-choice-parameter (3317)</text>
   <rect fill="blue" height="33.2" stroke="black" width="12" x="585" y="1208.2"/>
-  <text x="585" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 585,1246.4)" text-rendering="optimizeSpeed" fill="#000000">extensible-choice-parameter (3317)</text>
+  <text x="585" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 585,1246.4)" text-rendering="optimizeSpeed" fill="#000000">naginator (3317)</text>
   <rect fill="blue" height="34.0" stroke="black" width="12" x="600" y="1207.4"/>
   <text x="600" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 600,1246.4)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (3403)</text>
   <rect fill="blue" height="34.7" stroke="black" width="12" x="615" y="1206.7"/>
@@ -228,9 +228,9 @@
   <rect fill="blue" height="68.7" stroke="black" width="12" x="1710" y="1172.7"/>
   <text x="1710" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 1710,1246.4)" text-rendering="optimizeSpeed" fill="#000000">config-file-provider (6870)</text>
   <rect fill="blue" height="69.6" stroke="black" width="12" x="1725" y="1171.8"/>
-  <text x="1725" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 1725,1246.4)" text-rendering="optimizeSpeed" fill="#000000">monitoring (6957)</text>
+  <text x="1725" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 1725,1246.4)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (6957)</text>
   <rect fill="blue" height="69.6" stroke="black" width="12" x="1740" y="1171.8"/>
-  <text x="1740" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 1740,1246.4)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (6957)</text>
+  <text x="1740" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 1740,1246.4)" text-rendering="optimizeSpeed" fill="#000000">monitoring (6957)</text>
   <rect fill="blue" height="72.7" stroke="black" width="12" x="1755" y="1168.7"/>
   <text x="1755" y="1246.4" font-family="Tahoma" font-size="12" transform="rotate(90 1755,1246.4)" text-rendering="optimizeSpeed" fill="#000000">artifactdeployer (7271)</text>
   <rect fill="blue" height="74.0" stroke="black" width="12" x="1770" y="1167.4"/>

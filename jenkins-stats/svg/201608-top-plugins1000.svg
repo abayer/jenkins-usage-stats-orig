@@ -42,9 +42,9 @@
   <rect fill="blue" height="11.0" stroke="black" width="12" x="315" y="1360.2"/>
   <text x="315" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 315,1376.1)" text-rendering="optimizeSpeed" fill="#000000">multi-slave-config-plugin (1097)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="330" y="1360.1"/>
-  <text x="330" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 330,1376.1)" text-rendering="optimizeSpeed" fill="#000000">promoted-builds-simple (1106)</text>
+  <text x="330" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 330,1376.1)" text-rendering="optimizeSpeed" fill="#000000">nuget (1106)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="345" y="1360.1"/>
-  <text x="345" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 345,1376.1)" text-rendering="optimizeSpeed" fill="#000000">nuget (1106)</text>
+  <text x="345" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 345,1376.1)" text-rendering="optimizeSpeed" fill="#000000">promoted-builds-simple (1106)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="360" y="1360.0"/>
   <text x="360" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 360,1376.1)" text-rendering="optimizeSpeed" fill="#000000">m2-repo-reaper (1111)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="375" y="1360.0"/>
@@ -120,9 +120,9 @@
   <rect fill="blue" height="13.0" stroke="black" width="12" x="900" y="1358.1"/>
   <text x="900" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 900,1376.1)" text-rendering="optimizeSpeed" fill="#000000">modernstatus (1302)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="915" y="1357.8"/>
-  <text x="915" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 915,1376.1)" text-rendering="optimizeSpeed" fill="#000000">purge-build-queue-plugin (1333)</text>
+  <text x="915" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 915,1376.1)" text-rendering="optimizeSpeed" fill="#000000">compress-artifacts (1333)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="930" y="1357.8"/>
-  <text x="930" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 930,1376.1)" text-rendering="optimizeSpeed" fill="#000000">compress-artifacts (1333)</text>
+  <text x="930" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 930,1376.1)" text-rendering="optimizeSpeed" fill="#000000">purge-build-queue-plugin (1333)</text>
   <rect fill="blue" height="13.3" stroke="black" width="12" x="945" y="1357.8"/>
   <text x="945" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 945,1376.1)" text-rendering="optimizeSpeed" fill="#000000">sonargraph-plugin (1335)</text>
   <rect fill="blue" height="13.5" stroke="black" width="12" x="960" y="1357.6"/>
@@ -142,9 +142,9 @@
   <rect fill="blue" height="14.1" stroke="black" width="12" x="1065" y="1357.0"/>
   <text x="1065" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 1065,1376.1)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (1414)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="1080" y="1357.0"/>
-  <text x="1080" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 1080,1376.1)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1415)</text>
+  <text x="1080" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 1080,1376.1)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (1415)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="1095" y="1357.0"/>
-  <text x="1095" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 1095,1376.1)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (1415)</text>
+  <text x="1095" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 1095,1376.1)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1415)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="1110" y="1357.0"/>
   <text x="1110" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 1110,1376.1)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1416)</text>
   <rect fill="blue" height="14.2" stroke="black" width="12" x="1125" y="1357.0"/>
@@ -488,9 +488,9 @@
   <rect fill="blue" height="47.8" stroke="black" width="12" x="3660" y="1323.3"/>
   <text x="3660" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 3660,1376.1)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (4784)</text>
   <rect fill="blue" height="48.0" stroke="black" width="12" x="3675" y="1323.1"/>
-  <text x="3675" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 3675,1376.1)" text-rendering="optimizeSpeed" fill="#000000">xvfb (4801)</text>
+  <text x="3675" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 3675,1376.1)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (4801)</text>
   <rect fill="blue" height="48.0" stroke="black" width="12" x="3690" y="1323.1"/>
-  <text x="3690" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 3690,1376.1)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (4801)</text>
+  <text x="3690" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 3690,1376.1)" text-rendering="optimizeSpeed" fill="#000000">xvfb (4801)</text>
   <rect fill="blue" height="49.0" stroke="black" width="12" x="3705" y="1322.1"/>
   <text x="3705" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 3705,1376.1)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (4900)</text>
   <rect fill="blue" height="49.5" stroke="black" width="12" x="3720" y="1321.6"/>
@@ -576,9 +576,9 @@
   <rect fill="blue" height="74.3" stroke="black" width="12" x="4320" y="1296.8"/>
   <text x="4320" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 4320,1376.1)" text-rendering="optimizeSpeed" fill="#000000">jquery-ui (7434)</text>
   <rect fill="blue" height="75.0" stroke="black" width="12" x="4335" y="1296.1"/>
-  <text x="4335" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 4335,1376.1)" text-rendering="optimizeSpeed" fill="#000000">plot (7504)</text>
+  <text x="4335" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 4335,1376.1)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (7504)</text>
   <rect fill="blue" height="75.0" stroke="black" width="12" x="4350" y="1296.1"/>
-  <text x="4350" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 4350,1376.1)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (7504)</text>
+  <text x="4350" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 4350,1376.1)" text-rendering="optimizeSpeed" fill="#000000">plot (7504)</text>
   <rect fill="blue" height="76.0" stroke="black" width="12" x="4365" y="1295.1"/>
   <text x="4365" y="1376.1" font-family="Tahoma" font-size="12" transform="rotate(90 4365,1376.1)" text-rendering="optimizeSpeed" fill="#000000">performance (7604)</text>
   <rect fill="blue" height="76.4" stroke="black" width="12" x="4380" y="1294.7"/>

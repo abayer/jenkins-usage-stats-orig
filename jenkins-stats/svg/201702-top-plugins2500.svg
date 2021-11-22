@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 4595 1715.7">
   <rect fill="blue" height="25.3" stroke="black" width="12" x="15" y="1390.4"/>
-  <text x="15" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,1420.7)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (2531)</text>
+  <text x="15" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,1420.7)" text-rendering="optimizeSpeed" fill="#000000">gitlab-oauth (2531)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="30" y="1390.4"/>
   <text x="30" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 30,1420.7)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (2531)</text>
   <rect fill="blue" height="25.3" stroke="black" width="12" x="45" y="1390.4"/>
-  <text x="45" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 45,1420.7)" text-rendering="optimizeSpeed" fill="#000000">gitlab-oauth (2531)</text>
+  <text x="45" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 45,1420.7)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (2531)</text>
   <rect fill="blue" height="25.7" stroke="black" width="12" x="60" y="1390.0"/>
   <text x="60" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 60,1420.7)" text-rendering="optimizeSpeed" fill="#000000">sbt (2569)</text>
   <rect fill="blue" height="25.7" stroke="black" width="12" x="75" y="1390.0"/>
@@ -154,9 +154,9 @@
   <rect fill="blue" height="43.8" stroke="black" width="12" x="1155" y="1371.9"/>
   <text x="1155" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 1155,1420.7)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (4377)</text>
   <rect fill="blue" height="45.4" stroke="black" width="12" x="1170" y="1370.4"/>
-  <text x="1170" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 1170,1420.7)" text-rendering="optimizeSpeed" fill="#000000">test-results-analyzer (4535)</text>
+  <text x="1170" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 1170,1420.7)" text-rendering="optimizeSpeed" fill="#000000">ansible (4535)</text>
   <rect fill="blue" height="45.4" stroke="black" width="12" x="1185" y="1370.4"/>
-  <text x="1185" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 1185,1420.7)" text-rendering="optimizeSpeed" fill="#000000">ansible (4535)</text>
+  <text x="1185" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 1185,1420.7)" text-rendering="optimizeSpeed" fill="#000000">test-results-analyzer (4535)</text>
   <rect fill="blue" height="45.4" stroke="black" width="12" x="1200" y="1370.3"/>
   <text x="1200" y="1420.7" font-family="Tahoma" font-size="12" transform="rotate(90 1200,1420.7)" text-rendering="optimizeSpeed" fill="#000000">tasks (4538)</text>
   <rect fill="blue" height="45.5" stroke="black" width="12" x="1215" y="1370.2"/>

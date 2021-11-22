@@ -40,9 +40,9 @@
   <rect fill="blue" height="6.8" stroke="black" width="12" x="300" y="249.5"/>
   <text x="300" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 300,261.3)" text-rendering="optimizeSpeed" fill="#000000">python (677)</text>
   <rect fill="blue" height="6.8" stroke="black" width="12" x="315" y="249.5"/>
-  <text x="315" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 315,261.3)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (683)</text>
+  <text x="315" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 315,261.3)" text-rendering="optimizeSpeed" fill="#000000">doxygen (683)</text>
   <rect fill="blue" height="6.8" stroke="black" width="12" x="330" y="249.5"/>
-  <text x="330" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 330,261.3)" text-rendering="optimizeSpeed" fill="#000000">doxygen (683)</text>
+  <text x="330" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 330,261.3)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (683)</text>
   <rect fill="blue" height="6.9" stroke="black" width="12" x="345" y="249.4"/>
   <text x="345" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 345,261.3)" text-rendering="optimizeSpeed" fill="#000000">rake (686)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="360" y="249.3"/>
@@ -50,9 +50,9 @@
   <rect fill="blue" height="7.0" stroke="black" width="12" x="375" y="249.3"/>
   <text x="375" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 375,261.3)" text-rendering="optimizeSpeed" fill="#000000">doclinks (699)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="390" y="249.3"/>
-  <text x="390" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 390,261.3)" text-rendering="optimizeSpeed" fill="#000000">sloccount (703)</text>
+  <text x="390" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 390,261.3)" text-rendering="optimizeSpeed" fill="#000000">performance (703)</text>
   <rect fill="blue" height="7.0" stroke="black" width="12" x="405" y="249.3"/>
-  <text x="405" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 405,261.3)" text-rendering="optimizeSpeed" fill="#000000">performance (703)</text>
+  <text x="405" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 405,261.3)" text-rendering="optimizeSpeed" fill="#000000">sloccount (703)</text>
   <rect fill="blue" height="7.1" stroke="black" width="12" x="420" y="249.2"/>
   <text x="420" y="261.3" font-family="Tahoma" font-size="12" transform="rotate(90 420,261.3)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (710)</text>
   <rect fill="blue" height="7.1" stroke="black" width="12" x="435" y="249.2"/>

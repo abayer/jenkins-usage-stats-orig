@@ -10,9 +10,9 @@
   <rect fill="blue" height="25.6" stroke="black" width="12" x="75" y="2753.3"/>
   <text x="75" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 75,2783.9)" text-rendering="optimizeSpeed" fill="#000000">groovy-label-assignment (2558)</text>
   <rect fill="blue" height="25.8" stroke="black" width="12" x="90" y="2753.1"/>
-  <text x="90" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 90,2783.9)" text-rendering="optimizeSpeed" fill="#000000">ownership (2575)</text>
+  <text x="90" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 90,2783.9)" text-rendering="optimizeSpeed" fill="#000000">build-notifications (2575)</text>
   <rect fill="blue" height="25.8" stroke="black" width="12" x="105" y="2753.1"/>
-  <text x="105" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 105,2783.9)" text-rendering="optimizeSpeed" fill="#000000">build-notifications (2575)</text>
+  <text x="105" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 105,2783.9)" text-rendering="optimizeSpeed" fill="#000000">ownership (2575)</text>
   <rect fill="blue" height="25.9" stroke="black" width="12" x="120" y="2753.0"/>
   <text x="120" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 120,2783.9)" text-rendering="optimizeSpeed" fill="#000000">gitbucket (2591)</text>
   <rect fill="blue" height="25.9" stroke="black" width="12" x="135" y="2752.9"/>
@@ -146,13 +146,13 @@
   <rect fill="blue" height="34.5" stroke="black" width="12" x="1095" y="2744.4"/>
   <text x="1095" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1095,2783.9)" text-rendering="optimizeSpeed" fill="#000000">purge-build-queue-plugin (3445)</text>
   <rect fill="blue" height="35.0" stroke="black" width="12" x="1110" y="2743.9"/>
-  <text x="1110" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2783.9)" text-rendering="optimizeSpeed" fill="#000000">sbt (3498)</text>
+  <text x="1110" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2783.9)" text-rendering="optimizeSpeed" fill="#000000">jira-trigger (3498)</text>
   <rect fill="blue" height="35.0" stroke="black" width="12" x="1125" y="2743.9"/>
-  <text x="1125" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2783.9)" text-rendering="optimizeSpeed" fill="#000000">jira-trigger (3498)</text>
+  <text x="1125" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2783.9)" text-rendering="optimizeSpeed" fill="#000000">sbt (3498)</text>
   <rect fill="blue" height="35.5" stroke="black" width="12" x="1140" y="2743.4"/>
-  <text x="1140" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2783.9)" text-rendering="optimizeSpeed" fill="#000000">support-core (3546)</text>
+  <text x="1140" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2783.9)" text-rendering="optimizeSpeed" fill="#000000">golang (3546)</text>
   <rect fill="blue" height="35.5" stroke="black" width="12" x="1155" y="2743.4"/>
-  <text x="1155" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1155,2783.9)" text-rendering="optimizeSpeed" fill="#000000">golang (3546)</text>
+  <text x="1155" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1155,2783.9)" text-rendering="optimizeSpeed" fill="#000000">support-core (3546)</text>
   <rect fill="blue" height="35.8" stroke="black" width="12" x="1170" y="2743.1"/>
   <text x="1170" y="2783.9" font-family="Tahoma" font-size="12" transform="rotate(90 1170,2783.9)" text-rendering="optimizeSpeed" fill="#000000">clover (3580)</text>
   <rect fill="blue" height="35.8" stroke="black" width="12" x="1185" y="2743.1"/>

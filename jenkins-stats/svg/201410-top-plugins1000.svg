@@ -60,9 +60,9 @@
   <rect fill="blue" height="11.8" stroke="black" width="12" x="450" y="1007.2"/>
   <text x="450" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 450,1024.0)" text-rendering="optimizeSpeed" fill="#000000">build-token-root (1183)</text>
   <rect fill="blue" height="11.8" stroke="black" width="12" x="465" y="1007.2"/>
-  <text x="465" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 465,1024.0)" text-rendering="optimizeSpeed" fill="#000000">m2-extra-steps (1184)</text>
+  <text x="465" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 465,1024.0)" text-rendering="optimizeSpeed" fill="#000000">categorized-view (1184)</text>
   <rect fill="blue" height="11.8" stroke="black" width="12" x="480" y="1007.2"/>
-  <text x="480" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 480,1024.0)" text-rendering="optimizeSpeed" fill="#000000">categorized-view (1184)</text>
+  <text x="480" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 480,1024.0)" text-rendering="optimizeSpeed" fill="#000000">m2-extra-steps (1184)</text>
   <rect fill="blue" height="12.0" stroke="black" width="12" x="495" y="1007.0"/>
   <text x="495" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 495,1024.0)" text-rendering="optimizeSpeed" fill="#000000">copy-project-link (1204)</text>
   <rect fill="blue" height="12.1" stroke="black" width="12" x="510" y="1006.9"/>
@@ -72,13 +72,13 @@
   <rect fill="blue" height="12.2" stroke="black" width="12" x="540" y="1006.8"/>
   <text x="540" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 540,1024.0)" text-rendering="optimizeSpeed" fill="#000000">testlink (1225)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="555" y="1006.7"/>
-  <text x="555" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 555,1024.0)" text-rendering="optimizeSpeed" fill="#000000">swarm (1230)</text>
+  <text x="555" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 555,1024.0)" text-rendering="optimizeSpeed" fill="#000000">build-keeper-plugin (1230)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="570" y="1006.7"/>
-  <text x="570" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 570,1024.0)" text-rendering="optimizeSpeed" fill="#000000">build-keeper-plugin (1230)</text>
+  <text x="570" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 570,1024.0)" text-rendering="optimizeSpeed" fill="#000000">swarm (1230)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="585" y="1006.6"/>
-  <text x="585" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 585,1024.0)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (1242)</text>
+  <text x="585" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 585,1024.0)" text-rendering="optimizeSpeed" fill="#000000">valgrind (1242)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="600" y="1006.6"/>
-  <text x="600" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 600,1024.0)" text-rendering="optimizeSpeed" fill="#000000">valgrind (1242)</text>
+  <text x="600" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 600,1024.0)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (1242)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="615" y="1006.6"/>
   <text x="615" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 615,1024.0)" text-rendering="optimizeSpeed" fill="#000000">gerrit (1248)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="630" y="1006.5"/>
@@ -88,9 +88,9 @@
   <rect fill="blue" height="12.7" stroke="black" width="12" x="660" y="1006.3"/>
   <text x="660" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 660,1024.0)" text-rendering="optimizeSpeed" fill="#000000">gitlab-plugin (1270)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="675" y="1006.2"/>
-  <text x="675" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 675,1024.0)" text-rendering="optimizeSpeed" fill="#000000">tap (1281)</text>
+  <text x="675" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 675,1024.0)" text-rendering="optimizeSpeed" fill="#000000">job-exporter (1281)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="690" y="1006.2"/>
-  <text x="690" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 690,1024.0)" text-rendering="optimizeSpeed" fill="#000000">job-exporter (1281)</text>
+  <text x="690" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 690,1024.0)" text-rendering="optimizeSpeed" fill="#000000">tap (1281)</text>
   <rect fill="blue" height="12.9" stroke="black" width="12" x="705" y="1006.1"/>
   <text x="705" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 705,1024.0)" text-rendering="optimizeSpeed" fill="#000000">periodicbackup (1293)</text>
   <rect fill="blue" height="13.0" stroke="black" width="12" x="720" y="1006.0"/>
@@ -212,9 +212,9 @@
   <rect fill="blue" height="21.1" stroke="black" width="12" x="1590" y="997.9"/>
   <text x="1590" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1590,1024.0)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (2109)</text>
   <rect fill="blue" height="21.2" stroke="black" width="12" x="1605" y="997.8"/>
-  <text x="1605" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1605,1024.0)" text-rendering="optimizeSpeed" fill="#000000">template-project (2123)</text>
+  <text x="1605" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1605,1024.0)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (2123)</text>
   <rect fill="blue" height="21.2" stroke="black" width="12" x="1620" y="997.8"/>
-  <text x="1620" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1620,1024.0)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (2123)</text>
+  <text x="1620" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1620,1024.0)" text-rendering="optimizeSpeed" fill="#000000">template-project (2123)</text>
   <rect fill="blue" height="21.2" stroke="black" width="12" x="1635" y="997.8"/>
   <text x="1635" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1635,1024.0)" text-rendering="optimizeSpeed" fill="#000000">ci-game (2124)</text>
   <rect fill="blue" height="21.4" stroke="black" width="12" x="1650" y="997.6"/>
@@ -252,9 +252,9 @@
   <rect fill="blue" height="24.1" stroke="black" width="12" x="1890" y="994.9"/>
   <text x="1890" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1890,1024.0)" text-rendering="optimizeSpeed" fill="#000000">embeddable-build-status (2410)</text>
   <rect fill="blue" height="24.1" stroke="black" width="12" x="1905" y="994.9"/>
-  <text x="1905" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1905,1024.0)" text-rendering="optimizeSpeed" fill="#000000">next-executions (2414)</text>
+  <text x="1905" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1905,1024.0)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (2414)</text>
   <rect fill="blue" height="24.1" stroke="black" width="12" x="1920" y="994.9"/>
-  <text x="1920" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1920,1024.0)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (2414)</text>
+  <text x="1920" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1920,1024.0)" text-rendering="optimizeSpeed" fill="#000000">next-executions (2414)</text>
   <rect fill="blue" height="24.3" stroke="black" width="12" x="1935" y="994.7"/>
   <text x="1935" y="1024.0" font-family="Tahoma" font-size="12" transform="rotate(90 1935,1024.0)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (2433)</text>
   <rect fill="blue" height="25.1" stroke="black" width="12" x="1950" y="993.9"/>

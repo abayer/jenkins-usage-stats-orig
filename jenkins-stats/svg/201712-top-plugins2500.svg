@@ -150,9 +150,9 @@
   <rect fill="blue" height="41.4" stroke="black" width="12" x="1125" y="1501.5"/>
   <text x="1125" y="1547.9" font-family="Tahoma" font-size="12" transform="rotate(90 1125,1547.9)" text-rendering="optimizeSpeed" fill="#000000">repository-connector (4136)</text>
   <rect fill="blue" height="41.8" stroke="black" width="12" x="1140" y="1501.1"/>
-  <text x="1140" y="1547.9" font-family="Tahoma" font-size="12" transform="rotate(90 1140,1547.9)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (4178)</text>
+  <text x="1140" y="1547.9" font-family="Tahoma" font-size="12" transform="rotate(90 1140,1547.9)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (4178)</text>
   <rect fill="blue" height="41.8" stroke="black" width="12" x="1155" y="1501.1"/>
-  <text x="1155" y="1547.9" font-family="Tahoma" font-size="12" transform="rotate(90 1155,1547.9)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (4178)</text>
+  <text x="1155" y="1547.9" font-family="Tahoma" font-size="12" transform="rotate(90 1155,1547.9)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (4178)</text>
   <rect fill="blue" height="42.1" stroke="black" width="12" x="1170" y="1500.8"/>
   <text x="1170" y="1547.9" font-family="Tahoma" font-size="12" transform="rotate(90 1170,1547.9)" text-rendering="optimizeSpeed" fill="#000000">release (4209)</text>
   <rect fill="blue" height="42.3" stroke="black" width="12" x="1185" y="1500.5"/>

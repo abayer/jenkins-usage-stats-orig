@@ -88,9 +88,9 @@
   <rect fill="blue" height="14.8" stroke="black" width="12" x="660" y="449.5"/>
   <text x="660" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 660,469.2)" text-rendering="optimizeSpeed" fill="#000000">text-finder (1475)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="675" y="449.4"/>
-  <text x="675" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 675,469.2)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1481)</text>
+  <text x="675" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 675,469.2)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1481)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="690" y="449.4"/>
-  <text x="690" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 690,469.2)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1481)</text>
+  <text x="690" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 690,469.2)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1481)</text>
   <rect fill="blue" height="15.0" stroke="black" width="12" x="705" y="449.2"/>
   <text x="705" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 705,469.2)" text-rendering="optimizeSpeed" fill="#000000">versionnumber (1504)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="720" y="449.0"/>
@@ -126,9 +126,9 @@
   <rect fill="blue" height="18.2" stroke="black" width="12" x="945" y="446.0"/>
   <text x="945" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 945,469.2)" text-rendering="optimizeSpeed" fill="#000000">m2-extra-steps (1820)</text>
   <rect fill="blue" height="18.2" stroke="black" width="12" x="960" y="446.0"/>
-  <text x="960" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 960,469.2)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (1825)</text>
+  <text x="960" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 960,469.2)" text-rendering="optimizeSpeed" fill="#000000">artifactdeployer (1825)</text>
   <rect fill="blue" height="18.2" stroke="black" width="12" x="975" y="446.0"/>
-  <text x="975" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,469.2)" text-rendering="optimizeSpeed" fill="#000000">artifactdeployer (1825)</text>
+  <text x="975" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,469.2)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (1825)</text>
   <rect fill="blue" height="18.5" stroke="black" width="12" x="990" y="445.8"/>
   <text x="990" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 990,469.2)" text-rendering="optimizeSpeed" fill="#000000">python (1846)</text>
   <rect fill="blue" height="18.9" stroke="black" width="12" x="1005" y="445.4"/>

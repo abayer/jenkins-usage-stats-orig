@@ -154,9 +154,9 @@
   <rect fill="blue" height="9.3" stroke="black" width="12" x="1155" y="460.5"/>
   <text x="1155" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1155,474.7)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (927)</text>
   <rect fill="blue" height="9.3" stroke="black" width="12" x="1170" y="460.4"/>
-  <text x="1170" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1170,474.7)" text-rendering="optimizeSpeed" fill="#000000">powershell (935)</text>
+  <text x="1170" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1170,474.7)" text-rendering="optimizeSpeed" fill="#000000">grails (935)</text>
   <rect fill="blue" height="9.3" stroke="black" width="12" x="1185" y="460.4"/>
-  <text x="1185" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1185,474.7)" text-rendering="optimizeSpeed" fill="#000000">grails (935)</text>
+  <text x="1185" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1185,474.7)" text-rendering="optimizeSpeed" fill="#000000">powershell (935)</text>
   <rect fill="blue" height="9.4" stroke="black" width="12" x="1200" y="460.3"/>
   <text x="1200" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1200,474.7)" text-rendering="optimizeSpeed" fill="#000000">hudsontrayapp (941)</text>
   <rect fill="blue" height="9.4" stroke="black" width="12" x="1215" y="460.3"/>
@@ -170,9 +170,9 @@
   <rect fill="blue" height="10.2" stroke="black" width="12" x="1275" y="459.5"/>
   <text x="1275" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1275,474.7)" text-rendering="optimizeSpeed" fill="#000000">rebuild (1023)</text>
   <rect fill="blue" height="10.3" stroke="black" width="12" x="1290" y="459.4"/>
-  <text x="1290" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1290,474.7)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (1030)</text>
+  <text x="1290" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1290,474.7)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1030)</text>
   <rect fill="blue" height="10.3" stroke="black" width="12" x="1305" y="459.4"/>
-  <text x="1305" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1305,474.7)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1030)</text>
+  <text x="1305" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1305,474.7)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (1030)</text>
   <rect fill="blue" height="10.4" stroke="black" width="12" x="1320" y="459.3"/>
   <text x="1320" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1320,474.7)" text-rendering="optimizeSpeed" fill="#000000">xfpanel (1042)</text>
   <rect fill="blue" height="10.5" stroke="black" width="12" x="1335" y="459.2"/>
@@ -218,9 +218,9 @@
   <rect fill="blue" height="12.1" stroke="black" width="12" x="1635" y="457.7"/>
   <text x="1635" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1635,474.7)" text-rendering="optimizeSpeed" fill="#000000">template-project (1206)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="1650" y="457.5"/>
-  <text x="1650" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1650,474.7)" text-rendering="optimizeSpeed" fill="#000000">xvnc (1220)</text>
+  <text x="1650" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1650,474.7)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1220)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="1665" y="457.5"/>
-  <text x="1665" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1665,474.7)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1220)</text>
+  <text x="1665" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1665,474.7)" text-rendering="optimizeSpeed" fill="#000000">xvnc (1220)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="1680" y="457.0"/>
   <text x="1680" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1680,474.7)" text-rendering="optimizeSpeed" fill="#000000">emotional-jenkins-plugin (1275)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="1695" y="456.9"/>
@@ -254,9 +254,9 @@
   <rect fill="blue" height="14.5" stroke="black" width="12" x="1905" y="455.2"/>
   <text x="1905" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1905,474.7)" text-rendering="optimizeSpeed" fill="#000000">redmine (1447)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="1920" y="454.9"/>
-  <text x="1920" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1920,474.7)" text-rendering="optimizeSpeed" fill="#000000">text-finder (1482)</text>
+  <text x="1920" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1920,474.7)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1482)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="1935" y="454.9"/>
-  <text x="1935" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1935,474.7)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1482)</text>
+  <text x="1935" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1935,474.7)" text-rendering="optimizeSpeed" fill="#000000">text-finder (1482)</text>
   <rect fill="blue" height="14.9" stroke="black" width="12" x="1950" y="454.8"/>
   <text x="1950" y="474.7" font-family="Tahoma" font-size="12" transform="rotate(90 1950,474.7)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1490)</text>
   <rect fill="blue" height="15.1" stroke="black" width="12" x="1965" y="454.7"/>

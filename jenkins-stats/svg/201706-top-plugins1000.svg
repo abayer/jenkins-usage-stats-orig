@@ -28,9 +28,9 @@
   <rect fill="blue" height="10.6" stroke="black" width="12" x="210" y="1513.1"/>
   <text x="210" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 210,1528.7)" text-rendering="optimizeSpeed" fill="#000000">database-mysql (1058)</text>
   <rect fill="blue" height="10.6" stroke="black" width="12" x="225" y="1513.1"/>
-  <text x="225" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 225,1528.7)" text-rendering="optimizeSpeed" fill="#000000">dockerhub-notification (1063)</text>
+  <text x="225" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 225,1528.7)" text-rendering="optimizeSpeed" fill="#000000">antexec (1063)</text>
   <rect fill="blue" height="10.6" stroke="black" width="12" x="240" y="1513.1"/>
-  <text x="240" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 240,1528.7)" text-rendering="optimizeSpeed" fill="#000000">antexec (1063)</text>
+  <text x="240" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 240,1528.7)" text-rendering="optimizeSpeed" fill="#000000">dockerhub-notification (1063)</text>
   <rect fill="blue" height="10.7" stroke="black" width="12" x="255" y="1513.0"/>
   <text x="255" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 255,1528.7)" text-rendering="optimizeSpeed" fill="#000000">rbenv (1065)</text>
   <rect fill="blue" height="10.7" stroke="black" width="12" x="270" y="1513.0"/>
@@ -110,9 +110,9 @@
   <rect fill="blue" height="12.4" stroke="black" width="12" x="825" y="1511.2"/>
   <text x="825" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 825,1528.7)" text-rendering="optimizeSpeed" fill="#000000">http-post (1243)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="840" y="1511.2"/>
-  <text x="840" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 840,1528.7)" text-rendering="optimizeSpeed" fill="#000000">promoted-builds-simple (1253)</text>
+  <text x="840" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 840,1528.7)" text-rendering="optimizeSpeed" fill="#000000">logstash (1253)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="855" y="1511.2"/>
-  <text x="855" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 855,1528.7)" text-rendering="optimizeSpeed" fill="#000000">logstash (1253)</text>
+  <text x="855" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 855,1528.7)" text-rendering="optimizeSpeed" fill="#000000">promoted-builds-simple (1253)</text>
   <rect fill="blue" height="12.6" stroke="black" width="12" x="870" y="1511.1"/>
   <text x="870" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 870,1528.7)" text-rendering="optimizeSpeed" fill="#000000">openid (1261)</text>
   <rect fill="blue" height="12.7" stroke="black" width="12" x="885" y="1511.0"/>
@@ -200,13 +200,13 @@
   <rect fill="blue" height="15.1" stroke="black" width="12" x="1500" y="1508.6"/>
   <text x="1500" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1500,1528.7)" text-rendering="optimizeSpeed" fill="#000000">progress-bar-column-plugin (1508)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1515" y="1508.5"/>
-  <text x="1515" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1528.7)" text-rendering="optimizeSpeed" fill="#000000">teamconcert (1518)</text>
+  <text x="1515" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1528.7)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1518)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1530" y="1508.5"/>
-  <text x="1530" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1528.7)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1518)</text>
+  <text x="1530" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1528.7)" text-rendering="optimizeSpeed" fill="#000000">teamconcert (1518)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1545" y="1508.5"/>
-  <text x="1545" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1528.7)" text-rendering="optimizeSpeed" fill="#000000">hp-application-automation-tools-plugin (1521)</text>
+  <text x="1545" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1528.7)" text-rendering="optimizeSpeed" fill="#000000">gatling (1521)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1560" y="1508.5"/>
-  <text x="1560" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1560,1528.7)" text-rendering="optimizeSpeed" fill="#000000">gatling (1521)</text>
+  <text x="1560" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1560,1528.7)" text-rendering="optimizeSpeed" fill="#000000">hp-application-automation-tools-plugin (1521)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1575" y="1508.5"/>
   <text x="1575" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1575,1528.7)" text-rendering="optimizeSpeed" fill="#000000">parameterized-scheduler (1523)</text>
   <rect fill="blue" height="15.3" stroke="black" width="12" x="1590" y="1508.4"/>
@@ -224,9 +224,9 @@
   <rect fill="blue" height="15.8" stroke="black" width="12" x="1680" y="1507.9"/>
   <text x="1680" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1680,1528.7)" text-rendering="optimizeSpeed" fill="#000000">project-inheritance (1576)</text>
   <rect fill="blue" height="15.8" stroke="black" width="12" x="1695" y="1507.9"/>
-  <text x="1695" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1695,1528.7)" text-rendering="optimizeSpeed" fill="#000000">valgrind (1579)</text>
+  <text x="1695" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1695,1528.7)" text-rendering="optimizeSpeed" fill="#000000">copy-data-to-workspace-plugin (1579)</text>
   <rect fill="blue" height="15.8" stroke="black" width="12" x="1710" y="1507.9"/>
-  <text x="1710" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1710,1528.7)" text-rendering="optimizeSpeed" fill="#000000">copy-data-to-workspace-plugin (1579)</text>
+  <text x="1710" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1710,1528.7)" text-rendering="optimizeSpeed" fill="#000000">valgrind (1579)</text>
   <rect fill="blue" height="15.9" stroke="black" width="12" x="1725" y="1507.8"/>
   <text x="1725" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 1725,1528.7)" text-rendering="optimizeSpeed" fill="#000000">ownership (1591)</text>
   <rect fill="blue" height="15.9" stroke="black" width="12" x="1740" y="1507.7"/>
@@ -378,9 +378,9 @@
   <rect fill="blue" height="26.8" stroke="black" width="12" x="2835" y="1496.9"/>
   <text x="2835" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 2835,1528.7)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (2680)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="2850" y="1496.8"/>
-  <text x="2850" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 2850,1528.7)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2686)</text>
+  <text x="2850" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 2850,1528.7)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2686)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="2865" y="1496.8"/>
-  <text x="2865" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 2865,1528.7)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2686)</text>
+  <text x="2865" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 2865,1528.7)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2686)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="2880" y="1496.8"/>
   <text x="2880" y="1528.7" font-family="Tahoma" font-size="12" transform="rotate(90 2880,1528.7)" text-rendering="optimizeSpeed" fill="#000000">batch-task (2688)</text>
   <rect fill="blue" height="26.9" stroke="black" width="12" x="2895" y="1496.7"/>

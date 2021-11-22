@@ -4,9 +4,9 @@
   <rect fill="blue" height="0.0" stroke="black" width="12" x="30" y="22331.0"/>
   <text x="30" y="22336.0" font-family="Tahoma" font-size="12" transform="rotate(90 30,22336.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-StoreVersion (1)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="45" y="22331.0"/>
-  <text x="45" y="22336.0" font-family="Tahoma" font-size="12" transform="rotate(90 45,22336.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-PortalNotifier (3)</text>
+  <text x="45" y="22336.0" font-family="Tahoma" font-size="12" transform="rotate(90 45,22336.0)" text-rendering="optimizeSpeed" fill="#000000">com-github-mjdetullio-jenkins-plugins-multibranch-IvyMultiBranchProject (3)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="60" y="22331.0"/>
-  <text x="60" y="22336.0" font-family="Tahoma" font-size="12" transform="rotate(90 60,22336.0)" text-rendering="optimizeSpeed" fill="#000000">com-github-mjdetullio-jenkins-plugins-multibranch-IvyMultiBranchProject (3)</text>
+  <text x="60" y="22336.0" font-family="Tahoma" font-size="12" transform="rotate(90 60,22336.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-jobexecutors-toplevelitems-PortalNotifier (3)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="75" y="22331.0"/>
   <text x="75" y="22336.0" font-family="Tahoma" font-size="12" transform="rotate(90 75,22336.0)" text-rendering="optimizeSpeed" fill="#000000">org-jenkinsci-plugins-pipeline-multibranch-defaults-git-PipelineMultiBranchDefaultsGitProject (4)</text>
   <rect fill="blue" height="0.0" stroke="black" width="12" x="90" y="22331.0"/>

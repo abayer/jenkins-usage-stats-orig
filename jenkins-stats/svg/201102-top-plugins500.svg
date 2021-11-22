@@ -126,9 +126,9 @@
   <rect fill="blue" height="11.3" stroke="black" width="12" x="945" y="253.7"/>
   <text x="945" y="270.0" font-family="Tahoma" font-size="12" transform="rotate(90 945,270.0)" text-rendering="optimizeSpeed" fill="#000000">promoted-builds (1128)</text>
   <rect fill="blue" height="11.6" stroke="black" width="12" x="960" y="253.4"/>
-  <text x="960" y="269.9" font-family="Tahoma" font-size="12" transform="rotate(90 960,269.9)" text-rendering="optimizeSpeed" fill="#000000">ssh (1155)</text>
+  <text x="960" y="269.9" font-family="Tahoma" font-size="12" transform="rotate(90 960,269.9)" text-rendering="optimizeSpeed" fill="#000000">jdepend (1155)</text>
   <rect fill="blue" height="11.6" stroke="black" width="12" x="975" y="253.4"/>
-  <text x="975" y="269.9" font-family="Tahoma" font-size="12" transform="rotate(90 975,269.9)" text-rendering="optimizeSpeed" fill="#000000">jdepend (1155)</text>
+  <text x="975" y="269.9" font-family="Tahoma" font-size="12" transform="rotate(90 975,269.9)" text-rendering="optimizeSpeed" fill="#000000">ssh (1155)</text>
   <rect fill="blue" height="11.6" stroke="black" width="12" x="990" y="253.4"/>
   <text x="990" y="270.0" font-family="Tahoma" font-size="12" transform="rotate(90 990,270.0)" text-rendering="optimizeSpeed" fill="#000000">performance (1159)</text>
   <rect fill="blue" height="11.7" stroke="black" width="12" x="1005" y="253.3"/>

@@ -20,9 +20,9 @@
   <rect fill="blue" height="10.9" stroke="black" width="12" x="150" y="840.9"/>
   <text x="150" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 150,856.8)" text-rendering="optimizeSpeed" fill="#000000">build-with-parameters (1094)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="165" y="840.8"/>
-  <text x="165" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 165,856.8)" text-rendering="optimizeSpeed" fill="#000000">progress-bar-column-plugin (1100)</text>
+  <text x="165" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 165,856.8)" text-rendering="optimizeSpeed" fill="#000000">periodicbackup (1100)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="180" y="840.8"/>
-  <text x="180" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 180,856.8)" text-rendering="optimizeSpeed" fill="#000000">periodicbackup (1100)</text>
+  <text x="180" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 180,856.8)" text-rendering="optimizeSpeed" fill="#000000">progress-bar-column-plugin (1100)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="195" y="840.8"/>
   <text x="195" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 195,856.8)" text-rendering="optimizeSpeed" fill="#000000">build-publisher (1104)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="210" y="840.7"/>
@@ -72,9 +72,9 @@
   <rect fill="blue" height="13.9" stroke="black" width="12" x="540" y="837.9"/>
   <text x="540" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 540,856.8)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (1388)</text>
   <rect fill="blue" height="13.9" stroke="black" width="12" x="555" y="837.9"/>
-  <text x="555" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 555,856.8)" text-rendering="optimizeSpeed" fill="#000000">s3 (1390)</text>
+  <text x="555" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 555,856.8)" text-rendering="optimizeSpeed" fill="#000000">nodejs (1390)</text>
   <rect fill="blue" height="13.9" stroke="black" width="12" x="570" y="837.9"/>
-  <text x="570" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 570,856.8)" text-rendering="optimizeSpeed" fill="#000000">nodejs (1390)</text>
+  <text x="570" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 570,856.8)" text-rendering="optimizeSpeed" fill="#000000">s3 (1390)</text>
   <rect fill="blue" height="13.9" stroke="black" width="12" x="585" y="837.9"/>
   <text x="585" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 585,856.8)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (1392)</text>
   <rect fill="blue" height="14.1" stroke="black" width="12" x="600" y="837.7"/>
@@ -196,9 +196,9 @@
   <rect fill="blue" height="23.3" stroke="black" width="12" x="1470" y="828.5"/>
   <text x="1470" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 1470,856.8)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (2326)</text>
   <rect fill="blue" height="23.4" stroke="black" width="12" x="1485" y="828.4"/>
-  <text x="1485" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 1485,856.8)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2338)</text>
+  <text x="1485" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 1485,856.8)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2338)</text>
   <rect fill="blue" height="23.4" stroke="black" width="12" x="1500" y="828.4"/>
-  <text x="1500" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 1500,856.8)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (2338)</text>
+  <text x="1500" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 1500,856.8)" text-rendering="optimizeSpeed" fill="#000000">jenkinswalldisplay (2338)</text>
   <rect fill="blue" height="23.4" stroke="black" width="12" x="1515" y="828.4"/>
   <text x="1515" y="856.8" font-family="Tahoma" font-size="12" transform="rotate(90 1515,856.8)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (2341)</text>
   <rect fill="blue" height="23.6" stroke="black" width="12" x="1530" y="828.2"/>

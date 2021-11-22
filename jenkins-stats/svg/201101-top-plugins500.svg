@@ -10,9 +10,9 @@
   <rect fill="blue" height="5.1" stroke="black" width="12" x="75" y="260.9"/>
   <text x="75" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 75,271.1)" text-rendering="optimizeSpeed" fill="#000000">cron_column (513)</text>
   <rect fill="blue" height="5.2" stroke="black" width="12" x="90" y="260.9"/>
-  <text x="90" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 90,271.1)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (522)</text>
+  <text x="90" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 90,271.1)" text-rendering="optimizeSpeed" fill="#000000">bugzilla (522)</text>
   <rect fill="blue" height="5.2" stroke="black" width="12" x="105" y="260.9"/>
-  <text x="105" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 105,271.1)" text-rendering="optimizeSpeed" fill="#000000">bugzilla (522)</text>
+  <text x="105" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 105,271.1)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (522)</text>
   <rect fill="blue" height="5.5" stroke="black" width="12" x="120" y="260.6"/>
   <text x="120" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 120,271.1)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (548)</text>
   <rect fill="blue" height="5.8" stroke="black" width="12" x="135" y="260.3"/>
@@ -76,9 +76,9 @@
   <rect fill="blue" height="8.0" stroke="black" width="12" x="570" y="258.1"/>
   <text x="570" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 570,271.1)" text-rendering="optimizeSpeed" fill="#000000">seleniumhq (795)</text>
   <rect fill="blue" height="8.0" stroke="black" width="12" x="585" y="258.1"/>
-  <text x="585" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 585,271.1)" text-rendering="optimizeSpeed" fill="#000000">iphoneview (797)</text>
+  <text x="585" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 585,271.1)" text-rendering="optimizeSpeed" fill="#000000">doxygen (797)</text>
   <rect fill="blue" height="8.0" stroke="black" width="12" x="600" y="258.1"/>
-  <text x="600" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 600,271.1)" text-rendering="optimizeSpeed" fill="#000000">doxygen (797)</text>
+  <text x="600" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 600,271.1)" text-rendering="optimizeSpeed" fill="#000000">iphoneview (797)</text>
   <rect fill="blue" height="8.2" stroke="black" width="12" x="615" y="257.9"/>
   <text x="615" y="271.1" font-family="Tahoma" font-size="12" transform="rotate(90 615,271.1)" text-rendering="optimizeSpeed" fill="#000000">rake (815)</text>
   <rect fill="blue" height="8.2" stroke="black" width="12" x="630" y="257.9"/>

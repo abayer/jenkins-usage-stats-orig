@@ -50,9 +50,9 @@
   <rect fill="blue" height="27.7" stroke="black" width="12" x="375" y="2500.5"/>
   <text x="375" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 375,2533.3)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2772)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="390" y="2500.5"/>
-  <text x="390" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 390,2533.3)" text-rendering="optimizeSpeed" fill="#000000">vstestrunner (2776)</text>
+  <text x="390" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 390,2533.3)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (2776)</text>
   <rect fill="blue" height="27.8" stroke="black" width="12" x="405" y="2500.5"/>
-  <text x="405" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 405,2533.3)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (2776)</text>
+  <text x="405" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 405,2533.3)" text-rendering="optimizeSpeed" fill="#000000">vstestrunner (2776)</text>
   <rect fill="blue" height="28.1" stroke="black" width="12" x="420" y="2500.1"/>
   <text x="420" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 420,2533.3)" text-rendering="optimizeSpeed" fill="#000000">git-tag-message (2815)</text>
   <rect fill="blue" height="28.5" stroke="black" width="12" x="435" y="2499.8"/>
@@ -64,9 +64,9 @@
   <rect fill="blue" height="29.1" stroke="black" width="12" x="480" y="2499.2"/>
   <text x="480" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 480,2533.3)" text-rendering="optimizeSpeed" fill="#000000">prometheus (2909)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="495" y="2499.1"/>
-  <text x="495" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 495,2533.3)" text-rendering="optimizeSpeed" fill="#000000">project-stats-plugin (2913)</text>
+  <text x="495" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 495,2533.3)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2913)</text>
   <rect fill="blue" height="29.1" stroke="black" width="12" x="510" y="2499.1"/>
-  <text x="510" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 510,2533.3)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2913)</text>
+  <text x="510" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 510,2533.3)" text-rendering="optimizeSpeed" fill="#000000">project-stats-plugin (2913)</text>
   <rect fill="blue" height="29.5" stroke="black" width="12" x="525" y="2498.8"/>
   <text x="525" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 525,2533.3)" text-rendering="optimizeSpeed" fill="#000000">docker-custom-build-environment (2949)</text>
   <rect fill="blue" height="29.7" stroke="black" width="12" x="540" y="2498.6"/>
@@ -422,9 +422,9 @@
   <rect fill="blue" height="95.1" stroke="black" width="12" x="3165" y="2433.1"/>
   <text x="3165" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 3165,2533.3)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (9512)</text>
   <rect fill="blue" height="97.6" stroke="black" width="12" x="3180" y="2430.6"/>
-  <text x="3180" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 3180,2533.3)" text-rendering="optimizeSpeed" fill="#000000">docker-build-step (9762)</text>
+  <text x="3180" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 3180,2533.3)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (9762)</text>
   <rect fill="blue" height="97.6" stroke="black" width="12" x="3195" y="2430.6"/>
-  <text x="3195" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 3195,2533.3)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (9762)</text>
+  <text x="3195" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 3195,2533.3)" text-rendering="optimizeSpeed" fill="#000000">docker-build-step (9762)</text>
   <rect fill="blue" height="98.6" stroke="black" width="12" x="3210" y="2429.7"/>
   <text x="3210" y="2533.3" font-family="Tahoma" font-size="12" transform="rotate(90 3210,2533.3)" text-rendering="optimizeSpeed" fill="#000000">build-timestamp (9860)</text>
   <rect fill="blue" height="100.5" stroke="black" width="12" x="3225" y="2427.7"/>

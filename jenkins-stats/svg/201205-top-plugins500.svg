@@ -26,9 +26,9 @@
   <rect fill="blue" height="5.5" stroke="black" width="12" x="195" y="458.8"/>
   <text x="195" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 195,469.2)" text-rendering="optimizeSpeed" fill="#000000">mantis (548)</text>
   <rect fill="blue" height="5.5" stroke="black" width="12" x="210" y="458.8"/>
-  <text x="210" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 210,469.2)" text-rendering="optimizeSpeed" fill="#000000">maven-deployment-linker (549)</text>
+  <text x="210" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 210,469.2)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (549)</text>
   <rect fill="blue" height="5.5" stroke="black" width="12" x="225" y="458.8"/>
-  <text x="225" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 225,469.2)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (549)</text>
+  <text x="225" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 225,469.2)" text-rendering="optimizeSpeed" fill="#000000">maven-deployment-linker (549)</text>
   <rect fill="blue" height="5.5" stroke="black" width="12" x="240" y="458.7"/>
   <text x="240" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 240,469.2)" text-rendering="optimizeSpeed" fill="#000000">tfs (553)</text>
   <rect fill="blue" height="5.6" stroke="black" width="12" x="255" y="458.6"/>
@@ -154,9 +154,9 @@
   <rect fill="blue" height="9.8" stroke="black" width="12" x="1155" y="454.4"/>
   <text x="1155" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1155,469.2)" text-rendering="optimizeSpeed" fill="#000000">changelog-history (985)</text>
   <rect fill="blue" height="9.9" stroke="black" width="12" x="1170" y="454.4"/>
-  <text x="1170" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1170,469.2)" text-rendering="optimizeSpeed" fill="#000000">rebuild (987)</text>
+  <text x="1170" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1170,469.2)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (987)</text>
   <rect fill="blue" height="9.9" stroke="black" width="12" x="1185" y="454.4"/>
-  <text x="1185" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1185,469.2)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (987)</text>
+  <text x="1185" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1185,469.2)" text-rendering="optimizeSpeed" fill="#000000">rebuild (987)</text>
   <rect fill="blue" height="10.2" stroke="black" width="12" x="1200" y="454.0"/>
   <text x="1200" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1200,469.2)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1020)</text>
   <rect fill="blue" height="10.3" stroke="black" width="12" x="1215" y="454.0"/>
@@ -246,9 +246,9 @@
   <rect fill="blue" height="14.8" stroke="black" width="12" x="1845" y="449.5"/>
   <text x="1845" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1845,469.2)" text-rendering="optimizeSpeed" fill="#000000">text-finder (1475)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="1860" y="449.4"/>
-  <text x="1860" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1860,469.2)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1481)</text>
+  <text x="1860" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1860,469.2)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1481)</text>
   <rect fill="blue" height="14.8" stroke="black" width="12" x="1875" y="449.4"/>
-  <text x="1875" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1875,469.2)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1481)</text>
+  <text x="1875" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1875,469.2)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (1481)</text>
   <rect fill="blue" height="15.0" stroke="black" width="12" x="1890" y="449.2"/>
   <text x="1890" y="469.2" font-family="Tahoma" font-size="12" transform="rotate(90 1890,469.2)" text-rendering="optimizeSpeed" fill="#000000">versionnumber (1504)</text>
   <rect fill="blue" height="15.2" stroke="black" width="12" x="1905" y="449.0"/>

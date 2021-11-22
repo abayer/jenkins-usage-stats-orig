@@ -64,9 +64,9 @@
   <rect fill="blue" height="29.9" stroke="black" width="12" x="480" y="2500.8"/>
   <text x="480" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 480,2535.7)" text-rendering="optimizeSpeed" fill="#000000">ez-templates (2985)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="495" y="2500.7"/>
-  <text x="495" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 495,2535.7)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (2995)</text>
+  <text x="495" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 495,2535.7)" text-rendering="optimizeSpeed" fill="#000000">project-stats-plugin (2995)</text>
   <rect fill="blue" height="29.9" stroke="black" width="12" x="510" y="2500.7"/>
-  <text x="510" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 510,2535.7)" text-rendering="optimizeSpeed" fill="#000000">project-stats-plugin (2995)</text>
+  <text x="510" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 510,2535.7)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (2995)</text>
   <rect fill="blue" height="30.2" stroke="black" width="12" x="525" y="2500.5"/>
   <text x="525" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 525,2535.7)" text-rendering="optimizeSpeed" fill="#000000">support-core (3018)</text>
   <rect fill="blue" height="30.2" stroke="black" width="12" x="540" y="2500.5"/>
@@ -90,9 +90,9 @@
   <rect fill="blue" height="31.0" stroke="black" width="12" x="675" y="2499.7"/>
   <text x="675" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 675,2535.7)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (3098)</text>
   <rect fill="blue" height="31.2" stroke="black" width="12" x="690" y="2499.5"/>
-  <text x="690" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 690,2535.7)" text-rendering="optimizeSpeed" fill="#000000">purge-job-history (3121)</text>
+  <text x="690" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 690,2535.7)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (3121)</text>
   <rect fill="blue" height="31.2" stroke="black" width="12" x="705" y="2499.5"/>
-  <text x="705" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 705,2535.7)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (3121)</text>
+  <text x="705" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 705,2535.7)" text-rendering="optimizeSpeed" fill="#000000">purge-job-history (3121)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="720" y="2499.2"/>
   <text x="720" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 720,2535.7)" text-rendering="optimizeSpeed" fill="#000000">jira-steps (3146)</text>
   <rect fill="blue" height="31.5" stroke="black" width="12" x="735" y="2499.2"/>
@@ -166,9 +166,9 @@
   <rect fill="blue" height="39.8" stroke="black" width="12" x="1245" y="2490.9"/>
   <text x="1245" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 1245,2535.7)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (3980)</text>
   <rect fill="blue" height="40.1" stroke="black" width="12" x="1260" y="2490.6"/>
-  <text x="1260" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 1260,2535.7)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (4009)</text>
+  <text x="1260" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 1260,2535.7)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (4009)</text>
   <rect fill="blue" height="40.1" stroke="black" width="12" x="1275" y="2490.6"/>
-  <text x="1275" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 1275,2535.7)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (4009)</text>
+  <text x="1275" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 1275,2535.7)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (4009)</text>
   <rect fill="blue" height="40.3" stroke="black" width="12" x="1290" y="2490.4"/>
   <text x="1290" y="2535.7" font-family="Tahoma" font-size="12" transform="rotate(90 1290,2535.7)" text-rendering="optimizeSpeed" fill="#000000">environment-script (4031)</text>
   <rect fill="blue" height="41.3" stroke="black" width="12" x="1305" y="2489.4"/>

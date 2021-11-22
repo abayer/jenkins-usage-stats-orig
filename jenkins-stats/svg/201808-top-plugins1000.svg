@@ -28,25 +28,25 @@
   <rect fill="blue" height="10.7" stroke="black" width="12" x="210" y="1841.4"/>
   <text x="210" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 210,1857.1)" text-rendering="optimizeSpeed" fill="#000000">nodenamecolumn (1065)</text>
   <rect fill="blue" height="10.7" stroke="black" width="12" x="225" y="1841.4"/>
-  <text x="225" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 225,1857.1)" text-rendering="optimizeSpeed" fill="#000000">prometheus (1070)</text>
+  <text x="225" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 225,1857.1)" text-rendering="optimizeSpeed" fill="#000000">cloudfoundry (1070)</text>
   <rect fill="blue" height="10.7" stroke="black" width="12" x="240" y="1841.4"/>
-  <text x="240" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 240,1857.1)" text-rendering="optimizeSpeed" fill="#000000">cloudfoundry (1070)</text>
+  <text x="240" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 240,1857.1)" text-rendering="optimizeSpeed" fill="#000000">prometheus (1070)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="255" y="1841.3"/>
   <text x="255" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 255,1857.1)" text-rendering="optimizeSpeed" fill="#000000">date-parameter (1076)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="270" y="1841.3"/>
   <text x="270" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 270,1857.1)" text-rendering="optimizeSpeed" fill="#000000">report-info (1080)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="285" y="1841.3"/>
-  <text x="285" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 285,1857.1)" text-rendering="optimizeSpeed" fill="#000000">sqlplus-script-runner (1082)</text>
+  <text x="285" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 285,1857.1)" text-rendering="optimizeSpeed" fill="#000000">hashicorp-vault-plugin (1082)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="300" y="1841.3"/>
-  <text x="300" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 300,1857.1)" text-rendering="optimizeSpeed" fill="#000000">hashicorp-vault-plugin (1082)</text>
+  <text x="300" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 300,1857.1)" text-rendering="optimizeSpeed" fill="#000000">sqlplus-script-runner (1082)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="315" y="1841.3"/>
   <text x="315" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 315,1857.1)" text-rendering="optimizeSpeed" fill="#000000">read-only-configurations (1083)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="330" y="1841.2"/>
   <text x="330" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 330,1857.1)" text-rendering="optimizeSpeed" fill="#000000">antexec (1084)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="345" y="1841.1"/>
-  <text x="345" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 345,1857.1)" text-rendering="optimizeSpeed" fill="#000000">mesos (1102)</text>
+  <text x="345" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 345,1857.1)" text-rendering="optimizeSpeed" fill="#000000">aws-codepipeline (1102)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="360" y="1841.1"/>
-  <text x="360" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 360,1857.1)" text-rendering="optimizeSpeed" fill="#000000">aws-codepipeline (1102)</text>
+  <text x="360" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 360,1857.1)" text-rendering="optimizeSpeed" fill="#000000">mesos (1102)</text>
   <rect fill="blue" height="11.0" stroke="black" width="12" x="375" y="1841.0"/>
   <text x="375" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 375,1857.1)" text-rendering="optimizeSpeed" fill="#000000">nvm-wrapper (1104)</text>
   <rect fill="blue" height="11.1" stroke="black" width="12" x="390" y="1841.0"/>
@@ -106,19 +106,19 @@
   <rect fill="blue" height="12.2" stroke="black" width="12" x="795" y="1839.9"/>
   <text x="795" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 795,1857.1)" text-rendering="optimizeSpeed" fill="#000000">toolenv (1217)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="810" y="1839.8"/>
-  <text x="810" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 810,1857.1)" text-rendering="optimizeSpeed" fill="#000000">leastload (1225)</text>
+  <text x="810" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 810,1857.1)" text-rendering="optimizeSpeed" fill="#000000">google-metadata-plugin (1225)</text>
   <rect fill="blue" height="12.2" stroke="black" width="12" x="825" y="1839.8"/>
-  <text x="825" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 825,1857.1)" text-rendering="optimizeSpeed" fill="#000000">google-metadata-plugin (1225)</text>
+  <text x="825" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 825,1857.1)" text-rendering="optimizeSpeed" fill="#000000">leastload (1225)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="840" y="1839.8"/>
   <text x="840" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 840,1857.1)" text-rendering="optimizeSpeed" fill="#000000">build-history-metrics-plugin (1228)</text>
   <rect fill="blue" height="12.3" stroke="black" width="12" x="855" y="1839.8"/>
   <text x="855" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 855,1857.1)" text-rendering="optimizeSpeed" fill="#000000">groovy-remote (1229)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="870" y="1839.7"/>
-  <text x="870" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 870,1857.1)" text-rendering="optimizeSpeed" fill="#000000">svnmerge (1236)</text>
+  <text x="870" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 870,1857.1)" text-rendering="optimizeSpeed" fill="#000000">ssh-steps (1236)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="885" y="1839.7"/>
-  <text x="885" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 885,1857.1)" text-rendering="optimizeSpeed" fill="#000000">xshell (1236)</text>
+  <text x="885" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 885,1857.1)" text-rendering="optimizeSpeed" fill="#000000">svnmerge (1236)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="900" y="1839.7"/>
-  <text x="900" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 900,1857.1)" text-rendering="optimizeSpeed" fill="#000000">ssh-steps (1236)</text>
+  <text x="900" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 900,1857.1)" text-rendering="optimizeSpeed" fill="#000000">xshell (1236)</text>
   <rect fill="blue" height="12.4" stroke="black" width="12" x="915" y="1839.7"/>
   <text x="915" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 915,1857.1)" text-rendering="optimizeSpeed" fill="#000000">violation-comments-to-stash (1244)</text>
   <rect fill="blue" height="12.5" stroke="black" width="12" x="930" y="1839.6"/>
@@ -130,9 +130,9 @@
   <rect fill="blue" height="12.8" stroke="black" width="12" x="975" y="1839.3"/>
   <text x="975" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 975,1857.1)" text-rendering="optimizeSpeed" fill="#000000">build-cause-run-condition (1280)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="990" y="1839.3"/>
-  <text x="990" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 990,1857.1)" text-rendering="optimizeSpeed" fill="#000000">svn-revert-plugin (1283)</text>
+  <text x="990" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 990,1857.1)" text-rendering="optimizeSpeed" fill="#000000">crap4j (1283)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="1005" y="1839.3"/>
-  <text x="1005" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1857.1)" text-rendering="optimizeSpeed" fill="#000000">crap4j (1283)</text>
+  <text x="1005" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1005,1857.1)" text-rendering="optimizeSpeed" fill="#000000">svn-revert-plugin (1283)</text>
   <rect fill="blue" height="12.8" stroke="black" width="12" x="1020" y="1839.2"/>
   <text x="1020" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1020,1857.1)" text-rendering="optimizeSpeed" fill="#000000">violation-comments-to-gitlab (1285)</text>
   <rect fill="blue" height="12.9" stroke="black" width="12" x="1035" y="1839.2"/>
@@ -158,9 +158,9 @@
   <rect fill="blue" height="13.6" stroke="black" width="12" x="1185" y="1838.5"/>
   <text x="1185" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1185,1857.1)" text-rendering="optimizeSpeed" fill="#000000">python-wrapper (1359)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="1200" y="1838.3"/>
-  <text x="1200" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1200,1857.1)" text-rendering="optimizeSpeed" fill="#000000">test-stability (1376)</text>
+  <text x="1200" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1200,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jira-ext (1376)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="1215" y="1838.3"/>
-  <text x="1215" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1215,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jira-ext (1376)</text>
+  <text x="1215" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1215,1857.1)" text-rendering="optimizeSpeed" fill="#000000">test-stability (1376)</text>
   <rect fill="blue" height="13.8" stroke="black" width="12" x="1230" y="1838.2"/>
   <text x="1230" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1230,1857.1)" text-rendering="optimizeSpeed" fill="#000000">weblogic-deployer-plugin (1384)</text>
   <rect fill="blue" height="14.0" stroke="black" width="12" x="1245" y="1838.1"/>
@@ -184,9 +184,9 @@
   <rect fill="blue" height="14.4" stroke="black" width="12" x="1380" y="1837.7"/>
   <text x="1380" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1380,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jobcopy-builder (1436)</text>
   <rect fill="blue" height="14.5" stroke="black" width="12" x="1395" y="1837.6"/>
-  <text x="1395" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1395,1857.1)" text-rendering="optimizeSpeed" fill="#000000">vs-code-metrics (1448)</text>
+  <text x="1395" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1395,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jabber (1448)</text>
   <rect fill="blue" height="14.5" stroke="black" width="12" x="1410" y="1837.6"/>
-  <text x="1410" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1410,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jabber (1448)</text>
+  <text x="1410" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1410,1857.1)" text-rendering="optimizeSpeed" fill="#000000">vs-code-metrics (1448)</text>
   <rect fill="blue" height="14.6" stroke="black" width="12" x="1425" y="1837.5"/>
   <text x="1425" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1425,1857.1)" text-rendering="optimizeSpeed" fill="#000000">aws-lambda (1458)</text>
   <rect fill="blue" height="14.6" stroke="black" width="12" x="1440" y="1837.5"/>
@@ -202,9 +202,9 @@
   <rect fill="blue" height="15.6" stroke="black" width="12" x="1515" y="1836.5"/>
   <text x="1515" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1515,1857.1)" text-rendering="optimizeSpeed" fill="#000000">change-assembly-version-plugin (1555)</text>
   <rect fill="blue" height="15.7" stroke="black" width="12" x="1530" y="1836.4"/>
-  <text x="1530" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1857.1)" text-rendering="optimizeSpeed" fill="#000000">mattermost (1565)</text>
+  <text x="1530" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1530,1857.1)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1565)</text>
   <rect fill="blue" height="15.7" stroke="black" width="12" x="1545" y="1836.4"/>
-  <text x="1545" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1857.1)" text-rendering="optimizeSpeed" fill="#000000">Exclusion (1565)</text>
+  <text x="1545" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1545,1857.1)" text-rendering="optimizeSpeed" fill="#000000">mattermost (1565)</text>
   <rect fill="blue" height="15.7" stroke="black" width="12" x="1560" y="1836.3"/>
   <text x="1560" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1560,1857.1)" text-rendering="optimizeSpeed" fill="#000000">html5-notifier-plugin (1574)</text>
   <rect fill="blue" height="15.8" stroke="black" width="12" x="1575" y="1836.3"/>
@@ -252,9 +252,9 @@
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1890" y="1834.7"/>
   <text x="1890" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1890,1857.1)" text-rendering="optimizeSpeed" fill="#000000">stash-pullrequest-builder (1735)</text>
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1905" y="1834.6"/>
-  <text x="1905" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1905,1857.1)" text-rendering="optimizeSpeed" fill="#000000">redmine (1745)</text>
+  <text x="1905" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1905,1857.1)" text-rendering="optimizeSpeed" fill="#000000">JiraTestResultReporter (1745)</text>
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1920" y="1834.6"/>
-  <text x="1920" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1920,1857.1)" text-rendering="optimizeSpeed" fill="#000000">JiraTestResultReporter (1745)</text>
+  <text x="1920" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1920,1857.1)" text-rendering="optimizeSpeed" fill="#000000">redmine (1745)</text>
   <rect fill="blue" height="17.6" stroke="black" width="12" x="1935" y="1834.5"/>
   <text x="1935" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 1935,1857.1)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1756)</text>
   <rect fill="blue" height="17.7" stroke="black" width="12" x="1950" y="1834.4"/>
@@ -348,9 +348,9 @@
   <rect fill="blue" height="21.1" stroke="black" width="12" x="2610" y="1830.9"/>
   <text x="2610" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 2610,1857.1)" text-rendering="optimizeSpeed" fill="#000000">maven-deployment-linker (2115)</text>
   <rect fill="blue" height="21.2" stroke="black" width="12" x="2625" y="1830.8"/>
-  <text x="2625" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 2625,1857.1)" text-rendering="optimizeSpeed" fill="#000000">support-core (2124)</text>
+  <text x="2625" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 2625,1857.1)" text-rendering="optimizeSpeed" fill="#000000">github-pr-coverage-status (2124)</text>
   <rect fill="blue" height="21.2" stroke="black" width="12" x="2640" y="1830.8"/>
-  <text x="2640" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 2640,1857.1)" text-rendering="optimizeSpeed" fill="#000000">github-pr-coverage-status (2124)</text>
+  <text x="2640" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 2640,1857.1)" text-rendering="optimizeSpeed" fill="#000000">support-core (2124)</text>
   <rect fill="blue" height="21.2" stroke="black" width="12" x="2655" y="1830.8"/>
   <text x="2655" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 2655,1857.1)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (2125)</text>
   <rect fill="blue" height="21.3" stroke="black" width="12" x="2670" y="1830.8"/>
@@ -520,9 +520,9 @@
   <rect fill="blue" height="33.2" stroke="black" width="12" x="3900" y="1818.9"/>
   <text x="3900" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 3900,1857.1)" text-rendering="optimizeSpeed" fill="#000000">environment-script (3319)</text>
   <rect fill="blue" height="33.2" stroke="black" width="12" x="3915" y="1818.9"/>
-  <text x="3915" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 3915,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jdepend (3323)</text>
+  <text x="3915" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 3915,1857.1)" text-rendering="optimizeSpeed" fill="#000000">file-operations (3323)</text>
   <rect fill="blue" height="33.2" stroke="black" width="12" x="3930" y="1818.9"/>
-  <text x="3930" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 3930,1857.1)" text-rendering="optimizeSpeed" fill="#000000">file-operations (3323)</text>
+  <text x="3930" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 3930,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jdepend (3323)</text>
   <rect fill="blue" height="33.4" stroke="black" width="12" x="3945" y="1818.7"/>
   <text x="3945" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 3945,1857.1)" text-rendering="optimizeSpeed" fill="#000000">allure-jenkins-plugin (3343)</text>
   <rect fill="blue" height="33.8" stroke="black" width="12" x="3960" y="1818.3"/>
@@ -602,9 +602,9 @@
   <rect fill="blue" height="42.6" stroke="black" width="12" x="4515" y="1809.5"/>
   <text x="4515" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 4515,1857.1)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (4262)</text>
   <rect fill="blue" height="43.0" stroke="black" width="12" x="4530" y="1809.1"/>
-  <text x="4530" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 4530,1857.1)" text-rendering="optimizeSpeed" fill="#000000">maven-info (4300)</text>
+  <text x="4530" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 4530,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (4300)</text>
   <rect fill="blue" height="43.0" stroke="black" width="12" x="4545" y="1809.1"/>
-  <text x="4545" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 4545,1857.1)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (4300)</text>
+  <text x="4545" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 4545,1857.1)" text-rendering="optimizeSpeed" fill="#000000">maven-info (4300)</text>
   <rect fill="blue" height="43.2" stroke="black" width="12" x="4560" y="1808.9"/>
   <text x="4560" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 4560,1857.1)" text-rendering="optimizeSpeed" fill="#000000">p4 (4321)</text>
   <rect fill="blue" height="43.4" stroke="black" width="12" x="4575" y="1808.7"/>
@@ -844,9 +844,9 @@
   <rect fill="blue" height="161.3" stroke="black" width="12" x="6330" y="1690.8"/>
   <text x="6330" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 6330,1857.1)" text-rendering="optimizeSpeed" fill="#000000">warnings (16129)</text>
   <rect fill="blue" height="162.3" stroke="black" width="12" x="6345" y="1689.8"/>
-  <text x="6345" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 6345,1857.1)" text-rendering="optimizeSpeed" fill="#000000">simple-theme-plugin (16233)</text>
+  <text x="6345" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 6345,1857.1)" text-rendering="optimizeSpeed" fill="#000000">ivy (16233)</text>
   <rect fill="blue" height="162.3" stroke="black" width="12" x="6360" y="1689.8"/>
-  <text x="6360" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 6360,1857.1)" text-rendering="optimizeSpeed" fill="#000000">ivy (16233)</text>
+  <text x="6360" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 6360,1857.1)" text-rendering="optimizeSpeed" fill="#000000">simple-theme-plugin (16233)</text>
   <rect fill="blue" height="167.3" stroke="black" width="12" x="6375" y="1684.8"/>
   <text x="6375" y="1857.1" font-family="Tahoma" font-size="12" transform="rotate(90 6375,1857.1)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk (16728)</text>
   <rect fill="blue" height="168.6" stroke="black" width="12" x="6390" y="1683.5"/>

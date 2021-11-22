@@ -122,9 +122,9 @@
   <rect fill="blue" height="17.6" stroke="black" width="12" x="915" y="468.1"/>
   <text x="915" y="490.6" font-family="Tahoma" font-size="12" transform="rotate(90 915,490.6)" text-rendering="optimizeSpeed" fill="#000000">m2-extra-steps (1755)</text>
   <rect fill="blue" height="17.8" stroke="black" width="12" x="930" y="467.8"/>
-  <text x="930" y="490.6" font-family="Tahoma" font-size="12" transform="rotate(90 930,490.6)" text-rendering="optimizeSpeed" fill="#000000">release (1781)</text>
+  <text x="930" y="490.6" font-family="Tahoma" font-size="12" transform="rotate(90 930,490.6)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (1781)</text>
   <rect fill="blue" height="17.8" stroke="black" width="12" x="945" y="467.8"/>
-  <text x="945" y="490.6" font-family="Tahoma" font-size="12" transform="rotate(90 945,490.6)" text-rendering="optimizeSpeed" fill="#000000">cloverphp (1781)</text>
+  <text x="945" y="490.6" font-family="Tahoma" font-size="12" transform="rotate(90 945,490.6)" text-rendering="optimizeSpeed" fill="#000000">release (1781)</text>
   <rect fill="blue" height="18.0" stroke="black" width="12" x="960" y="467.6"/>
   <text x="960" y="490.6" font-family="Tahoma" font-size="12" transform="rotate(90 960,490.6)" text-rendering="optimizeSpeed" fill="#000000">rake (1804)</text>
   <rect fill="blue" height="18.7" stroke="black" width="12" x="975" y="466.9"/>

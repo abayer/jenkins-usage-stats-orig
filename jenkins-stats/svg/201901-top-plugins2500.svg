@@ -50,9 +50,9 @@
   <rect fill="blue" height="28.2" stroke="black" width="12" x="375" y="2312.6"/>
   <text x="375" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 375,2345.8)" text-rendering="optimizeSpeed" fill="#000000">docker-custom-build-environment (2819)</text>
   <rect fill="blue" height="28.2" stroke="black" width="12" x="390" y="2312.6"/>
-  <text x="390" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 390,2345.8)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2822)</text>
+  <text x="390" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 390,2345.8)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2822)</text>
   <rect fill="blue" height="28.2" stroke="black" width="12" x="405" y="2312.6"/>
-  <text x="405" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 405,2345.8)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (2822)</text>
+  <text x="405" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 405,2345.8)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2822)</text>
   <rect fill="blue" height="28.3" stroke="black" width="12" x="420" y="2312.4"/>
   <text x="420" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 420,2345.8)" text-rendering="optimizeSpeed" fill="#000000">jira-steps (2834)</text>
   <rect fill="blue" height="28.4" stroke="black" width="12" x="435" y="2312.4"/>
@@ -180,9 +180,9 @@
   <rect fill="blue" height="40.2" stroke="black" width="12" x="1350" y="2300.6"/>
   <text x="1350" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 1350,2345.8)" text-rendering="optimizeSpeed" fill="#000000">buildtriggerbadge (4023)</text>
   <rect fill="blue" height="40.3" stroke="black" width="12" x="1365" y="2300.5"/>
-  <text x="1365" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 1365,2345.8)" text-rendering="optimizeSpeed" fill="#000000">notification (4029)</text>
+  <text x="1365" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 1365,2345.8)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecr (4029)</text>
   <rect fill="blue" height="40.3" stroke="black" width="12" x="1380" y="2300.5"/>
-  <text x="1380" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 1380,2345.8)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecr (4029)</text>
+  <text x="1380" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 1380,2345.8)" text-rendering="optimizeSpeed" fill="#000000">notification (4029)</text>
   <rect fill="blue" height="40.5" stroke="black" width="12" x="1395" y="2300.3"/>
   <text x="1395" y="2345.8" font-family="Tahoma" font-size="12" transform="rotate(90 1395,2345.8)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (4046)</text>
   <rect fill="blue" height="40.9" stroke="black" width="12" x="1410" y="2299.9"/>

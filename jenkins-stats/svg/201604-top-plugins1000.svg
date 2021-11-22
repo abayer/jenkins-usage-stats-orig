@@ -20,9 +20,9 @@
   <rect fill="blue" height="10.7" stroke="black" width="12" x="150" y="1251.1"/>
   <text x="150" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 150,1266.8)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (1071)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="165" y="1251.1"/>
-  <text x="165" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 165,1266.8)" text-rendering="optimizeSpeed" fill="#000000">reverse-proxy-auth-plugin (1077)</text>
+  <text x="165" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 165,1266.8)" text-rendering="optimizeSpeed" fill="#000000">built-on-column (1077)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="180" y="1251.1"/>
-  <text x="180" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 180,1266.8)" text-rendering="optimizeSpeed" fill="#000000">built-on-column (1077)</text>
+  <text x="180" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 180,1266.8)" text-rendering="optimizeSpeed" fill="#000000">reverse-proxy-auth-plugin (1077)</text>
   <rect fill="blue" height="10.8" stroke="black" width="12" x="195" y="1251.0"/>
   <text x="195" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 195,1266.8)" text-rendering="optimizeSpeed" fill="#000000">unity3d-plugin (1080)</text>
   <rect fill="blue" height="10.9" stroke="black" width="12" x="210" y="1250.9"/>
@@ -36,9 +36,9 @@
   <rect fill="blue" height="11.2" stroke="black" width="12" x="270" y="1250.6"/>
   <text x="270" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 270,1266.8)" text-rendering="optimizeSpeed" fill="#000000">xshell (1124)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="285" y="1250.6"/>
-  <text x="285" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 285,1266.8)" text-rendering="optimizeSpeed" fill="#000000">prereq-buildstep (1126)</text>
+  <text x="285" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 285,1266.8)" text-rendering="optimizeSpeed" fill="#000000">gitlab-logo (1126)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="300" y="1250.6"/>
-  <text x="300" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 300,1266.8)" text-rendering="optimizeSpeed" fill="#000000">gitlab-logo (1126)</text>
+  <text x="300" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 300,1266.8)" text-rendering="optimizeSpeed" fill="#000000">prereq-buildstep (1126)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="315" y="1250.5"/>
   <text x="315" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 315,1266.8)" text-rendering="optimizeSpeed" fill="#000000">hp-application-automation-tools-plugin (1134)</text>
   <rect fill="blue" height="11.3" stroke="black" width="12" x="330" y="1250.5"/>
@@ -90,9 +90,9 @@
   <rect fill="blue" height="13.1" stroke="black" width="12" x="675" y="1248.8"/>
   <text x="675" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 675,1266.8)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-pullrequest-builder (1305)</text>
   <rect fill="blue" height="13.1" stroke="black" width="12" x="690" y="1248.7"/>
-  <text x="690" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 690,1266.8)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (1309)</text>
+  <text x="690" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 690,1266.8)" text-rendering="optimizeSpeed" fill="#000000">covcomplplot (1309)</text>
   <rect fill="blue" height="13.1" stroke="black" width="12" x="705" y="1248.7"/>
-  <text x="705" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 705,1266.8)" text-rendering="optimizeSpeed" fill="#000000">covcomplplot (1309)</text>
+  <text x="705" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 705,1266.8)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (1309)</text>
   <rect fill="blue" height="13.2" stroke="black" width="12" x="720" y="1248.7"/>
   <text x="720" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 720,1266.8)" text-rendering="optimizeSpeed" fill="#000000">copy-data-to-workspace-plugin (1315)</text>
   <rect fill="blue" height="13.2" stroke="black" width="12" x="735" y="1248.6"/>
@@ -178,9 +178,9 @@
   <rect fill="blue" height="17.3" stroke="black" width="12" x="1335" y="1244.5"/>
   <text x="1335" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 1335,1266.8)" text-rendering="optimizeSpeed" fill="#000000">fail-the-build-plugin (1734)</text>
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1350" y="1244.5"/>
-  <text x="1350" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 1350,1266.8)" text-rendering="optimizeSpeed" fill="#000000">metrics (1735)</text>
+  <text x="1350" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 1350,1266.8)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1735)</text>
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1365" y="1244.5"/>
-  <text x="1365" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 1365,1266.8)" text-rendering="optimizeSpeed" fill="#000000">doclinks (1735)</text>
+  <text x="1365" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 1365,1266.8)" text-rendering="optimizeSpeed" fill="#000000">metrics (1735)</text>
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1380" y="1244.4"/>
   <text x="1380" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 1380,1266.8)" text-rendering="optimizeSpeed" fill="#000000">global-variable-string-parameter (1740)</text>
   <rect fill="blue" height="17.4" stroke="black" width="12" x="1395" y="1244.4"/>
@@ -290,9 +290,9 @@
   <rect fill="blue" height="25.9" stroke="black" width="12" x="2175" y="1236.0"/>
   <text x="2175" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 2175,1266.8)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2587)</text>
   <rect fill="blue" height="26.5" stroke="black" width="12" x="2190" y="1235.3"/>
-  <text x="2190" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 2190,1266.8)" text-rendering="optimizeSpeed" fill="#000000">build-token-root (2649)</text>
+  <text x="2190" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 2190,1266.8)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (2649)</text>
   <rect fill="blue" height="26.5" stroke="black" width="12" x="2205" y="1235.3"/>
-  <text x="2205" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 2205,1266.8)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (2649)</text>
+  <text x="2205" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 2205,1266.8)" text-rendering="optimizeSpeed" fill="#000000">build-token-root (2649)</text>
   <rect fill="blue" height="26.5" stroke="black" width="12" x="2220" y="1235.3"/>
   <text x="2220" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 2220,1266.8)" text-rendering="optimizeSpeed" fill="#000000">buildtriggerbadge (2652)</text>
   <rect fill="blue" height="26.6" stroke="black" width="12" x="2235" y="1235.2"/>
@@ -448,9 +448,9 @@
   <rect fill="blue" height="54.6" stroke="black" width="12" x="3360" y="1207.2"/>
   <text x="3360" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 3360,1266.8)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (5463)</text>
   <rect fill="blue" height="54.8" stroke="black" width="12" x="3375" y="1207.0"/>
-  <text x="3375" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 3375,1266.8)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (5481)</text>
+  <text x="3375" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 3375,1266.8)" text-rendering="optimizeSpeed" fill="#000000">authentication-tokens (5481)</text>
   <rect fill="blue" height="54.8" stroke="black" width="12" x="3390" y="1207.0"/>
-  <text x="3390" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 3390,1266.8)" text-rendering="optimizeSpeed" fill="#000000">authentication-tokens (5481)</text>
+  <text x="3390" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 3390,1266.8)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (5481)</text>
   <rect fill="blue" height="55.3" stroke="black" width="12" x="3405" y="1206.6"/>
   <text x="3405" y="1266.8" font-family="Tahoma" font-size="12" transform="rotate(90 3405,1266.8)" text-rendering="optimizeSpeed" fill="#000000">build-blocker-plugin (5527)</text>
   <rect fill="blue" height="56.1" stroke="black" width="12" x="3420" y="1205.7"/>
